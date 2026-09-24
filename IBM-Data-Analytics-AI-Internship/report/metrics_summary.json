@@ -1,0 +1,135 @@
+{
+  "raw_rows": 2050,
+  "raw_cols": 16,
+  "raw_duplicates": 27,
+  "raw_missing": 100,
+  "missing_by_col": {
+    "study_hours_per_day": 24,
+    "previous_score": 18,
+    "extracurricular_activity": 16,
+    "sleep_hours": 20,
+    "parental_education": 22
+  },
+  "clean_rows": 2023,
+  "clean_cols": 16,
+  "clean_duplicates": 0,
+  "clean_missing": 0,
+  "kpis": {
+    "avg_final_score": 61.404349975284234,
+    "avg_attendance": 67.53321799307959,
+    "avg_study_hours": 3.617993079584775,
+    "high_performing_pct": 7.661888284725656,
+    "high_risk_pct": 17.647058823529413,
+    "avg_assignment_score": 53.588433020266926,
+    "avg_midterm_score": 54.77681660899654,
+    "avg_previous_score": 67.60528917449332
+  },
+  "risk_counts": {
+    "Moderate Risk": 1185,
+    "Low Risk": 481,
+    "High Risk": 357
+  },
+  "risk_pcts": {
+    "Moderate Risk": 58.57637172516065,
+    "Low Risk": 23.776569451309935,
+    "High Risk": 17.647058823529413
+  },
+  "metrics": {
+    "Logistic Regression": {
+      "Accuracy": 0.8222,
+      "Precision": 0.8225,
+      "Recall": 0.8222,
+      "F1-Score": 0.8198,
+      "ROC-AUC": 0.9313
+    },
+    "Random Forest": {
+      "Accuracy": 0.8321,
+      "Precision": 0.8392,
+      "Recall": 0.8321,
+      "F1-Score": 0.8275,
+      "ROC-AUC": 0.9251
+    },
+    "Gradient Boosting": {
+      "Accuracy": 0.7877,
+      "Precision": 0.787,
+      "Recall": 0.7877,
+      "F1-Score": 0.7845,
+      "ROC-AUC": 0.9075
+    }
+  },
+  "best_model": "Random Forest",
+  "confusion_matrix": [
+    [
+      47,
+      25,
+      0
+    ],
+    [
+      7,
+      222,
+      8
+    ],
+    [
+      0,
+      28,
+      68
+    ]
+  ],
+  "confusion_matrix_classes": [
+    "High Risk",
+    "Moderate Risk",
+    "Low Risk"
+  ],
+  "top_features": [
+    {
+      "Feature": "midterm_score",
+      "Importance": 0.1375118787872224,
+      "Std": 0.012326240475834636
+    },
+    {
+      "Feature": "assignment_score",
+      "Importance": 0.11332352020479042,
+      "Std": 0.012879228196838637
+    },
+    {
+      "Feature": "attendance_percentage",
+      "Importance": 0.05465022054919161,
+      "Std": 0.011836784011928133
+    },
+    {
+      "Feature": "study_hours_per_day",
+      "Importance": 0.05114331473570438,
+      "Std": 0.00960882983941975
+    },
+    {
+      "Feature": "previous_score",
+      "Importance": 0.025697194519803214,
+      "Std": 0.006180958077635619
+    },
+    {
+      "Feature": "class_participation",
+      "Importance": 0.01603258133502522,
+      "Std": 0.004951157431849668
+    },
+    {
+      "Feature": "age",
+      "Importance": 0.010281414907341312,
+      "Std": 0.0022944229872286412
+    },
+    {
+      "Feature": "extracurricular_activity",
+      "Importance": 0.0030976141437992987,
+      "Std": 0.003033477985954747
+    },
+    {
+      "Feature": "parental_education",
+      "Importance": 0.00247499025547252,
+      "Std": 0.0023403059034673834
+    },
+    {
+      "Feature": "family_income_category",
+      "Importance": 0.002091467859948537,
+      "Std": 0.0031507523217216395
+    }
+  ]
+}

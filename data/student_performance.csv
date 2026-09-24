@@ -1,0 +1,2051 @@
+student_id,gender,age,study_hours_per_day,attendance_percentage,previous_score,assignment_score,midterm_score,extracurricular_activity,internet_access,sleep_hours,parental_education,family_income_category,class_participation,final_score,academic_risk
+STU2809,Female,22,4.8,68.5,78.8,79.2,75.4,No,Yes,7.8,Master,Low,65.0,79.9,Low Risk
+STU1695,Female,19,4.0,82.1,57.4,51.4,58.8,No,Yes,7.2,Master,Low,64.3,62.2,Moderate Risk
+STU1907,Male,18,1.9,55.7,,48.5,33.3,No,Yes,8.1,Associate,Low,36.1,44.8,High Risk
+STU1545,Male,17,5.1,63.6,76.4,62.1,60.3,Yes,Yes,4.3,High School,Medium,59.8,64.5,Moderate Risk
+STU2848,Female,19,1.3,45.0,68.7,44.1,48.8,No,No,9.0,Bachelor,High,41.5,48.7,Moderate Risk
+STU2567,Male,19,1.1,58.3,54.8,39.8,41.9,Yes,Yes,5.9,Associate,Medium,31.6,45.6,High Risk
+STU2573,Male,18,5.5,74.9,73.8,71.8,69.4,Yes,Yes,6.4,Bachelor,High,64.0,77.4,Low Risk
+STU1945,Female,19,1.7,68.6,70.0,37.2,43.3,Yes,Yes,6.0,Master,Medium,50.6,48.0,High Risk
+STU1819,Female,22,2.4,50.8,60.2,36.6,42.0,Yes,Yes,8.9,High School,High,51.9,43.6,High Risk
+STU1830,Female,21,2.0,58.8,64.4,47.8,47.3,Yes,Yes,8.3,Bachelor,Medium,62.9,67.3,Moderate Risk
+STU2531,Female,20,5.1,73.0,67.5,53.8,58.3,No,Yes,6.9,Master,High,65.9,64.5,Moderate Risk
+STU1979,Male,18,8.0,84.6,63.1,67.6,75.7,No,Yes,6.9,High School,Medium,86.0,85.2,Low Risk
+STU2576,Female,22,3.6,92.8,67.8,48.7,55.2,Yes,Yes,5.7,Bachelor,Low,50.7,73.9,Moderate Risk
+STU1786,Male,17,4.8,93.9,73.1,77.6,66.4,No,Yes,6.1,Bachelor,Low,93.7,72.7,Low Risk
+STU1071,Male,20,2.6,71.8,75.6,62.6,59.3,Yes,No,6.8,High School,Medium,52.6,75.1,Moderate Risk
+STU2007,Male,18,3.5,58.1,63.7,48.6,44.9,No,Yes,5.1,Bachelor,Medium,50.0,52.4,High Risk
+STU1189,Male,20,2.3,68.5,55.5,47.0,46.1,No,Yes,7.8,Bachelor,Medium,47.4,45.6,Moderate Risk
+STU2670,Male,17,3.1,58.3,69.0,55.7,67.6,Yes,Yes,6.8,Doctorate,Medium,66.3,59.8,Moderate Risk
+STU2270,Female,18,2.4,71.0,58.8,44.8,43.3,No,No,6.9,High School,Low,42.0,48.9,Moderate Risk
+STU2305,Male,20,3.1,57.1,60.5,59.0,55.6,No,Yes,7.8,Bachelor,Low,62.7,67.3,Moderate Risk
+STU2321,Female,22,3.9,75.7,67.4,54.7,52.0,No,Yes,7.1,Bachelor,High,58.4,68.2,Moderate Risk
+STU2112,Female,19,3.7,71.7,69.0,42.0,48.1,No,Yes,7.6,Associate,Medium,56.7,55.8,Moderate Risk
+STU2941,Female,22,1.9,76.0,80.5,52.7,59.0,Yes,Yes,,High School,Medium,43.9,56.5,Moderate Risk
+STU2236,Female,19,3.4,82.4,65.5,45.7,62.7,Yes,Yes,6.4,High School,Low,52.8,72.6,Moderate Risk
+STU1600,Female,19,2.2,56.7,65.0,51.8,50.3,Yes,Yes,7.7,Associate,Medium,39.7,47.5,Moderate Risk
+STU1057,Female,18,6.9,66.7,65.8,52.2,57.1,,Yes,7.4,Bachelor,Medium,79.2,64.4,Moderate Risk
+STU2074,Female,21,2.7,68.2,72.6,62.4,62.1,No,No,6.5,Master,Medium,63.2,68.1,Moderate Risk
+STU2264,Female,21,4.3,67.3,70.3,60.6,63.1,No,Yes,7.3,Bachelor,Low,70.6,70.4,Moderate Risk
+STU1766,Male,19,5.0,71.1,68.8,58.9,51.5,Yes,Yes,8.0,High School,Medium,71.9,68.3,Low Risk
+STU3003,Male,17,5.4,85.3,77.2,69.2,63.2,Yes,Yes,6.4,Master,Medium,84.2,79.6,Low Risk
+STU2876,Male,21,0.8,52.4,54.5,36.7,32.9,Yes,No,7.4,Associate,Low,33.7,43.6,High Risk
+STU1583,Male,22,3.7,59.5,66.7,58.0,65.7,Yes,Yes,6.8,Bachelor,Medium,48.8,65.2,Moderate Risk
+STU1713,Female,18,2.0,50.9,72.3,51.7,57.2,Yes,No,6.7,Associate,Medium,43.5,63.7,High Risk
+STU3006,Male,21,3.9,64.5,69.5,60.5,53.5,No,Yes,7.1,High School,Low,49.8,50.3,Moderate Risk
+STU1384,Male,22,2.8,66.1,60.9,35.2,47.4,Yes,Yes,7.0,Master,Low,52.5,45.6,High Risk
+STU2924,Female,22,0.9,52.2,47.9,38.2,43.1,No,No,6.5,Master,Medium,50.1,51.1,High Risk
+STU1213,Male,19,2.4,71.6,61.4,61.5,53.5,Yes,Yes,7.5,Associate,Low,55.9,64.3,Moderate Risk
+STU1383,Male,19,3.4,70.1,88.4,66.7,74.0,Yes,Yes,6.6,Bachelor,Medium,54.0,72.6,Low Risk
+STU1487,Female,20,2.7,45.2,65.3,39.2,38.3,Yes,No,8.3,Bachelor,Low,48.6,46.3,High Risk
+STU2719,Other,20,3.0,66.8,83.3,67.6,74.3,Yes,Yes,6.2,High School,Medium,63.8,66.6,Moderate Risk
+STU1535,Male,17,3.6,73.3,84.6,62.0,59.6,Yes,Yes,7.8,Bachelor,High,67.2,64.4,Moderate Risk
+STU2554,Male,21,1.7,64.5,53.7,28.9,42.1,No,Yes,7.9,Bachelor,Medium,30.1,49.4,High Risk
+STU1125,Female,19,1.4,61.2,68.1,40.8,46.9,No,Yes,8.2,Bachelor,Medium,39.1,42.6,High Risk
+STU1875,Female,22,7.8,92.0,,79.7,80.5,Yes,Yes,5.5,Associate,High,81.1,89.5,Low Risk
+STU1553,Male,19,4.3,65.9,69.2,54.5,51.3,No,Yes,6.2,Associate,Medium,57.0,61.3,Moderate Risk
+STU1030,Female,17,1.4,54.3,62.7,32.2,43.6,No,No,8.1,Associate,High,57.5,52.0,High Risk
+STU2735,Female,20,3.3,68.1,56.8,46.7,43.0,No,Yes,5.4,Bachelor,Medium,63.0,48.8,Moderate Risk
+STU2316,Male,21,3.7,74.7,71.1,62.4,58.4,No,Yes,6.6,Bachelor,High,48.8,67.5,Low Risk
+STU2419,Female,17,1.8,45.4,48.4,30.6,36.1,Yes,Yes,6.7,High School,Low,47.2,41.5,High Risk
+STU2405,Male,17,2.6,70.9,72.4,52.1,54.4,Yes,Yes,6.5,High School,Medium,47.7,59.3,Moderate Risk
+STU1343,Female,20,1.1,66.2,69.4,45.2,56.2,No,Yes,7.7,Associate,Medium,41.9,52.0,Moderate Risk
+STU1308,Female,17,2.4,53.5,68.7,50.0,56.9,No,Yes,7.8,High School,Medium,54.3,54.3,Moderate Risk
+STU2288,Female,17,4.7,60.6,79.0,69.2,59.2,Yes,Yes,5.4,Bachelor,Low,54.3,70.2,Moderate Risk
+STU1773,Female,18,3.7,64.4,65.3,55.5,49.5,No,Yes,7.0,Master,Medium,57.8,59.1,Moderate Risk
+STU2777,Male,20,2.1,51.4,59.5,42.3,45.0,Yes,Yes,7.8,High School,Low,38.9,40.2,High Risk
+STU1112,Female,17,2.3,77.8,50.1,28.6,35.8,No,Yes,5.6,Bachelor,Low,52.7,44.4,High Risk
+STU2918,Male,17,4.2,62.0,51.2,53.4,43.9,Yes,Yes,5.3,Associate,Low,52.1,54.1,Moderate Risk
+STU1716,Male,17,4.7,85.0,74.2,69.7,77.8,Yes,Yes,5.4,High School,Low,60.9,77.1,Low Risk
+STU1986,Male,20,5.4,80.1,72.1,62.4,60.1,Yes,No,6.3,High School,Low,78.0,68.9,Low Risk
+STU2775,Male,19,1.4,62.4,69.3,43.0,44.5,Yes,Yes,7.1,High School,Low,55.7,52.2,Moderate Risk
+STU2044,Male,18,2.4,58.3,53.5,32.9,36.0,No,Yes,6.1,High School,High,68.6,42.8,High Risk
+STU1101,Female,19,2.1,67.4,70.6,36.1,49.2,No,Yes,7.1,High School,High,40.8,49.6,High Risk
+STU1591,Female,20,2.4,68.7,,35.2,34.6,No,Yes,7.1,Master,High,59.6,49.1,High Risk
+STU2058,Female,20,2.5,48.1,53.5,31.4,28.3,No,Yes,4.4,High School,Low,48.3,44.1,High Risk
+STU1290,Male,20,4.5,57.0,77.6,55.6,56.6,Yes,Yes,7.4,Doctorate,Medium,54.3,66.1,Moderate Risk
+STU1611,Female,18,3.5,51.8,63.4,47.4,51.7,Yes,No,5.8,Doctorate,Medium,59.3,47.3,High Risk
+STU2129,Female,17,5.3,75.1,,61.8,70.6,Yes,Yes,8.1,Master,Medium,62.9,73.4,Low Risk
+STU1066,Male,18,3.5,70.3,69.9,58.1,50.9,Yes,Yes,6.5,High School,Medium,58.7,69.4,Moderate Risk
+STU2572,Female,19,5.7,63.9,88.2,78.5,69.8,No,Yes,9.5,High School,High,63.2,75.4,Low Risk
+STU1975,Female,20,2.1,75.6,61.4,58.0,49.2,No,No,7.5,Bachelor,Medium,45.8,53.1,Moderate Risk
+STU1306,Male,17,3.4,57.5,45.9,40.7,33.9,No,Yes,6.0,Bachelor,Low,59.6,47.2,High Risk
+STU2111,Male,19,2.7,64.8,66.6,59.4,56.6,Yes,Yes,7.3,Associate,Medium,53.2,59.9,Moderate Risk
+STU2658,Female,20,1.9,86.0,70.2,58.6,51.5,No,Yes,7.8,Associate,Low,60.6,63.3,Moderate Risk
+STU1129,Female,18,5.5,75.4,80.3,65.1,79.4,Yes,Yes,7.3,Doctorate,Low,51.5,81.0,Low Risk
+STU1708,Male,21,2.8,46.5,59.1,53.7,39.2,Yes,Yes,7.0,High School,Low,57.0,45.6,High Risk
+STU2800,Female,17,1.9,69.0,60.2,55.4,53.0,No,Yes,6.0,Bachelor,High,48.7,58.6,Moderate Risk
+STU2650,Male,19,1.7,54.5,57.4,44.1,44.3,No,Yes,8.1,High School,Low,42.8,43.1,Moderate Risk
+STU1421,Male,17,1.1,68.7,68.1,38.0,52.8,No,Yes,7.2,Associate,High,47.2,56.0,Moderate Risk
+STU2290,Female,18,5.0,67.8,73.6,52.2,55.1,Yes,Yes,5.8,High School,High,73.3,63.9,Moderate Risk
+STU1924,Male,17,4.1,58.1,79.2,54.3,62.4,No,Yes,5.9,Bachelor,Medium,43.5,63.6,Moderate Risk
+STU1415,Male,17,8.0,87.6,77.7,63.2,61.7,No,No,6.8,High School,Low,65.5,84.7,Low Risk
+STU1454,Male,17,0.9,75.8,52.6,35.3,35.6,No,Yes,4.9,Master,Medium,42.5,41.5,Moderate Risk
+STU2533,Male,21,3.6,79.2,66.3,76.8,56.8,No,Yes,6.0,Doctorate,Medium,63.3,66.2,Moderate Risk
+STU2357,Male,18,3.8,64.8,65.3,52.6,59.2,No,No,6.3,High School,High,82.9,69.8,Moderate Risk
+STU1394,Male,17,,63.7,78.5,59.0,68.9,No,Yes,8.2,Bachelor,Medium,67.9,64.7,Moderate Risk
+STU1238,Female,17,1.1,45.0,67.6,35.2,45.4,No,Yes,6.8,High School,Medium,18.5,39.5,Moderate Risk
+STU1211,Male,18,4.6,60.1,63.1,38.1,55.0,Yes,Yes,8.1,Master,High,50.4,59.8,Moderate Risk
+STU1212,Male,18,3.4,73.3,72.4,57.8,58.0,Yes,Yes,6.7,Master,Medium,59.4,63.0,Moderate Risk
+STU1702,Female,20,1.2,56.3,57.2,46.3,50.6,No,Yes,5.6,Bachelor,Medium,32.9,43.5,High Risk
+STU2852,Male,18,1.6,52.1,75.5,37.5,47.4,Yes,Yes,6.9,High School,Medium,39.6,52.4,Moderate Risk
+STU2682,Male,19,5.4,81.7,89.9,65.7,71.7,Yes,Yes,7.3,Master,Medium,69.7,79.5,Low Risk
+STU3012,Female,20,5.6,73.6,75.8,56.3,50.2,Yes,Yes,6.1,Bachelor,Medium,68.0,67.6,Moderate Risk
+STU2608,Male,20,2.1,49.1,56.0,38.5,42.7,Yes,Yes,6.2,Bachelor,High,57.7,44.8,High Risk
+STU2054,Male,18,3.1,62.1,57.2,46.0,37.9,No,Yes,6.8,Bachelor,Medium,41.1,45.7,Moderate Risk
+STU1533,Other,17,5.5,67.1,59.1,55.7,49.4,No,Yes,6.2,Associate,Medium,78.9,72.6,Moderate Risk
+STU2542,Female,18,4.0,55.9,64.2,51.5,33.6,Yes,Yes,7.8,High School,High,53.0,48.8,High Risk
+STU1307,Male,22,4.4,69.5,64.0,67.3,74.6,Yes,No,6.5,Bachelor,Low,45.0,71.3,Low Risk
+STU2897,Male,17,3.8,73.5,68.3,53.2,60.8,Yes,Yes,4.7,Bachelor,Low,48.2,68.3,Moderate Risk
+STU2515,Female,17,2.4,58.1,53.9,27.0,38.5,No,Yes,6.4,Bachelor,Medium,43.8,38.1,High Risk
+STU1809,Female,19,,78.6,57.9,54.0,45.8,Yes,Yes,6.1,High School,High,66.3,52.5,Moderate Risk
+STU1070,Other,21,4.4,76.3,78.0,69.3,55.0,No,Yes,5.7,Bachelor,Medium,61.9,69.8,Low Risk
+STU1221,Male,19,7.7,74.9,83.0,71.7,56.7,Yes,Yes,5.1,Master,Medium,76.3,79.9,Low Risk
+STU2923,Male,17,2.9,74.9,47.4,56.2,48.5,No,No,6.1,Bachelor,Low,78.6,57.4,Moderate Risk
+STU2456,Male,19,5.9,68.4,65.0,59.0,47.6,Yes,Yes,5.5,Associate,Medium,75.2,65.4,Moderate Risk
+STU1472,Male,22,1.5,70.4,57.3,32.4,44.1,No,No,7.6,Bachelor,Medium,49.7,60.6,Moderate Risk
+STU1369,Female,21,4.6,79.3,76.0,59.4,75.8,Yes,Yes,5.8,Master,Low,81.5,84.8,Low Risk
+STU1240,Female,21,4.3,74.0,57.5,65.5,69.8,No,Yes,6.1,Associate,Medium,51.5,82.5,Low Risk
+STU1232,Male,20,5.0,71.6,60.3,65.0,57.7,Yes,Yes,7.9,Bachelor,High,57.8,67.7,Moderate Risk
+STU2285,Female,21,6.5,68.0,76.5,66.6,58.3,Yes,No,5.7,High School,Medium,74.8,72.4,Low Risk
+STU1197,Male,20,3.1,72.1,68.3,58.8,57.0,Yes,Yes,7.3,Associate,Medium,88.1,68.3,Low Risk
+STU1100,Female,17,1.9,66.6,56.5,30.8,53.0,No,Yes,8.0,Bachelor,Medium,40.0,54.6,High Risk
+STU2782,Male,20,2.3,62.7,65.2,39.7,50.5,Yes,Yes,6.1,Associate,Low,59.0,52.8,Moderate Risk
+STU2674,Male,21,1.4,61.6,48.5,38.4,43.1,No,Yes,8.8,Bachelor,Medium,49.0,42.4,High Risk
+STU1747,Female,20,5.8,71.1,70.8,58.7,50.5,No,Yes,7.3,Bachelor,Low,85.1,64.0,Moderate Risk
+STU1367,Male,21,4.1,68.4,85.7,59.4,67.5,No,Yes,5.3,Associate,High,49.0,69.9,Low Risk
+STU1742,Female,19,2.8,63.3,65.4,56.8,52.9,No,Yes,6.6,High School,High,38.0,62.2,Moderate Risk
+STU2493,Female,21,3.3,67.6,63.7,54.1,51.5,Yes,Yes,6.7,Bachelor,Medium,48.2,61.1,Moderate Risk
+STU2630,Female,17,5.1,72.5,85.6,69.2,62.5,No,Yes,7.1,Master,Low,52.4,72.0,Low Risk
+STU1506,Female,22,4.7,77.4,69.4,48.8,69.3,Yes,Yes,7.7,Bachelor,Medium,62.4,67.6,Moderate Risk
+STU2976,Male,19,4.3,62.8,59.8,54.4,54.5,Yes,Yes,5.9,High School,Medium,53.1,63.6,Moderate Risk
+STU1252,Female,19,3.4,81.9,72.2,49.4,55.5,Yes,No,5.2,Master,Medium,57.8,65.1,Moderate Risk
+STU1890,Female,22,6.2,87.4,71.7,70.8,59.4,No,Yes,6.2,Master,Medium,69.3,82.7,Low Risk
+STU2836,Male,22,5.9,68.0,92.1,49.9,54.6,No,Yes,8.1,Bachelor,Low,79.2,73.3,Moderate Risk
+STU1515,Female,18,4.0,62.0,61.0,57.0,56.1,No,Yes,5.8,Associate,High,48.6,58.6,Moderate Risk
+STU2984,Female,21,4.4,76.7,73.1,66.2,60.1,No,Yes,7.9,High School,Medium,84.6,70.2,Low Risk
+STU1638,Female,20,1.8,60.9,49.8,29.7,41.5,Yes,Yes,5.4,Associate,Low,40.0,42.4,High Risk
+STU2104,Male,21,2.4,72.2,78.1,57.5,66.7,Yes,Yes,4.6,High School,Medium,45.7,56.7,Moderate Risk
+STU2717,Female,17,2.5,71.9,69.2,54.6,59.0,No,Yes,9.2,Bachelor,High,38.9,57.0,Moderate Risk
+STU1926,Female,19,2.9,52.6,51.8,40.6,50.2,No,Yes,6.4,Bachelor,Low,50.4,42.8,High Risk
+STU2724,Female,18,3.6,63.9,71.9,43.9,49.0,No,Yes,8.3,Associate,High,57.5,53.7,Moderate Risk
+STU2158,Male,21,8.0,84.4,73.1,64.0,48.9,Yes,Yes,6.0,High School,Low,55.5,78.1,Low Risk
+STU2527,Female,21,1.3,65.9,66.0,32.9,50.8,Yes,Yes,5.8,High School,Low,37.7,46.5,High Risk
+STU2462,Male,21,1.1,58.6,51.9,30.4,37.1,Yes,Yes,8.0,High School,Low,43.9,36.7,High Risk
+STU1539,Female,22,0.8,45.0,48.4,27.0,27.4,Yes,Yes,7.7,High School,High,51.6,23.1,High Risk
+STU2037,Female,17,3.4,55.8,80.0,55.1,65.7,,Yes,6.3,Bachelor,High,53.0,70.0,Moderate Risk
+STU1793,Male,21,4.6,71.5,65.8,55.6,58.4,No,Yes,7.2,High School,High,42.7,62.4,Low Risk
+STU2910,Female,17,1.2,65.5,66.5,40.5,44.5,No,Yes,6.6,Associate,Low,50.0,54.5,Moderate Risk
+STU1837,Male,22,5.6,84.6,63.7,55.2,61.0,No,Yes,8.2,Master,Low,78.2,70.4,Low Risk
+STU2069,Female,21,3.3,64.0,56.2,39.2,47.5,Yes,Yes,8.1,Bachelor,Medium,56.9,45.3,Moderate Risk
+STU1486,Male,20,6.1,73.5,61.4,72.3,58.9,Yes,No,7.4,Bachelor,Low,53.0,76.9,Moderate Risk
+STU2992,Female,22,2.6,62.8,57.1,39.9,54.7,Yes,Yes,8.0,Bachelor,Low,58.7,56.3,Moderate Risk
+STU1496,Female,17,2.8,70.6,74.1,54.4,57.7,Yes,Yes,8.4,Associate,Medium,51.8,65.1,Moderate Risk
+STU2363,Male,19,1.9,62.4,48.8,38.4,42.6,No,Yes,7.5,Bachelor,Low,29.8,48.1,High Risk
+STU2605,Female,19,1.9,58.1,58.2,32.0,41.9,Yes,Yes,6.0,Bachelor,High,32.9,46.1,High Risk
+STU2433,Female,17,1.3,59.4,55.4,31.0,37.8,No,No,6.3,Bachelor,Medium,47.2,35.1,High Risk
+STU1655,Female,18,6.2,66.0,74.9,59.8,65.3,No,Yes,6.1,Bachelor,High,79.3,74.9,Low Risk
+STU1860,Female,20,2.7,59.9,54.3,34.7,34.4,No,Yes,4.7,Bachelor,High,57.1,49.0,High Risk
+STU2513,Male,17,,55.8,67.5,41.0,35.1,No,Yes,7.7,High School,Low,60.1,36.9,High Risk
+STU2491,Female,19,5.4,85.1,85.7,68.1,61.9,Yes,Yes,5.8,Bachelor,Medium,70.6,78.0,Moderate Risk
+STU2716,Other,17,4.8,81.0,65.3,71.6,65.0,Yes,Yes,6.3,Bachelor,Low,89.3,76.6,Low Risk
+STU1434,Female,22,2.8,68.0,62.0,41.0,46.7,No,Yes,6.8,Bachelor,Medium,70.8,60.3,Moderate Risk
+STU1375,Female,19,2.9,72.9,72.2,43.4,35.8,No,Yes,6.9,Bachelor,Medium,59.4,50.8,Moderate Risk
+STU2055,Other,20,2.4,50.5,62.0,51.3,63.6,No,Yes,7.1,Bachelor,Low,46.4,55.7,Moderate Risk
+STU1711,Male,17,4.8,65.6,76.9,51.7,61.0,No,Yes,6.3,Associate,Low,75.1,69.7,Moderate Risk
+STU1922,Female,18,3.3,49.5,73.3,41.5,58.3,No,Yes,5.7,Bachelor,Low,66.0,52.2,Moderate Risk
+STU1775,Male,19,2.7,68.7,55.1,59.1,50.8,No,Yes,8.4,Bachelor,Medium,58.4,64.2,Moderate Risk
+STU2802,Male,21,5.1,79.2,71.5,60.3,58.6,No,Yes,6.2,Doctorate,Medium,82.8,65.8,Low Risk
+STU2030,Male,18,2.1,63.8,81.3,53.5,42.6,No,Yes,7.4,Bachelor,High,40.9,55.6,High Risk
+STU2828,Male,21,1.4,56.0,66.8,44.9,44.2,No,Yes,4.6,,Medium,62.9,45.8,High Risk
+STU2626,Male,22,3.0,56.6,58.9,52.0,52.4,No,Yes,6.1,,Medium,42.6,58.2,Moderate Risk
+STU1417,Female,21,4.0,94.7,67.8,61.3,58.1,Yes,No,8.1,Master,Medium,71.8,73.8,Moderate Risk
+STU2595,Male,18,3.0,84.2,68.4,55.6,54.0,No,Yes,5.4,Associate,High,60.0,62.9,Moderate Risk
+STU2178,Female,20,1.2,69.0,57.4,38.0,49.9,No,Yes,9.9,Doctorate,High,55.5,52.9,Moderate Risk
+STU2553,Male,18,8.0,93.7,77.7,73.1,59.3,Yes,Yes,8.0,High School,Low,58.7,75.2,Low Risk
+STU2453,Male,19,3.1,68.3,63.5,42.0,54.7,No,Yes,7.2,Associate,Medium,52.9,57.7,Moderate Risk
+STU1116,Male,17,2.7,75.0,75.4,47.6,53.1,Yes,Yes,5.1,Associate,Low,49.9,61.8,Moderate Risk
+STU1325,Male,18,5.6,67.7,62.2,49.3,48.5,No,Yes,7.5,High School,Low,59.8,61.0,Moderate Risk
+STU1584,Female,19,0.9,66.6,47.1,42.9,36.6,No,No,7.4,Bachelor,Medium,61.8,42.8,High Risk
+STU1439,Male,17,1.8,64.6,66.8,31.4,45.4,Yes,Yes,5.6,Bachelor,High,43.5,48.6,Moderate Risk
+STU1299,Male,19,4.4,58.5,72.1,45.0,57.7,Yes,Yes,7.7,Bachelor,Medium,63.5,58.0,Moderate Risk
+STU2710,Male,18,8.0,85.5,76.3,82.7,75.0,Yes,Yes,8.4,Master,Medium,83.0,81.4,Low Risk
+STU2404,Male,17,3.3,62.8,56.5,47.4,36.5,No,Yes,5.2,High School,Medium,57.2,44.1,Moderate Risk
+STU1586,Female,17,2.0,62.6,57.0,49.0,45.0,Yes,Yes,5.9,High School,Low,72.4,54.0,High Risk
+STU1353,Male,20,2.1,65.3,65.4,52.5,53.4,Yes,Yes,6.1,Bachelor,Low,50.8,58.4,Moderate Risk
+STU2847,Female,20,1.4,53.7,53.0,44.8,37.7,Yes,No,7.8,High School,High,52.6,40.0,High Risk
+STU1544,Male,21,6.0,63.1,79.2,65.7,44.0,Yes,Yes,6.8,Bachelor,High,58.8,61.3,Moderate Risk
+STU1508,Male,17,2.2,51.7,39.0,46.1,53.5,No,Yes,5.5,Associate,Low,48.2,54.0,High Risk
+STU1555,Male,20,1.9,71.3,60.4,37.6,51.8,No,Yes,6.5,Master,Medium,61.0,56.8,Moderate Risk
+STU2740,Female,20,1.8,60.5,62.5,56.4,46.6,Yes,Yes,6.7,Doctorate,Low,32.6,55.4,Moderate Risk
+STU2291,Female,21,4.7,67.1,56.5,33.1,39.1,No,Yes,6.4,High School,High,69.7,56.8,Moderate Risk
+STU2531,Female,20,5.1,73.0,67.5,53.8,58.3,No,Yes,6.9,Master,High,65.9,64.5,Moderate Risk
+STU2618,Male,19,2.9,69.1,69.4,50.1,52.2,No,Yes,6.2,Associate,Medium,69.2,61.1,Moderate Risk
+STU1121,Male,20,3.1,56.0,60.6,45.1,61.8,Yes,Yes,6.9,High School,Medium,62.2,54.6,Moderate Risk
+STU2382,Female,22,2.6,46.3,67.5,51.2,59.3,No,No,8.6,High School,Medium,50.2,62.1,Moderate Risk
+STU1368,Male,22,5.8,80.0,88.5,73.1,76.2,No,Yes,7.4,Master,Low,66.5,75.3,Low Risk
+STU2005,Male,20,4.7,88.5,83.3,63.9,62.9,No,Yes,5.3,Bachelor,Low,88.5,67.8,Low Risk
+STU1248,Male,20,3.3,61.3,69.8,54.7,47.8,No,Yes,6.8,Bachelor,High,47.0,60.6,Moderate Risk
+STU2494,Female,22,2.7,60.2,65.1,44.3,43.3,Yes,No,7.3,Master,Low,46.2,51.0,High Risk
+STU1562,Female,22,2.0,48.7,46.5,30.7,27.6,No,Yes,5.4,Doctorate,Medium,37.5,37.5,High Risk
+STU1136,Female,20,0.7,64.1,62.9,42.2,55.2,No,Yes,6.3,Associate,Low,34.1,41.9,High Risk
+STU2306,Male,18,2.9,81.5,73.5,45.9,53.1,Yes,Yes,7.3,Bachelor,Medium,70.7,61.3,Moderate Risk
+STU1983,Female,19,1.9,47.1,49.2,37.3,39.7,Yes,Yes,7.5,Doctorate,Low,40.6,35.4,High Risk
+STU2107,Female,21,2.8,77.3,85.7,68.5,69.1,No,Yes,7.2,Bachelor,High,74.4,67.9,Low Risk
+STU1362,Male,22,4.6,84.2,83.5,64.0,63.1,No,Yes,7.3,Associate,High,72.1,72.4,Low Risk
+STU2311,Female,18,,52.7,57.3,46.1,42.2,Yes,Yes,7.5,High School,Low,59.3,38.4,High Risk
+STU1756,Male,19,3.1,60.5,62.6,50.2,46.3,No,Yes,6.5,Master,Medium,51.9,52.1,Moderate Risk
+STU2118,Male,20,3.0,66.4,64.2,41.4,40.9,No,Yes,7.3,Bachelor,High,49.5,54.3,Moderate Risk
+STU2870,Male,18,4.8,55.1,73.2,62.5,63.6,No,No,8.4,High School,Low,37.8,60.8,Moderate Risk
+STU1110,Female,20,1.7,55.8,55.1,31.7,24.0,Yes,No,5.8,Associate,High,38.6,40.6,High Risk
+STU1382,Male,21,3.5,56.8,83.9,56.2,44.1,Yes,Yes,7.4,Bachelor,Medium,49.8,58.8,Moderate Risk
+STU2512,Male,22,6.5,79.3,66.3,53.4,56.2,No,Yes,6.4,Bachelor,Medium,54.5,68.2,Moderate Risk
+STU2274,Female,17,2.3,60.3,61.7,50.6,45.7,No,Yes,7.0,Associate,Medium,45.5,54.6,Moderate Risk
+STU2381,Female,19,4.8,65.0,73.4,58.9,61.2,Yes,Yes,6.9,Bachelor,Medium,71.0,71.0,Moderate Risk
+STU2867,Female,19,1.9,63.0,61.2,49.0,48.6,No,Yes,6.0,Associate,Medium,63.5,51.2,High Risk
+STU1680,Male,19,3.5,65.5,66.9,50.6,53.0,Yes,Yes,7.1,Master,Medium,55.9,60.0,Moderate Risk
+STU2238,Female,21,2.1,74.4,60.9,39.3,51.3,Yes,No,7.7,Bachelor,Medium,43.1,58.1,Moderate Risk
+STU2584,Male,19,4.7,63.5,69.8,51.9,52.4,No,Yes,,High School,Medium,42.2,61.0,Moderate Risk
+STU2770,Female,21,5.2,73.9,75.6,72.0,75.5,No,Yes,6.0,,Medium,67.3,88.6,Low Risk
+STU2165,Female,18,1.5,59.4,51.3,48.3,46.9,Yes,Yes,6.7,High School,Medium,54.9,51.3,High Risk
+STU1889,Female,22,4.5,59.8,69.0,50.4,54.4,No,Yes,5.5,High School,Medium,60.5,60.2,Moderate Risk
+STU2544,Female,17,3.8,73.5,69.0,60.3,47.9,Yes,Yes,6.2,Master,High,76.5,64.3,Low Risk
+STU1788,Female,17,1.4,55.6,50.4,35.4,45.6,No,Yes,8.0,High School,Medium,30.7,43.8,Moderate Risk
+STU2191,Female,19,5.2,78.3,64.9,68.3,51.7,No,Yes,8.3,Doctorate,Low,79.5,69.5,Moderate Risk
+STU2367,Male,20,1.7,69.2,65.6,50.8,53.7,Yes,Yes,7.9,Bachelor,Medium,58.6,61.8,Moderate Risk
+STU2346,Female,21,5.6,75.4,75.0,64.1,62.3,Yes,Yes,6.4,Associate,Low,71.9,85.4,Low Risk
+STU3015,Male,21,3.2,65.5,66.6,47.5,52.1,Yes,Yes,6.2,Bachelor,Low,41.3,58.4,Moderate Risk
+STU2079,Female,20,3.3,70.5,75.1,48.3,57.5,No,Yes,6.3,Bachelor,Medium,48.2,53.5,Moderate Risk
+STU1693,Male,20,5.6,73.4,90.5,65.0,64.8,Yes,Yes,6.7,Bachelor,Low,68.4,70.5,Moderate Risk
+STU1234,Male,17,7.8,80.8,84.7,76.5,70.4,No,Yes,6.6,Master,Medium,69.9,77.9,Low Risk
+STU2092,Male,22,4.4,66.0,82.9,54.0,61.0,No,Yes,5.4,Bachelor,Medium,46.6,62.6,Low Risk
+STU2610,Male,21,5.0,67.5,68.3,60.9,55.9,Yes,Yes,7.9,Bachelor,Medium,47.4,71.1,Low Risk
+STU1915,Male,17,3.4,68.5,82.1,72.6,64.7,No,Yes,6.7,High School,Medium,39.5,67.4,Low Risk
+STU2275,Female,18,4.8,93.9,80.1,52.8,75.4,No,Yes,5.5,Doctorate,High,87.7,80.2,Low Risk
+STU1481,Male,17,,92.4,50.1,56.6,59.4,Yes,Yes,7.6,Associate,Medium,76.0,69.3,Low Risk
+STU1520,Female,18,5.1,70.7,82.7,68.5,62.2,No,Yes,7.0,Bachelor,Medium,65.3,72.9,Low Risk
+STU2793,Male,21,2.5,84.0,53.7,34.2,45.0,No,Yes,6.3,Bachelor,Medium,41.0,60.0,Moderate Risk
+STU2304,Male,21,8.0,78.3,74.5,81.9,77.2,No,Yes,7.1,Associate,Medium,56.5,88.3,Low Risk
+STU2606,Male,20,2.5,60.5,81.5,52.1,42.5,No,Yes,7.4,Bachelor,Low,57.8,54.1,Moderate Risk
+STU2209,Female,17,2.2,85.1,72.3,49.9,57.7,No,Yes,6.0,Bachelor,High,64.2,61.1,Moderate Risk
+STU1584,Female,19,0.9,66.6,47.1,42.9,36.6,No,No,,Bachelor,Medium,61.8,42.8,High Risk
+STU2754,Female,20,3.7,62.8,63.3,45.9,54.7,Yes,Yes,5.5,Bachelor,Low,45.1,55.7,Moderate Risk
+STU1255,Female,18,2.8,59.5,52.1,42.7,41.2,No,Yes,7.0,Bachelor,High,62.4,51.2,Moderate Risk
+STU1536,Male,22,2.4,59.0,54.9,40.1,36.9,Yes,No,7.4,High School,Medium,42.4,47.8,High Risk
+STU1451,Male,21,1.7,69.9,57.9,52.8,44.3,No,Yes,7.9,Bachelor,High,29.5,50.8,High Risk
+STU1050,Female,18,,78.2,70.5,86.1,68.4,No,Yes,7.9,Master,Medium,67.9,83.2,Low Risk
+STU2426,Male,22,5.9,78.9,70.4,66.2,69.5,No,Yes,6.2,Bachelor,High,62.6,72.1,Low Risk
+STU2492,Female,17,8.0,89.7,92.5,82.7,85.1,No,Yes,5.1,High School,Medium,93.8,85.1,Low Risk
+STU2369,Female,19,4.1,61.2,56.5,40.2,60.7,Yes,Yes,7.2,Bachelor,Low,64.3,51.2,Moderate Risk
+STU1758,Male,21,6.3,81.2,82.1,73.3,56.6,No,Yes,5.5,Associate,High,73.1,72.9,Low Risk
+STU1737,Female,21,7.1,94.0,85.0,76.0,81.4,No,Yes,6.9,Doctorate,Low,82.7,92.5,Low Risk
+STU2139,Female,21,4.1,59.3,81.7,48.4,58.8,Yes,Yes,7.7,Bachelor,Low,44.3,61.4,Moderate Risk
+STU2511,Male,17,3.2,68.6,62.1,54.4,47.0,No,Yes,7.1,Bachelor,Medium,57.4,58.9,Moderate Risk
+STU2878,Male,17,4.1,57.3,67.8,54.2,43.3,Yes,Yes,6.7,Associate,Medium,64.0,52.2,Moderate Risk
+STU1174,Female,19,2.8,57.8,69.5,39.3,44.6,No,Yes,7.0,High School,Low,54.0,48.4,Moderate Risk
+STU1866,Male,20,6.1,73.1,62.2,55.2,51.2,No,Yes,7.7,,High,84.1,66.9,Moderate Risk
+STU2170,Female,17,0.7,49.2,52.0,28.3,23.5,No,Yes,8.2,High School,Low,21.6,39.2,High Risk
+STU1765,Female,19,4.6,87.8,82.6,61.4,64.7,No,Yes,7.4,Associate,High,79.7,67.0,Low Risk
+STU2765,Female,21,1.0,59.1,57.6,34.0,46.3,No,Yes,5.7,Master,Medium,41.2,47.0,High Risk
+STU2722,Female,21,6.5,80.3,85.8,76.8,79.4,No,Yes,6.5,Master,Medium,59.1,84.8,Low Risk
+STU2371,Male,17,1.8,74.6,47.7,41.9,48.4,No,Yes,5.7,Associate,Low,59.6,47.6,High Risk
+STU1746,Male,17,5.3,71.6,66.8,58.8,60.5,Yes,Yes,5.5,Bachelor,Medium,40.9,71.5,Moderate Risk
+STU1300,Female,20,3.8,77.1,57.7,57.4,44.5,No,Yes,7.0,Bachelor,High,42.4,60.8,Moderate Risk
+STU1024,Female,17,6.1,79.2,83.8,57.1,59.8,No,Yes,7.2,Associate,Medium,77.5,66.3,Low Risk
+STU2646,Male,22,2.7,71.1,62.6,48.6,54.8,No,Yes,6.7,High School,Medium,59.5,62.1,Moderate Risk
+STU1987,Male,20,1.1,52.3,69.6,57.8,51.4,No,Yes,8.2,Bachelor,Medium,46.9,54.0,Moderate Risk
+STU1064,Female,20,2.1,71.4,75.9,63.2,62.0,No,Yes,6.9,High School,Low,41.4,76.3,Moderate Risk
+STU1808,Male,19,3.7,63.4,58.1,35.0,43.8,Yes,Yes,6.4,Bachelor,Medium,70.5,55.8,Moderate Risk
+STU1731,Female,19,2.6,63.1,60.1,43.3,50.8,Yes,No,7.1,Associate,Medium,48.5,56.1,Moderate Risk
+STU1882,Male,17,7.7,80.4,87.2,76.3,71.4,No,Yes,6.8,Bachelor,Medium,71.7,83.9,Low Risk
+STU1282,Female,17,1.3,60.4,,40.4,53.2,No,No,7.0,High School,Medium,57.4,54.7,Moderate Risk
+STU1257,Male,17,2.9,67.5,82.9,56.1,58.3,Yes,Yes,7.3,Doctorate,Medium,36.0,68.1,Moderate Risk
+STU1355,Female,17,3.6,62.8,57.5,47.5,34.6,No,Yes,7.0,Bachelor,Medium,61.6,45.4,High Risk
+STU1556,Female,20,3.8,71.6,63.6,49.4,53.7,Yes,Yes,8.4,High School,High,71.0,66.4,Moderate Risk
+STU1276,Male,17,2.3,61.8,58.9,50.8,44.3,No,Yes,7.2,Master,Medium,63.8,58.4,High Risk
+STU2991,Male,21,5.0,68.5,77.2,60.8,62.7,No,Yes,7.0,Bachelor,Medium,51.8,69.2,Low Risk
+STU1352,Male,17,2.6,72.4,78.7,61.4,50.9,Yes,Yes,6.7,Bachelor,Low,48.4,57.4,Moderate Risk
+STU2702,Female,19,3.2,45.0,55.1,25.4,25.4,Yes,Yes,6.8,Bachelor,Medium,46.3,28.2,High Risk
+STU2868,Female,19,4.2,84.3,76.1,63.0,60.2,No,Yes,7.1,Bachelor,Medium,84.5,73.5,Low Risk
+STU2300,Male,20,1.8,70.4,56.6,48.7,58.3,No,Yes,8.1,Associate,Low,47.5,62.6,Moderate Risk
+STU1298,Female,20,5.7,82.4,78.8,68.4,74.7,No,Yes,5.7,Bachelor,Medium,60.9,78.8,Low Risk
+STU2733,Male,22,4.2,49.3,65.0,43.4,51.1,Yes,Yes,6.7,Associate,Low,43.0,59.6,Moderate Risk
+STU2791,Female,21,3.0,54.5,62.1,39.1,41.2,No,Yes,6.7,Bachelor,Low,56.7,52.0,High Risk
+STU1870,Male,20,4.4,76.7,79.2,57.0,58.5,Yes,Yes,5.6,High School,Medium,57.6,66.5,Low Risk
+STU1651,Female,21,6.4,71.6,62.6,60.7,60.5,No,Yes,7.9,Master,Low,57.3,66.0,Moderate Risk
+STU3010,Female,21,5.0,72.5,66.3,66.7,62.2,Yes,Yes,5.5,Bachelor,Medium,54.0,67.9,Moderate Risk
+STU1271,Male,19,3.8,81.2,65.2,43.8,52.7,No,Yes,7.0,Master,Medium,66.4,62.6,Moderate Risk
+STU2694,Female,18,1.0,54.7,55.6,34.5,36.5,No,Yes,6.9,High School,Low,43.7,39.8,High Risk
+STU1933,Other,21,4.2,65.2,87.8,60.6,74.0,No,Yes,5.8,High School,High,61.9,70.0,Low Risk
+STU2281,Male,19,3.1,59.0,48.1,42.8,40.2,No,Yes,6.7,Doctorate,Low,26.8,49.0,High Risk
+STU2224,Male,18,1.9,59.6,66.2,46.0,56.8,No,Yes,7.6,Bachelor,Low,40.9,57.1,Moderate Risk
+STU1026,Male,18,3.6,65.0,73.7,52.8,53.3,Yes,Yes,9.0,High School,Low,54.5,60.7,Moderate Risk
+STU2394,Male,18,1.2,53.0,61.2,40.1,41.7,Yes,No,4.6,Associate,Low,37.4,39.2,High Risk
+STU1079,Female,20,2.1,70.2,67.4,37.3,50.7,Yes,Yes,6.4,High School,Low,63.7,48.4,High Risk
+STU1858,Female,22,4.0,87.7,88.6,69.8,75.2,Yes,Yes,6.7,Bachelor,Medium,60.9,80.3,Low Risk
+STU1033,Female,17,1.9,63.2,63.3,38.9,38.5,No,Yes,6.4,Associate,Medium,39.4,51.6,Moderate Risk
+STU1395,Female,18,2.4,58.6,46.5,50.2,51.4,Yes,Yes,7.2,Associate,Low,47.5,50.2,Moderate Risk
+STU2551,Male,18,4.6,73.1,92.5,77.9,71.6,Yes,Yes,5.0,High School,High,71.7,76.4,Low Risk
+STU1495,Female,21,4.3,74.0,48.5,60.3,51.2,Yes,Yes,6.9,Associate,High,64.3,59.4,Moderate Risk
+STU1612,Male,19,1.6,58.9,67.6,36.5,44.0,Yes,Yes,6.4,Bachelor,Medium,31.8,45.9,High Risk
+STU1164,Male,19,1.9,55.5,52.5,29.8,38.5,No,No,7.0,Master,High,53.5,39.7,High Risk
+STU1204,Male,17,4.3,66.0,,45.1,52.3,No,Yes,8.1,Master,Low,70.6,63.9,Moderate Risk
+STU2008,Male,22,4.8,73.5,79.6,67.2,77.3,Yes,Yes,7.4,Doctorate,High,63.0,81.4,Low Risk
+STU2859,Male,22,3.5,69.6,63.9,72.3,55.6,Yes,Yes,4.7,Bachelor,Medium,68.6,67.7,Moderate Risk
+STU2286,Male,18,4.5,73.1,67.7,59.9,63.0,Yes,Yes,7.2,High School,High,70.0,63.6,Moderate Risk
+STU2803,Female,21,5.1,70.3,84.6,72.1,75.3,Yes,Yes,7.5,High School,Low,67.3,79.6,Low Risk
+STU2160,Female,20,2.0,68.0,72.8,40.6,47.8,Yes,Yes,7.2,Bachelor,Medium,63.7,63.5,Moderate Risk
+STU1825,Male,22,5.1,69.4,69.8,60.1,55.5,Yes,Yes,6.9,Master,Medium,55.5,72.2,Moderate Risk
+STU3018,Male,18,3.4,76.6,69.8,63.2,64.6,Yes,Yes,6.2,Master,Low,56.7,65.9,Low Risk
+STU1603,Female,21,0.7,64.5,58.4,42.8,44.0,Yes,Yes,7.0,Master,High,34.9,45.0,High Risk
+STU1483,Female,18,3.5,70.7,59.3,54.3,61.9,Yes,Yes,8.4,Associate,Low,50.6,57.3,Moderate Risk
+STU1874,Female,20,4.5,66.6,64.8,51.5,40.4,Yes,Yes,6.7,High School,Medium,52.0,53.1,Moderate Risk
+STU2408,Male,17,2.7,67.8,92.6,55.3,73.2,No,Yes,6.5,Bachelor,Medium,40.0,63.2,Moderate Risk
+STU1219,Male,19,8.0,77.5,85.4,91.8,81.3,Yes,Yes,5.7,Associate,High,64.7,97.1,Low Risk
+STU2983,Female,18,1.2,51.5,72.8,30.4,57.4,No,Yes,7.9,Master,Medium,41.7,48.5,Moderate Risk
+STU2002,Male,22,3.1,67.0,59.6,57.7,41.6,No,Yes,4.0,Bachelor,High,57.4,54.9,Moderate Risk
+STU2641,Male,17,3.6,69.1,64.7,52.3,54.4,No,Yes,6.3,Master,Medium,49.6,56.7,Moderate Risk
+STU1818,Female,19,6.9,65.4,98.0,77.1,74.8,No,Yes,10.0,Master,Low,80.8,81.6,Low Risk
+STU2176,Male,22,1.4,54.3,55.7,38.9,42.9,No,Yes,8.9,Bachelor,Low,25.6,50.2,Moderate Risk
+STU1060,Female,21,1.0,62.8,58.5,34.2,34.2,No,Yes,5.8,Doctorate,Medium,65.3,45.6,High Risk
+STU1322,Male,19,2.3,71.8,67.5,56.9,61.5,No,No,5.7,Associate,Medium,36.0,66.0,Moderate Risk
+STU1317,Female,19,2.3,52.9,71.0,48.9,61.1,No,Yes,5.4,High School,Low,43.4,57.6,Moderate Risk
+STU1074,Male,22,3.4,68.5,72.1,50.2,41.7,Yes,Yes,8.5,Doctorate,Low,49.3,49.2,Moderate Risk
+STU1163,Male,17,2.8,60.2,58.6,39.7,43.0,No,Yes,6.1,High School,Medium,46.3,46.0,High Risk
+STU1580,Female,19,4.5,70.3,69.5,56.2,65.4,No,Yes,5.9,Master,High,61.5,61.2,Moderate Risk
+STU1991,Male,22,3.3,63.0,63.9,44.6,45.7,Yes,Yes,6.7,Bachelor,High,51.9,53.0,Moderate Risk
+STU1577,Female,20,8.0,78.2,98.0,81.9,90.6,Yes,Yes,4.8,Bachelor,Medium,89.1,98.7,Low Risk
+STU2629,Female,20,4.3,85.2,71.2,59.5,61.4,No,Yes,6.8,Bachelor,Medium,73.8,79.1,Moderate Risk
+STU1618,Female,22,3.5,63.0,80.4,51.2,59.1,No,No,8.7,Associate,High,67.4,58.9,Moderate Risk
+STU2903,Male,21,3.6,64.8,72.5,55.6,59.6,No,Yes,7.1,Bachelor,High,51.5,64.6,Moderate Risk
+STU1046,Male,22,1.7,66.7,60.2,45.8,57.4,No,Yes,7.2,Bachelor,Medium,66.8,59.9,Moderate Risk
+STU2001,Female,22,3.5,61.3,60.5,31.4,42.3,Yes,Yes,6.7,Bachelor,Medium,55.8,57.4,Moderate Risk
+STU2524,Female,17,2.8,83.3,64.2,57.1,62.8,No,Yes,7.3,High School,High,62.0,73.3,Moderate Risk
+STU2343,Male,21,2.7,73.0,62.2,58.0,56.8,No,Yes,6.4,Bachelor,High,49.2,54.8,Moderate Risk
+STU1573,Female,20,3.3,59.4,,46.7,60.2,Yes,Yes,6.0,Master,Medium,58.7,61.7,Moderate Risk
+STU1077,Male,21,3.1,59.2,72.1,47.5,53.0,No,Yes,7.4,Master,Medium,63.3,54.1,Moderate Risk
+STU2968,Female,19,2.7,72.1,78.0,58.0,64.6,No,Yes,7.4,High School,Low,53.0,61.6,Moderate Risk
+STU2451,Male,18,4.0,53.0,63.6,42.0,40.3,Yes,Yes,6.7,Bachelor,Low,62.7,47.6,Moderate Risk
+STU1772,Male,20,3.2,74.7,68.4,56.1,62.1,No,Yes,,Bachelor,Medium,55.0,66.9,Low Risk
+STU2425,Other,21,6.9,87.3,74.8,69.4,64.1,No,Yes,9.1,High School,Low,63.6,76.7,Low Risk
+STU1484,Male,21,5.6,67.1,79.1,70.8,58.7,No,Yes,7.6,Doctorate,Low,54.8,74.0,Moderate Risk
+STU1949,Male,17,2.3,60.5,55.0,20.0,44.4,No,Yes,6.7,High School,Medium,43.5,47.1,Moderate Risk
+STU1856,Female,18,2.5,61.4,62.7,43.1,48.3,No,Yes,6.1,High School,Low,56.0,51.3,High Risk
+STU1031,Male,22,2.7,75.0,72.3,47.5,58.2,No,Yes,6.1,Bachelor,Low,58.5,58.2,Moderate Risk
+STU2785,Male,17,2.9,66.2,74.7,48.1,55.7,Yes,Yes,6.9,High School,Medium,59.4,68.1,Moderate Risk
+STU2552,Male,22,2.7,47.2,76.9,43.8,52.4,No,Yes,8.3,Bachelor,High,32.5,51.0,Moderate Risk
+STU1820,Female,18,3.6,54.5,52.0,41.4,58.9,No,Yes,4.9,Associate,High,47.1,45.1,Moderate Risk
+STU2352,Male,20,4.5,72.8,79.7,58.9,61.8,Yes,Yes,8.0,Bachelor,Low,58.6,71.7,Low Risk
+STU1839,Male,21,1.8,48.9,67.8,43.6,49.5,No,Yes,6.9,High School,Medium,54.3,49.4,Moderate Risk
+STU2327,Female,21,5.3,76.6,71.0,69.0,69.3,Yes,Yes,5.5,Bachelor,Low,69.5,73.3,Low Risk
+STU2503,Female,17,2.5,61.7,73.4,56.8,57.0,No,Yes,6.3,High School,Medium,56.0,55.3,Moderate Risk
+STU2776,Female,19,2.8,61.7,73.6,44.1,45.5,Yes,Yes,4.5,Bachelor,Medium,44.1,54.4,High Risk
+STU2607,Female,19,1.0,53.2,37.8,35.1,38.9,No,Yes,6.1,Bachelor,Low,31.4,39.1,High Risk
+STU2934,Male,22,3.3,54.7,,62.7,59.2,Yes,Yes,7.4,Master,Medium,51.6,53.5,Moderate Risk
+STU2613,Male,19,1.3,66.0,56.3,42.3,51.8,No,Yes,6.1,Bachelor,Low,63.1,52.7,High Risk
+STU1345,Female,19,2.8,67.1,74.6,61.6,54.1,Yes,Yes,7.0,Bachelor,High,56.4,68.8,Moderate Risk
+STU1045,Female,22,1.4,53.1,63.4,30.3,39.3,No,Yes,8.9,Master,Low,20.8,33.7,High Risk
+STU2577,Female,22,2.8,62.6,63.6,52.5,47.0,No,Yes,,High School,Medium,64.7,57.0,Moderate Risk
+STU1169,Female,18,2.1,57.9,64.0,44.2,48.9,Yes,No,6.7,Master,Low,29.9,52.7,High Risk
+STU1304,Male,21,2.4,56.1,63.0,50.7,56.0,No,Yes,5.8,Bachelor,High,46.0,54.5,High Risk
+STU1351,Male,21,3.4,58.4,59.3,63.4,40.1,Yes,Yes,8.5,Master,High,44.2,63.0,Moderate Risk
+STU2677,Female,20,2.7,68.3,70.7,50.4,58.7,No,Yes,7.0,Master,Low,37.8,54.7,Moderate Risk
+STU2977,Female,18,3.1,65.4,70.6,61.2,45.0,No,Yes,6.6,High School,Medium,50.8,56.2,Moderate Risk
+STU1893,Male,17,8.0,83.4,98.0,94.1,69.0,No,No,6.3,High School,Medium,76.0,93.5,Low Risk
+STU2973,Female,19,6.7,86.5,83.2,77.9,71.7,No,No,6.6,Bachelor,High,83.9,89.2,Low Risk
+STU1694,Female,22,2.2,58.4,67.2,50.3,41.8,Yes,Yes,5.0,Bachelor,Medium,75.5,50.2,Moderate Risk
+STU1412,Male,19,2.7,61.5,62.0,39.9,36.9,No,Yes,7.1,High School,Medium,44.7,48.2,Moderate Risk
+STU1430,Female,17,1.3,67.5,65.7,47.8,71.4,,Yes,5.5,Bachelor,High,35.2,61.7,Moderate Risk
+STU2469,Male,17,1.7,47.0,63.2,43.7,45.4,Yes,Yes,7.4,High School,High,48.5,51.2,High Risk
+STU2402,Female,18,4.7,62.3,62.4,57.0,53.8,No,Yes,7.2,High School,Low,54.3,61.0,Moderate Risk
+STU2396,Male,19,2.6,61.6,56.9,45.4,55.1,No,Yes,8.4,Associate,Medium,67.2,54.4,High Risk
+STU2594,Female,21,6.1,70.8,66.8,68.2,54.7,Yes,Yes,8.2,Bachelor,Medium,70.8,67.7,Low Risk
+STU1354,Female,19,4.0,62.2,48.9,42.6,32.5,Yes,Yes,6.8,Bachelor,Low,52.3,45.4,High Risk
+STU2464,Male,19,1.6,54.4,60.7,36.3,31.6,No,Yes,5.9,Doctorate,Medium,52.7,46.1,High Risk
+STU2103,Male,19,5.9,86.4,86.3,79.0,68.4,Yes,Yes,8.0,Bachelor,High,69.0,81.9,Low Risk
+STU1531,Male,21,1.8,60.1,54.5,49.4,41.2,Yes,Yes,6.8,Bachelor,Medium,50.8,50.4,Moderate Risk
+STU1186,Male,17,6.2,77.1,77.9,73.8,61.9,Yes,No,7.8,High School,Medium,84.3,73.4,Low Risk
+STU2272,Male,17,4.6,73.0,72.9,62.0,64.2,No,Yes,5.7,Bachelor,Medium,64.3,67.9,Moderate Risk
+STU2329,Male,19,3.5,66.0,89.7,50.5,58.8,Yes,Yes,7.6,Master,Low,52.7,56.8,Moderate Risk
+STU2998,Female,19,2.0,51.4,53.3,23.3,47.3,No,Yes,4.9,Doctorate,Medium,40.8,38.4,High Risk
+STU2234,Female,17,6.2,81.6,74.9,64.0,68.4,No,Yes,7.4,Bachelor,Medium,75.7,78.4,Low Risk
+STU1301,Female,22,2.6,45.0,62.5,47.6,50.9,No,Yes,7.3,Bachelor,Medium,35.7,63.9,Moderate Risk
+STU2987,Male,17,3.8,75.8,79.8,66.7,72.3,Yes,Yes,7.4,Bachelor,Medium,64.8,69.9,Low Risk
+STU2086,Female,17,3.5,71.6,64.2,52.1,55.4,Yes,Yes,6.9,High School,Low,40.0,58.2,Moderate Risk
+STU2211,Female,20,3.4,62.8,74.0,54.8,64.6,No,No,9.5,High School,High,43.5,59.0,Moderate Risk
+STU2640,Male,20,2.1,60.2,60.5,40.9,61.0,Yes,Yes,7.0,High School,High,62.3,52.8,Moderate Risk
+STU2833,Male,18,4.2,70.6,57.2,35.5,53.5,Yes,Yes,7.8,Bachelor,Medium,73.3,56.5,Moderate Risk
+STU2985,Female,17,8.0,69.7,72.4,88.9,59.7,Yes,Yes,6.9,Bachelor,High,63.2,78.6,Low Risk
+STU2727,Male,18,2.5,60.4,67.0,40.6,59.0,No,Yes,7.6,Bachelor,High,37.7,59.5,Moderate Risk
+STU2424,Female,18,1.8,56.4,68.4,44.5,53.0,Yes,No,7.3,Bachelor,Low,62.4,56.6,Moderate Risk
+STU1176,Female,20,2.9,55.6,70.6,53.5,61.8,Yes,Yes,7.9,Master,High,63.6,58.7,Moderate Risk
+STU2713,Male,21,4.8,53.8,66.1,50.0,50.4,No,No,5.6,Master,Medium,53.6,51.8,Moderate Risk
+STU2935,Male,22,,87.1,69.2,63.2,68.7,No,No,7.5,Associate,Medium,68.0,74.9,Low Risk
+STU2651,Female,22,7.3,77.1,70.9,73.1,60.7,No,Yes,7.4,Bachelor,Medium,73.5,77.4,Low Risk
+STU1124,Female,18,1.8,64.0,60.9,37.3,43.7,No,Yes,7.1,Master,Low,54.0,52.3,High Risk
+STU2908,Female,18,4.1,78.6,57.2,52.0,58.5,No,Yes,8.0,Bachelor,Low,54.2,57.0,Moderate Risk
+STU1428,Male,21,3.9,75.2,71.4,63.8,64.1,Yes,Yes,5.3,Bachelor,Medium,59.2,63.4,Low Risk
+STU1745,Female,19,1.1,54.5,54.7,28.7,44.8,No,Yes,7.5,High School,High,61.4,42.0,High Risk
+STU1040,Female,17,1.3,54.4,36.3,41.6,42.6,Yes,Yes,6.8,High School,High,41.1,42.0,High Risk
+STU1423,Female,19,4.7,72.6,84.4,68.2,64.9,No,Yes,5.2,High School,Medium,61.5,78.1,Moderate Risk
+STU2470,Male,17,1.9,53.2,59.5,39.6,38.9,Yes,No,6.3,Master,Medium,38.8,53.5,High Risk
+STU1332,Male,22,4.2,85.2,67.6,55.2,55.4,No,No,7.1,High School,Medium,45.7,59.2,Moderate Risk
+STU1791,Female,21,2.6,62.8,54.7,28.5,32.5,No,Yes,6.3,Master,Medium,50.1,37.8,High Risk
+STU1195,Female,19,2.6,63.5,73.1,59.3,62.6,Yes,Yes,6.6,Bachelor,Low,61.6,55.1,Moderate Risk
+STU2731,Female,19,1.4,57.0,56.9,21.9,33.8,Yes,Yes,5.6,Bachelor,Medium,47.4,46.6,High Risk
+STU2681,Female,21,1.8,70.4,65.4,41.3,44.4,Yes,Yes,6.8,High School,Medium,38.2,52.0,High Risk
+STU2757,Male,22,1.3,59.1,64.3,43.4,42.4,No,Yes,6.8,Bachelor,Medium,47.2,48.6,High Risk
+STU1323,Male,20,2.4,59.3,68.4,37.9,43.8,No,Yes,7.7,High School,Medium,48.7,55.4,Moderate Risk
+STU2227,Female,18,5.2,66.8,80.9,57.4,73.4,Yes,Yes,5.9,Associate,Medium,64.9,72.9,Low Risk
+STU1267,Male,20,2.4,62.6,48.8,43.3,48.8,Yes,Yes,5.0,High School,Medium,48.9,46.4,Moderate Risk
+STU2980,Male,17,3.0,79.5,55.8,47.6,52.8,No,Yes,7.8,High School,Medium,49.5,56.7,Moderate Risk
+STU2467,Male,22,3.8,61.0,55.8,40.1,36.8,No,Yes,6.5,Bachelor,Medium,66.1,48.8,High Risk
+STU2360,Male,21,1.6,63.3,55.4,42.0,56.2,No,Yes,4.5,Bachelor,Low,39.3,52.4,Moderate Risk
+STU1068,Male,19,3.1,80.5,65.3,56.7,44.0,No,Yes,7.4,Bachelor,Low,35.2,53.8,Moderate Risk
+STU1994,Male,21,5.5,80.2,64.8,62.0,60.2,No,No,7.8,Bachelor,Medium,72.3,73.7,Low Risk
+STU2648,Male,18,2.0,62.1,66.7,55.7,49.9,Yes,Yes,6.5,High School,Medium,29.9,65.8,Moderate Risk
+STU2062,Other,21,4.6,65.0,65.2,47.1,49.2,No,Yes,8.1,Associate,High,69.4,56.1,Moderate Risk
+STU1706,Other,19,1.7,66.8,58.2,32.9,47.7,Yes,Yes,6.8,High School,Medium,44.3,51.6,Moderate Risk
+STU2525,Female,19,3.3,73.6,56.9,46.7,45.3,No,Yes,7.9,High School,Low,58.3,53.2,Moderate Risk
+STU2510,Male,20,5.2,69.5,66.9,51.0,51.8,No,Yes,6.9,Associate,Low,67.5,65.9,Moderate Risk
+STU2448,Male,18,2.9,68.5,76.5,55.8,59.2,Yes,Yes,8.4,Bachelor,High,74.1,59.7,Moderate Risk
+STU2858,Female,22,5.2,74.2,75.7,74.1,66.9,No,Yes,5.7,Master,Medium,75.3,83.4,Low Risk
+STU1571,Male,17,2.3,53.4,56.1,46.8,58.0,Yes,Yes,4.7,Master,High,36.4,57.8,High Risk
+STU1927,Female,17,3.8,52.1,58.1,61.9,52.3,Yes,Yes,9.2,Doctorate,Medium,40.4,61.7,Moderate Risk
+STU1671,Female,21,4.2,48.2,54.5,43.2,48.6,No,Yes,7.4,Bachelor,Low,40.1,53.9,Moderate Risk
+STU2675,Male,17,6.4,85.2,95.8,58.4,67.6,No,No,7.8,Associate,Low,58.0,77.6,Low Risk
+STU2230,Female,19,7.4,70.5,97.0,70.3,73.3,Yes,Yes,6.0,Master,Medium,85.0,82.1,Low Risk
+STU1951,Male,22,2.5,87.4,68.8,51.4,54.2,Yes,Yes,7.3,Associate,Medium,70.5,52.7,Moderate Risk
+STU1465,Male,18,4.2,81.8,70.7,65.7,65.7,Yes,Yes,8.0,Master,Low,67.1,67.9,Low Risk
+STU1433,Male,19,5.1,91.6,93.0,67.9,72.9,No,No,8.0,Bachelor,Medium,73.4,82.7,Low Risk
+STU1999,Male,17,1.8,73.8,74.1,55.9,56.4,No,Yes,4.0,High School,Medium,56.9,61.5,Moderate Risk
+STU2570,Female,18,3.1,50.3,61.9,52.2,35.2,No,Yes,4.1,Bachelor,High,49.7,46.2,High Risk
+STU2619,Male,22,6.3,73.7,73.3,66.4,66.0,No,Yes,4.3,Bachelor,Low,88.6,75.3,Low Risk
+STU2805,Female,22,2.2,76.0,63.0,48.3,59.9,Yes,Yes,6.7,Doctorate,High,55.4,52.1,Moderate Risk
+STU2177,Male,17,2.9,53.7,45.8,34.3,37.6,Yes,No,4.9,Associate,Medium,55.9,46.0,High Risk
+STU1760,Male,21,3.6,70.0,74.6,67.4,63.9,No,Yes,8.0,Bachelor,Medium,63.9,63.4,Low Risk
+STU2024,Male,22,3.2,66.3,53.5,41.8,41.7,Yes,Yes,8.9,High School,High,48.9,44.2,Moderate Risk
+STU2106,Female,19,2.8,70.7,62.2,42.0,44.0,Yes,Yes,5.8,,Low,57.7,57.3,Moderate Risk
+STU1681,Male,20,5.7,86.2,80.5,64.5,56.3,No,Yes,7.4,High School,Medium,58.2,73.3,Moderate Risk
+STU1953,Female,17,3.9,81.3,65.2,51.2,54.8,No,Yes,6.3,High School,Medium,77.8,70.1,Moderate Risk
+STU1262,Other,19,1.8,54.1,66.5,46.5,60.4,Yes,Yes,8.8,Bachelor,Low,57.2,55.7,Moderate Risk
+STU1568,Female,21,7.3,80.0,76.3,63.8,56.6,No,Yes,8.8,High School,High,83.2,71.8,Low Risk
+STU2011,Female,22,4.0,76.0,78.6,73.2,55.4,Yes,Yes,4.0,High School,Low,69.4,72.0,Moderate Risk
+STU1241,Male,19,5.5,82.0,82.3,76.6,67.0,Yes,Yes,6.7,Bachelor,Low,60.1,75.0,Low Risk
+STU2064,Female,19,2.8,67.9,76.1,53.8,53.2,No,Yes,8.8,Associate,Low,74.6,53.9,Moderate Risk
+STU1850,Male,17,4.8,64.5,69.1,60.1,35.2,Yes,No,7.3,High School,High,53.3,53.4,Moderate Risk
+STU1722,Female,20,3.9,59.6,82.7,53.0,64.0,Yes,Yes,7.4,,Low,48.6,53.8,Moderate Risk
+STU2477,Male,21,4.2,62.8,61.8,58.3,64.7,No,Yes,6.2,High School,Medium,78.8,69.9,Moderate Risk
+STU2114,Male,17,5.9,79.6,86.9,73.0,67.3,No,Yes,4.7,High School,High,78.8,75.0,Low Risk
+STU2690,Male,17,3.1,58.6,63.0,36.7,44.3,Yes,Yes,6.6,Bachelor,Low,33.4,44.2,Moderate Risk
+STU1366,Female,20,7.9,78.4,98.0,70.8,71.2,No,Yes,7.7,High School,Medium,84.7,87.6,Low Risk
+STU2487,Female,20,1.5,64.0,53.8,45.0,49.6,No,Yes,7.1,,Low,37.2,51.4,High Risk
+STU2271,Male,20,7.0,94.0,98.0,83.0,85.9,Yes,Yes,7.9,Associate,Medium,72.5,93.3,Low Risk
+STU1615,Male,19,2.6,70.8,65.1,52.7,56.6,Yes,No,8.3,Bachelor,High,48.0,58.5,Moderate Risk
+STU2703,Female,18,3.2,55.9,67.0,47.4,41.6,Yes,Yes,9.3,Master,Medium,60.9,57.8,Moderate Risk
+STU1528,Female,21,4.3,72.0,86.6,64.3,66.6,No,Yes,7.6,Bachelor,High,67.4,68.4,Low Risk
+STU2612,Male,17,3.8,66.4,71.6,42.1,45.4,No,Yes,8.2,Doctorate,Medium,50.2,55.3,Moderate Risk
+STU1072,Female,18,3.3,64.3,65.0,34.9,53.4,Yes,Yes,6.2,Associate,Medium,44.0,56.9,Moderate Risk
+STU2262,Male,17,5.9,73.9,84.6,58.5,53.5,No,Yes,6.9,Associate,Medium,92.7,60.0,Moderate Risk
+STU1260,Female,19,8.0,79.9,69.8,73.3,56.4,No,Yes,5.5,High School,Medium,68.4,83.8,Low Risk
+STU1052,Male,21,3.1,54.5,60.5,30.8,56.1,No,Yes,7.4,Bachelor,Medium,62.4,47.8,Moderate Risk
+STU1199,Male,18,4.3,66.7,70.3,46.0,40.9,No,Yes,8.4,Bachelor,Low,38.4,57.2,Moderate Risk
+STU1479,Male,20,1.7,55.1,59.9,54.9,58.3,,Yes,6.4,Bachelor,High,53.7,54.6,Moderate Risk
+STU1679,Male,17,2.5,64.9,,41.4,55.2,No,Yes,6.8,Associate,Medium,50.5,55.6,Moderate Risk
+STU1333,Female,17,2.4,71.7,69.3,55.5,58.9,No,No,7.8,Bachelor,Medium,59.1,58.6,Moderate Risk
+STU2654,Female,20,6.3,73.2,61.1,48.5,53.2,No,Yes,5.5,Bachelor,Low,83.1,58.5,Moderate Risk
+STU1620,Male,21,4.0,71.0,63.9,60.8,57.7,No,Yes,8.8,High School,Low,47.4,60.1,Moderate Risk
+STU2655,Female,19,2.6,68.5,61.7,44.4,45.0,No,No,7.3,Bachelor,Medium,56.4,52.8,High Risk
+STU1619,Male,18,3.4,78.6,59.0,58.2,59.4,No,Yes,5.7,Doctorate,Medium,66.4,67.5,Moderate Risk
+STU2948,Female,17,6.9,69.9,82.6,58.8,53.4,No,Yes,6.7,Master,High,79.1,73.9,Moderate Risk
+STU1597,Male,18,8.0,85.7,91.6,87.2,84.6,No,Yes,5.9,Bachelor,Medium,83.8,90.5,Low Risk
+STU1939,Female,17,2.2,84.2,79.1,59.3,59.4,No,Yes,6.0,Bachelor,Medium,56.4,69.4,Moderate Risk
+STU1989,Female,20,5.6,85.5,84.5,65.2,66.4,No,Yes,4.9,Bachelor,Medium,73.6,68.5,Low Risk
+STU2766,Female,21,1.9,51.9,48.2,22.7,31.0,No,Yes,7.8,Bachelor,Medium,28.9,36.7,High Risk
+STU1427,Female,18,4.7,71.8,66.9,70.1,56.9,Yes,Yes,6.4,Associate,Low,75.7,70.8,Low Risk
+STU1592,Male,22,2.6,65.5,68.7,45.2,52.9,No,Yes,5.6,Associate,Low,41.4,57.4,Moderate Risk
+STU1480,Male,22,1.0,59.6,56.5,34.1,42.2,No,Yes,6.9,Associate,Low,43.0,51.4,High Risk
+STU2421,Female,19,4.8,69.9,66.8,41.6,57.4,No,Yes,8.0,Bachelor,Medium,59.5,60.4,Moderate Risk
+STU2308,Male,21,2.4,56.1,52.2,34.7,30.4,No,No,5.0,Bachelor,Medium,50.6,43.3,High Risk
+STU2680,Male,22,4.8,62.8,67.7,56.1,45.4,No,No,7.0,Bachelor,Medium,54.5,55.8,Moderate Risk
+STU2301,Female,18,8.0,79.9,76.4,78.9,61.2,No,Yes,7.7,Bachelor,Medium,59.9,83.5,Low Risk
+STU1549,Male,22,,69.2,67.4,61.3,58.4,No,No,6.4,Doctorate,Medium,55.0,51.2,Moderate Risk
+STU1753,Male,19,1.8,65.6,61.1,32.2,48.2,No,Yes,7.8,Bachelor,Medium,64.4,52.6,Moderate Risk
+STU1399,Male,22,3.1,76.6,59.5,43.5,49.3,No,No,6.5,Bachelor,Medium,67.1,66.5,Moderate Risk
+STU1998,Female,21,3.3,65.7,71.9,54.9,67.8,Yes,No,5.9,Bachelor,Medium,60.8,67.8,Moderate Risk
+STU1463,Male,17,3.5,75.1,81.1,68.8,79.3,Yes,Yes,9.5,Master,Medium,69.2,78.2,Low Risk
+STU1437,Female,17,3.2,61.1,62.7,47.3,61.0,No,Yes,5.2,Doctorate,Medium,51.9,57.0,Moderate Risk
+STU1193,Male,18,0.7,58.8,44.4,29.7,34.6,Yes,Yes,6.0,Master,Low,52.3,37.2,High Risk
+STU2472,Male,21,4.8,94.1,75.3,63.3,66.6,No,Yes,7.6,Doctorate,Low,71.9,77.6,Low Risk
+STU2354,Male,22,1.6,55.7,54.1,44.8,40.7,Yes,Yes,6.5,High School,Medium,46.7,53.6,High Risk
+STU1293,Male,22,3.0,53.7,55.3,40.9,53.3,No,Yes,6.6,Bachelor,Medium,51.0,51.1,High Risk
+STU2972,Male,18,7.1,93.2,92.4,83.2,85.9,No,Yes,7.0,Bachelor,Low,90.1,97.3,Low Risk
+STU2539,Female,21,4.8,64.9,56.3,53.3,41.8,No,Yes,5.6,Bachelor,High,60.7,54.7,Moderate Risk
+STU1940,Male,22,2.1,49.0,56.6,27.9,45.6,Yes,Yes,5.9,Bachelor,High,44.7,45.7,High Risk
+STU2138,Male,18,2.8,65.9,58.9,40.9,50.4,Yes,No,6.5,Bachelor,Low,50.6,52.5,Moderate Risk
+STU3007,Female,18,3.6,45.0,62.2,41.8,54.0,Yes,Yes,5.0,Bachelor,Medium,52.9,58.6,High Risk
+STU1142,Female,22,3.9,66.4,66.4,56.9,55.5,Yes,Yes,7.6,Bachelor,Medium,60.7,74.8,Moderate Risk
+STU2252,Female,20,3.9,76.5,71.2,75.0,81.0,Yes,Yes,6.4,Bachelor,Low,53.8,77.9,Low Risk
+STU1003,Male,18,2.1,54.7,72.0,54.7,56.8,Yes,Yes,6.6,Master,Low,43.0,57.5,Moderate Risk
+STU1782,Male,18,4.2,61.5,70.0,52.3,52.0,No,Yes,7.4,High School,Low,56.4,57.2,Moderate Risk
+STU1582,Other,19,0.9,47.7,60.2,36.0,50.6,No,Yes,5.9,High School,Low,61.8,44.9,High Risk
+STU2920,Female,20,2.6,69.0,60.0,50.9,44.7,No,Yes,4.5,High School,Low,66.2,61.6,Moderate Risk
+STU2334,Other,21,2.3,51.7,60.4,48.9,57.9,Yes,Yes,8.5,Associate,Low,64.2,55.7,Moderate Risk
+STU1340,Female,21,5.1,72.0,81.5,57.6,71.8,No,Yes,5.6,Bachelor,High,64.9,70.4,Low Risk
+STU1813,Female,21,1.6,51.1,48.1,41.6,41.9,No,No,6.7,Bachelor,Medium,54.2,49.7,High Risk
+STU1409,Male,17,4.8,68.1,78.5,71.5,68.5,Yes,Yes,6.1,Bachelor,Low,64.2,69.2,Low Risk
+STU2221,Male,21,2.9,67.4,51.8,41.1,49.8,Yes,Yes,7.7,Bachelor,Medium,57.6,49.7,Moderate Risk
+STU1266,Male,22,2.4,68.0,50.8,47.6,43.6,No,Yes,6.6,Bachelor,Medium,49.4,52.7,Moderate Risk
+STU1377,Male,20,3.0,59.5,55.5,56.6,35.8,No,Yes,7.6,High School,High,62.5,48.1,Moderate Risk
+STU2379,Female,17,1.7,48.6,48.8,38.8,45.0,No,Yes,7.2,Associate,Medium,28.3,35.8,High Risk
+STU2038,Male,20,2.6,64.7,47.1,35.5,36.4,No,Yes,5.7,Bachelor,Medium,69.5,46.3,High Risk
+STU1440,Female,17,3.7,61.3,59.2,48.8,59.1,Yes,Yes,6.2,Bachelor,Medium,55.2,65.6,Moderate Risk
+STU1272,Male,22,4.2,82.1,75.7,56.1,43.0,Yes,No,8.1,High School,Low,86.6,56.6,Moderate Risk
+STU1185,Female,20,2.6,72.9,63.7,40.4,50.2,Yes,Yes,7.5,Bachelor,Medium,63.7,64.5,Moderate Risk
+STU1980,Male,17,6.2,82.4,55.7,67.4,64.6,Yes,Yes,8.3,Bachelor,Medium,80.9,74.2,Low Risk
+STU1245,Female,22,6.9,76.6,73.3,67.7,57.0,No,No,5.7,High School,Medium,65.9,79.0,Low Risk
+STU1966,Female,20,8.0,93.4,90.6,93.6,89.0,Yes,Yes,9.0,Associate,Low,90.4,100.0,Low Risk
+STU1608,Female,22,3.6,73.5,75.0,59.7,60.7,No,Yes,9.3,Master,Medium,65.2,60.1,Moderate Risk
+STU1530,Male,21,4.8,67.2,75.1,63.3,43.2,No,Yes,8.1,Bachelor,High,58.1,63.0,Moderate Risk
+STU1446,Male,21,3.7,62.6,73.4,62.4,58.9,No,Yes,7.8,Associate,Low,59.2,55.6,Moderate Risk
+STU1846,Female,21,2.1,48.2,53.2,44.3,47.1,Yes,Yes,8.5,High School,High,42.4,46.0,High Risk
+STU2303,Female,19,8.0,78.6,89.0,69.7,61.0,No,No,8.4,Bachelor,Medium,87.8,82.8,Low Risk
+STU2182,Female,18,4.1,79.5,71.1,60.0,61.6,No,Yes,5.8,High School,Low,55.1,69.9,Moderate Risk
+STU2132,Male,17,1.6,69.5,75.1,62.7,71.2,No,No,9.0,Associate,Medium,46.4,69.9,Moderate Risk
+STU1416,Female,21,2.4,62.5,65.7,44.7,43.7,No,No,5.9,Associate,Medium,44.5,44.4,High Risk
+STU1274,Male,19,2.5,58.1,57.4,51.2,38.6,No,Yes,6.0,Bachelor,Medium,66.9,49.9,High Risk
+STU2147,Male,18,3.6,67.7,61.9,53.1,63.4,Yes,Yes,6.8,High School,Medium,71.4,68.4,Moderate Risk
+STU1251,Female,17,4.6,75.3,75.7,64.9,58.5,No,Yes,6.5,Master,High,67.7,73.7,Moderate Risk
+STU1414,Male,20,4.1,71.4,70.4,64.4,67.2,No,Yes,5.4,Bachelor,Medium,47.0,70.5,Low Risk
+STU2340,Female,17,3.0,50.7,70.1,47.4,48.4,Yes,Yes,6.3,Master,Low,56.9,56.0,Moderate Risk
+STU1311,Female,17,2.1,67.9,54.6,46.0,39.7,No,Yes,8.1,High School,Medium,50.7,49.3,Moderate Risk
+STU3009,Female,19,1.8,60.7,64.7,39.8,47.1,No,Yes,5.2,High School,High,56.2,48.9,High Risk
+STU1585,Male,17,6.5,89.6,81.4,79.7,64.1,No,Yes,8.4,Master,Medium,78.3,82.7,Low Risk
+STU1426,Male,17,4.1,72.8,67.8,58.6,49.8,Yes,Yes,6.8,High School,Low,77.9,66.9,Moderate Risk
+STU2925,Male,21,2.9,67.1,55.5,52.9,56.5,No,Yes,7.3,Associate,Low,46.6,58.9,Moderate Risk
+STU2921,Male,19,4.9,50.0,68.5,69.5,73.3,Yes,Yes,8.1,High School,Medium,47.8,67.1,Moderate Risk
+STU1783,Female,17,2.6,68.5,62.5,44.1,57.0,No,Yes,8.5,Master,Low,73.9,56.4,Moderate Risk
+STU1904,Male,19,5.3,56.8,82.9,63.5,72.3,Yes,Yes,6.8,Bachelor,Low,66.8,75.1,Low Risk
+STU2134,Female,22,3.2,56.6,48.1,32.2,37.4,No,Yes,6.7,Associate,High,42.5,35.3,High Risk
+STU2056,Female,17,4.4,84.8,64.1,59.0,63.2,No,Yes,5.5,High School,Medium,67.1,74.3,Low Risk
+STU2517,Male,22,3.9,71.3,73.8,63.6,57.4,No,Yes,5.9,High School,High,55.9,74.9,Moderate Risk
+STU1527,Female,17,2.7,83.0,66.7,64.7,70.9,Yes,Yes,7.8,Bachelor,Medium,77.5,68.1,Low Risk
+STU1589,Female,18,6.2,94.6,76.6,88.1,72.5,No,Yes,7.7,High School,Medium,80.2,94.9,Low Risk
+STU1675,Female,19,4.1,68.0,74.2,51.9,65.9,Yes,Yes,5.9,Associate,Low,56.7,81.8,Moderate Risk
+STU1183,Male,19,0.7,53.4,47.0,45.7,33.8,No,Yes,6.1,Master,Medium,56.9,46.4,High Risk
+STU1171,Male,22,4.5,57.3,63.0,58.2,44.8,No,Yes,6.5,Associate,Medium,50.8,67.1,Moderate Risk
+STU2993,Male,18,2.7,47.7,67.8,32.7,35.6,Yes,Yes,7.3,Bachelor,Medium,46.4,43.6,High Risk
+STU1614,Female,22,4.0,71.1,75.0,66.1,61.9,No,Yes,7.0,Associate,Medium,58.4,74.7,Moderate Risk
+STU2927,Male,19,8.0,91.4,83.5,75.3,79.5,Yes,No,6.0,Associate,Low,69.8,93.2,Low Risk
+STU2693,Female,22,6.5,76.1,94.9,78.7,80.6,No,Yes,7.0,Bachelor,Medium,71.1,85.2,Low Risk
+STU1888,Female,18,4.6,90.4,69.0,67.1,67.5,Yes,Yes,6.0,Bachelor,High,75.2,63.7,Low Risk
+STU1778,Male,22,3.3,61.2,76.7,50.8,55.2,No,No,6.3,Bachelor,Medium,62.0,57.4,Moderate Risk
+STU1273,Male,22,1.5,56.3,29.7,30.7,40.1,No,Yes,5.4,High School,Medium,37.9,36.0,High Risk
+STU2589,Female,19,5.4,89.4,74.3,62.9,61.6,No,Yes,8.7,Associate,Low,53.1,83.9,Low Risk
+STU1721,Male,20,1.8,74.5,60.8,60.6,49.4,No,Yes,6.8,Master,High,64.0,53.0,Moderate Risk
+STU1942,Male,21,6.6,67.6,65.6,65.5,52.6,Yes,Yes,6.2,Bachelor,High,54.8,66.4,Low Risk
+STU1372,Female,20,1.5,53.2,47.9,41.6,33.9,Yes,Yes,6.7,Bachelor,Medium,44.3,42.7,High Risk
+STU1223,Female,17,3.6,92.2,67.2,69.6,70.8,,Yes,6.9,Bachelor,Medium,73.9,80.0,Low Risk
+STU2351,Male,17,5.9,80.8,61.2,66.8,53.2,No,Yes,7.3,Associate,Medium,60.0,67.8,Low Risk
+STU2689,Male,18,3.8,69.9,78.2,61.6,66.0,Yes,Yes,8.3,High School,Medium,57.3,67.9,Moderate Risk
+STU1810,Female,22,1.8,59.9,64.4,42.9,52.2,No,Yes,7.6,High School,High,48.7,65.6,Moderate Risk
+STU1519,Other,22,,84.0,73.5,56.8,65.6,No,Yes,5.3,Bachelor,Medium,68.9,72.0,Low Risk
+STU1335,Female,20,3.1,65.2,58.3,61.0,55.5,Yes,Yes,8.4,Bachelor,Medium,45.2,51.0,Moderate Risk
+STU2656,Male,21,2.2,63.3,68.5,40.6,59.1,Yes,Yes,8.3,Doctorate,Low,62.8,56.3,Moderate Risk
+STU2197,Male,19,2.7,68.6,67.1,68.1,53.4,No,Yes,5.8,High School,Low,37.4,62.1,Moderate Risk
+STU2562,Female,17,3.1,78.5,70.3,58.2,62.6,No,Yes,6.9,High School,Low,71.9,69.9,Low Risk
+STU1631,Male,20,3.9,81.3,80.1,58.9,71.0,No,Yes,7.2,Associate,High,73.6,74.4,Low Risk
+STU1016,Female,17,1.4,64.5,64.1,35.7,40.0,No,Yes,8.9,Associate,Low,28.8,41.8,Moderate Risk
+STU1707,Female,20,2.4,80.3,60.8,64.2,57.0,Yes,Yes,9.1,Associate,Medium,37.8,69.8,Moderate Risk
+STU1977,Male,21,2.4,63.7,59.6,37.4,44.8,No,Yes,6.5,Master,High,50.1,42.1,Moderate Risk
+STU2579,Male,19,5.5,51.9,64.8,48.8,47.7,No,Yes,6.6,Bachelor,Medium,75.2,48.3,Moderate Risk
+STU2729,Male,18,1.9,52.9,50.3,47.1,53.7,Yes,Yes,5.8,High School,High,54.0,45.8,Moderate Risk
+STU2816,Male,19,2.5,62.1,42.9,42.6,44.5,No,Yes,7.6,Associate,Low,39.5,48.7,Moderate Risk
+STU1943,Male,20,5.4,75.6,73.2,50.1,52.4,Yes,Yes,6.6,Bachelor,Low,71.3,71.0,Moderate Risk
+STU1466,Female,20,7.6,54.9,60.1,64.6,60.6,Yes,Yes,7.2,High School,Medium,74.4,68.7,Low Risk
+STU2669,Female,17,6.2,68.2,63.6,52.2,63.2,Yes,Yes,7.9,Master,High,64.1,69.4,Moderate Risk
+STU1200,Male,21,2.2,63.7,68.0,37.1,41.1,Yes,Yes,6.6,Bachelor,Medium,43.5,50.5,High Risk
+STU2289,Female,22,3.6,71.9,72.2,78.3,68.0,Yes,Yes,8.0,Bachelor,Low,54.8,57.9,Low Risk
+STU2084,Male,20,3.1,68.2,80.3,58.2,66.1,Yes,Yes,7.0,Bachelor,High,52.9,65.6,Moderate Risk
+STU2162,Female,17,6.2,77.8,71.5,65.8,59.9,Yes,Yes,6.9,Master,Medium,79.8,76.2,Low Risk
+STU1456,Male,19,6.4,94.1,98.0,79.7,87.3,No,Yes,5.5,Associate,Medium,86.2,95.0,Low Risk
+STU2532,Male,17,8.0,84.5,90.8,78.7,70.3,No,Yes,6.2,High School,Low,55.8,91.5,Low Risk
+STU1757,Male,21,1.9,60.9,65.3,50.2,41.1,No,Yes,7.5,Associate,High,55.6,58.9,High Risk
+STU2436,Female,22,1.7,67.8,70.9,65.9,70.7,No,Yes,5.3,High School,Low,36.9,72.3,Moderate Risk
+STU2450,Male,20,3.3,46.0,47.9,42.6,45.7,No,Yes,7.9,Bachelor,Medium,64.4,47.2,High Risk
+STU2390,Female,22,3.0,68.4,79.0,65.0,58.2,Yes,Yes,7.2,Bachelor,Medium,60.1,57.3,Moderate Risk
+STU2266,Female,21,5.2,80.1,67.1,64.8,66.1,Yes,Yes,6.1,Bachelor,Medium,59.5,76.6,Low Risk
+STU1594,Female,20,6.8,74.8,64.9,71.0,64.0,Yes,Yes,8.2,High School,Medium,65.3,78.2,Low Risk
+STU1044,Male,18,7.7,71.8,82.5,67.2,59.2,No,No,8.9,High School,Low,71.3,74.6,Low Risk
+STU1275,Male,20,2.3,50.5,63.1,56.4,66.9,Yes,Yes,5.7,High School,Medium,52.6,52.2,Moderate Risk
+STU2537,Female,19,4.9,72.3,63.4,46.0,64.2,Yes,Yes,5.9,Master,Low,72.2,65.3,Moderate Risk
+STU1102,Male,18,2.3,57.0,55.6,50.7,49.2,No,Yes,7.2,Master,Low,29.8,54.5,Moderate Risk
+STU1908,Female,20,2.1,58.0,46.0,33.5,40.0,No,Yes,7.5,Bachelor,High,44.0,41.8,High Risk
+STU2832,Male,20,4.0,74.1,71.6,61.6,60.2,Yes,Yes,7.7,Associate,Medium,75.5,62.8,Low Risk
+STU2478,Male,22,5.3,65.0,63.5,64.5,48.0,No,Yes,6.6,Master,Medium,69.0,68.9,Moderate Risk
+STU1108,Male,20,3.9,67.3,65.7,54.2,57.0,Yes,Yes,7.6,Bachelor,Low,66.9,65.3,Moderate Risk
+STU2205,Female,20,2.2,70.9,70.6,48.0,55.4,Yes,Yes,5.8,Bachelor,Medium,49.6,63.1,Moderate Risk
+STU1498,Female,18,8.0,68.3,72.0,61.8,57.4,No,Yes,6.5,High School,Medium,67.6,68.9,Low Risk
+STU1032,Female,17,3.8,60.2,79.8,60.2,55.7,No,Yes,7.0,Master,Medium,76.0,57.8,Moderate Risk
+STU2865,Other,22,4.1,70.5,64.6,52.2,52.4,No,Yes,5.8,Bachelor,High,46.9,70.4,Moderate Risk
+STU1787,Male,20,5.4,80.2,72.6,53.3,51.9,Yes,Yes,6.6,Bachelor,Low,77.6,64.4,Moderate Risk
+STU1880,Female,17,2.4,66.1,69.5,57.7,59.3,No,Yes,6.7,,Medium,66.5,64.5,Moderate Risk
+STU2786,Male,21,4.9,67.6,79.6,66.4,64.0,No,Yes,8.0,Associate,Medium,62.7,82.8,Moderate Risk
+STU2330,Male,19,2.7,62.9,53.1,39.7,40.3,No,Yes,6.7,Bachelor,Medium,59.1,54.6,High Risk
+STU2460,Male,22,4.4,73.6,75.7,68.9,54.6,Yes,Yes,7.3,High School,Medium,53.0,71.6,Moderate Risk
+STU1621,Female,18,2.8,55.1,70.8,48.2,47.3,No,Yes,7.7,Associate,Low,46.0,54.4,High Risk
+STU1073,Female,20,1.3,62.9,57.8,29.7,37.1,Yes,Yes,7.2,Doctorate,Medium,48.3,48.3,High Risk
+STU2808,Female,19,2.9,56.2,66.7,55.1,64.0,No,Yes,5.5,Bachelor,Low,40.8,56.3,Moderate Risk
+STU2245,Male,18,2.6,79.7,58.1,44.8,39.4,No,Yes,8.1,Associate,High,68.9,59.2,Moderate Risk
+STU2342,Female,20,3.9,75.2,68.9,57.2,57.4,No,Yes,7.2,Bachelor,Low,59.1,60.7,Low Risk
+STU1863,Male,18,4.6,71.5,69.8,74.2,60.2,Yes,No,6.4,Bachelor,High,45.4,67.1,Moderate Risk
+STU1482,Male,20,5.8,78.4,81.8,70.9,74.3,No,Yes,7.4,High School,Medium,82.0,73.8,Low Risk
+STU2122,Male,18,3.3,73.5,77.6,68.2,65.2,No,Yes,7.8,Bachelor,High,55.6,74.1,Moderate Risk
+STU1507,Male,17,3.7,73.9,63.8,59.6,54.1,Yes,Yes,8.5,Master,Low,65.5,62.7,Moderate Risk
+STU1705,Female,22,,92.0,92.0,80.2,76.4,No,No,7.9,High School,Medium,85.6,92.3,Low Risk
+STU2774,Male,20,3.9,74.0,79.1,69.4,70.9,Yes,No,7.1,Associate,Low,48.0,75.3,Low Risk
+STU1687,Male,21,2.5,60.9,62.6,35.6,47.7,Yes,Yes,8.7,High School,Medium,53.1,53.5,High Risk
+STU2193,Female,19,6.8,100.0,97.9,84.4,89.6,Yes,Yes,6.3,Associate,Low,92.9,91.2,Low Risk
+STU2361,Male,20,1.3,61.4,58.4,27.5,33.1,No,Yes,7.5,High School,Low,70.8,42.8,High Risk
+STU2504,Female,20,4.5,84.2,72.7,63.6,54.2,No,Yes,7.1,Associate,High,47.6,70.8,Moderate Risk
+STU1312,Female,22,3.7,78.6,76.8,62.4,71.6,Yes,No,6.3,Bachelor,Low,71.6,75.8,Low Risk
+STU2730,Male,19,2.7,54.7,65.8,43.4,57.6,No,Yes,6.5,High School,High,50.3,59.7,Moderate Risk
+STU1406,Male,17,1.7,66.0,57.1,63.6,41.9,Yes,Yes,6.3,Associate,Low,41.3,56.6,Moderate Risk
+STU1728,Male,17,3.8,61.5,66.6,50.8,51.4,No,Yes,7.3,Bachelor,Low,49.7,59.8,Moderate Risk
+STU2174,Female,19,3.0,61.8,,54.4,56.1,No,Yes,7.4,Associate,High,40.2,62.3,Moderate Risk
+STU1310,Female,20,2.8,68.8,61.7,61.7,67.9,No,Yes,6.7,Bachelor,Low,41.7,67.9,Moderate Risk
+STU1227,Male,18,2.6,78.7,68.4,41.7,47.4,Yes,Yes,6.9,Associate,High,74.6,52.8,Moderate Risk
+STU2742,Male,18,3.1,65.5,62.7,43.7,46.2,No,Yes,5.4,Bachelor,Low,60.1,62.9,Moderate Risk
+STU2260,Male,18,2.6,64.6,66.1,64.1,52.5,No,Yes,6.1,Bachelor,Medium,62.4,43.9,Moderate Risk
+STU2568,Female,19,4.1,77.5,72.9,50.7,54.9,Yes,Yes,6.5,High School,Medium,54.5,72.2,Moderate Risk
+STU1862,Female,22,4.9,71.9,53.6,57.4,60.0,Yes,Yes,7.8,Associate,High,62.7,69.7,Moderate Risk
+STU2310,Male,20,1.1,60.3,77.6,35.6,54.3,Yes,Yes,7.4,Associate,High,47.0,50.5,Moderate Risk
+STU1149,Female,17,5.1,62.1,65.3,65.7,55.3,Yes,Yes,5.3,High School,Medium,45.2,58.9,Moderate Risk
+STU2413,Female,17,3.8,56.9,75.6,48.2,54.7,Yes,Yes,7.4,Bachelor,Low,62.2,60.6,Moderate Risk
+STU1744,Male,21,5.7,57.4,68.8,56.8,51.3,Yes,Yes,5.7,Master,High,62.2,67.9,Moderate Risk
+STU2014,Female,17,3.6,78.7,85.1,60.6,69.0,No,No,8.6,Associate,Low,88.2,70.4,Low Risk
+STU2447,Male,19,4.5,66.4,68.2,71.3,59.7,No,Yes,8.6,High School,Medium,42.9,72.5,Moderate Risk
+STU2919,Female,19,2.6,56.7,56.7,30.7,31.2,Yes,No,4.5,Associate,Medium,54.0,38.5,High Risk
+STU1576,Male,18,5.4,81.6,81.0,75.3,68.0,No,Yes,8.1,Bachelor,Low,66.5,77.9,Low Risk
+STU1558,Female,19,4.6,60.4,76.5,59.2,65.9,No,Yes,8.2,Bachelor,Medium,53.5,64.3,Moderate Risk
+STU2430,Male,19,2.6,78.7,61.9,53.0,48.2,Yes,Yes,7.1,Bachelor,Medium,70.3,58.1,Low Risk
+STU2186,Male,18,4.8,52.4,62.1,54.2,64.8,Yes,Yes,6.8,Doctorate,Medium,65.2,66.6,Low Risk
+STU2380,Male,19,4.5,61.5,76.2,54.1,51.3,No,Yes,8.2,High School,Medium,64.5,56.9,Moderate Risk
+STU2341,Female,21,2.7,70.4,53.1,54.7,62.3,No,Yes,7.4,Master,Medium,47.2,61.1,Moderate Risk
+STU1652,Male,19,2.5,71.4,60.4,43.1,47.0,No,No,6.7,Bachelor,Medium,56.9,66.2,Moderate Risk
+STU2000,Female,17,1.8,55.1,59.3,42.9,52.2,Yes,Yes,5.8,Master,Medium,31.8,46.7,Moderate Risk
+STU1287,Female,18,3.1,58.8,75.4,53.1,59.5,Yes,Yes,6.1,High School,Low,42.8,55.5,Moderate Risk
+STU2645,Female,22,3.5,74.1,74.8,44.3,68.8,No,Yes,8.4,High School,Low,57.1,67.6,Moderate Risk
+STU2243,Male,22,3.2,62.3,79.7,50.5,71.6,Yes,Yes,9.7,Associate,Medium,46.4,63.7,Moderate Risk
+STU1629,Female,20,2.7,67.0,63.7,41.1,56.3,No,Yes,6.0,Associate,Medium,53.5,59.9,Moderate Risk
+STU1599,Female,22,8.0,86.9,71.4,68.1,61.4,No,Yes,5.2,Associate,High,68.8,84.6,Low Risk
+STU2273,Male,18,4.5,74.8,77.6,62.5,56.5,No,Yes,7.0,Master,Medium,51.9,63.2,Moderate Risk
+STU1833,Female,19,2.9,46.6,47.2,32.2,32.4,No,No,6.3,Bachelor,Medium,53.3,42.1,High Risk
+STU2678,Female,17,3.2,75.9,81.7,42.9,46.6,Yes,Yes,6.6,Master,Medium,55.1,55.0,Moderate Risk
+STU2627,Female,17,1.7,60.2,54.8,28.2,47.0,Yes,Yes,8.3,Master,Low,46.4,48.6,Moderate Risk
+STU2068,Female,17,4.0,62.8,68.9,42.4,35.2,Yes,Yes,7.8,Bachelor,High,63.2,54.4,Moderate Risk
+STU2581,Female,21,2.8,68.6,69.2,46.3,54.1,Yes,Yes,7.4,Bachelor,Medium,44.7,68.4,Moderate Risk
+STU2990,Male,21,7.4,88.2,85.6,77.2,71.5,No,No,5.0,Bachelor,Medium,60.2,82.5,Low Risk
+STU1944,Male,19,7.2,66.5,75.1,75.7,64.0,Yes,Yes,7.3,Bachelor,Low,63.5,85.4,Low Risk
+STU1910,Female,20,2.3,61.6,77.8,49.7,45.9,Yes,Yes,7.9,Bachelor,Medium,56.2,55.2,Moderate Risk
+STU2235,Male,21,2.4,52.2,59.7,39.4,46.7,No,No,7.6,Bachelor,Medium,37.9,53.3,High Risk
+STU2449,Male,20,3.4,61.5,68.3,55.2,72.1,No,Yes,7.2,High School,Low,58.5,62.6,Moderate Risk
+STU1610,Male,19,3.2,65.4,56.4,50.3,48.1,Yes,Yes,7.1,Bachelor,Low,47.1,59.1,Moderate Risk
+STU2891,Female,17,2.1,56.6,63.5,44.0,47.4,Yes,Yes,6.2,Master,Low,55.6,59.2,Moderate Risk
+STU2113,Female,17,3.6,74.1,91.5,60.3,65.4,No,Yes,7.0,Associate,Medium,48.7,68.9,Moderate Risk
+STU2489,Female,18,2.3,60.2,68.4,51.4,61.3,No,Yes,8.5,High School,High,28.8,50.1,Moderate Risk
+STU2042,Male,22,5.0,76.2,68.1,59.9,72.8,Yes,Yes,6.0,Associate,Low,71.9,74.9,Low Risk
+STU1494,Female,18,4.5,66.7,55.4,48.7,50.2,No,No,8.5,High School,Low,71.6,64.4,Moderate Risk
+STU2353,Female,22,4.5,53.4,77.1,53.9,55.9,Yes,Yes,6.5,Associate,Low,63.1,64.8,Moderate Risk
+STU1278,Male,22,3.2,91.0,65.7,43.7,50.8,Yes,No,5.8,Master,Low,69.1,51.0,Moderate Risk
+STU2964,Female,22,1.0,60.4,61.9,31.7,44.6,,Yes,5.6,Associate,Low,69.8,56.9,High Risk
+STU1359,Male,20,1.8,45.0,61.4,40.6,49.2,Yes,Yes,7.0,Master,Medium,35.7,44.9,High Risk
+STU2299,Male,19,7.2,81.9,65.0,77.5,66.7,No,Yes,7.0,Master,Low,75.7,78.1,Low Risk
+STU1237,Female,18,4.0,64.8,60.2,56.9,62.4,No,Yes,7.0,Bachelor,Low,50.7,63.5,Moderate Risk
+STU1552,Male,18,7.5,67.8,71.4,72.2,60.6,No,Yes,6.3,High School,Medium,67.3,79.3,Low Risk
+STU2917,Male,22,4.2,77.4,70.7,56.2,60.7,Yes,Yes,8.4,Bachelor,High,69.7,69.8,Low Risk
+STU1937,Female,17,6.8,79.8,80.8,68.0,63.6,Yes,Yes,6.7,High School,Medium,62.7,72.2,Low Risk
+STU1209,Female,17,4.7,86.2,71.9,75.4,63.7,No,Yes,8.3,Master,Medium,81.0,73.7,Low Risk
+STU2422,Male,22,7.7,85.2,91.0,77.7,79.9,Yes,Yes,7.5,Associate,Medium,79.0,87.7,Low Risk
+STU2600,Male,18,1.8,58.3,41.8,38.7,45.6,No,No,6.7,Bachelor,Low,41.4,33.0,High Risk
+STU1059,Female,19,3.1,70.6,66.2,49.4,58.0,No,Yes,5.0,Bachelor,Medium,53.8,65.4,Moderate Risk
+STU1632,Male,17,3.7,49.1,79.3,47.6,57.7,Yes,Yes,6.4,Associate,Low,65.7,56.1,Moderate Risk
+STU2624,Male,20,2.0,60.4,59.2,52.1,54.1,Yes,Yes,6.7,High School,Low,44.5,70.4,Moderate Risk
+STU2909,Female,20,4.7,79.5,98.0,63.2,76.8,No,Yes,7.5,Bachelor,Low,58.7,73.5,Low Risk
+STU2617,Other,21,2.3,74.7,59.8,43.5,58.2,Yes,Yes,6.5,High School,Low,68.5,57.2,Moderate Risk
+STU1364,Male,19,3.1,76.9,72.5,51.9,53.9,No,Yes,5.0,High School,Medium,53.5,64.1,Moderate Risk
+STU1506,Female,22,4.7,77.4,69.4,48.8,69.3,Yes,Yes,7.7,Bachelor,Medium,62.4,67.6,Moderate Risk
+STU2954,Male,22,4.6,62.4,71.6,43.2,52.5,No,Yes,7.2,Bachelor,High,75.7,48.6,Moderate Risk
+STU2152,Male,22,1.6,58.2,62.6,44.1,51.0,Yes,Yes,8.0,High School,Medium,35.8,48.7,Moderate Risk
+STU2831,Male,22,1.8,70.6,58.2,44.6,43.2,Yes,No,7.1,Bachelor,Low,74.8,59.5,Moderate Risk
+STU2359,Female,21,3.7,67.6,60.9,51.0,51.5,No,Yes,7.0,High School,Medium,61.1,64.9,Moderate Risk
+STU1532,Other,22,3.7,66.6,77.0,50.9,46.9,Yes,Yes,7.8,Bachelor,Medium,58.5,55.2,Moderate Risk
+STU2091,Male,20,1.7,69.0,56.3,37.1,42.3,No,Yes,7.4,Bachelor,Medium,61.9,53.4,High Risk
+STU2783,Female,19,4.6,64.2,63.1,59.8,47.4,Yes,No,7.0,Bachelor,Medium,56.9,63.4,Moderate Risk
+STU1119,Male,18,2.1,80.8,59.9,55.2,65.5,No,No,7.0,Associate,High,64.4,65.1,Moderate Risk
+STU2602,Female,17,2.1,52.7,59.4,26.5,48.6,No,Yes,9.8,Bachelor,Low,54.6,50.8,High Risk
+STU2687,Male,19,1.6,72.1,71.8,56.4,55.0,No,Yes,7.6,Associate,Medium,53.3,58.1,Moderate Risk
+STU1523,Male,22,2.5,76.7,81.1,60.2,71.4,No,Yes,8.2,Associate,Medium,57.0,74.2,Moderate Risk
+STU1514,Male,21,2.5,49.9,55.8,43.0,47.3,No,Yes,6.5,Associate,Medium,42.4,36.6,Moderate Risk
+STU1082,Male,19,3.8,62.7,60.9,48.4,50.2,Yes,Yes,8.4,Master,Low,54.5,58.3,Moderate Risk
+STU2315,Female,21,2.9,52.5,67.9,48.4,41.2,Yes,Yes,7.8,Associate,Medium,29.7,54.6,High Risk
+STU2217,Female,17,5.8,83.7,85.8,59.2,68.1,Yes,Yes,5.9,Bachelor,Low,61.7,79.9,Low Risk
+STU1381,Female,20,1.2,50.4,45.4,35.9,41.7,No,Yes,7.4,Doctorate,Low,33.5,48.5,High Risk
+STU2659,Female,20,2.6,59.2,67.6,46.3,50.8,No,Yes,6.5,Associate,Medium,54.3,53.2,Moderate Risk
+STU2732,Male,20,0.9,67.4,58.5,39.2,49.2,Yes,Yes,6.2,Bachelor,Medium,57.3,52.6,High Risk
+STU1085,Female,18,3.7,78.9,70.3,58.1,60.2,Yes,No,7.5,Bachelor,Medium,69.7,67.9,Moderate Risk
+STU2721,Female,22,3.7,71.1,76.8,56.0,48.1,No,Yes,5.9,Associate,High,77.3,66.1,Moderate Risk
+STU2010,Female,21,1.8,77.9,60.5,48.5,50.9,No,Yes,5.9,High School,Low,45.3,57.5,Moderate Risk
+STU1330,Female,17,5.8,73.5,74.4,65.6,50.1,No,Yes,7.5,Bachelor,High,66.4,63.7,Low Risk
+STU1007,Female,17,2.7,79.2,49.2,58.1,44.6,No,No,8.9,High School,Medium,56.0,55.4,Moderate Risk
+STU2771,Female,18,3.0,51.9,80.8,42.2,48.3,No,Yes,7.2,Associate,Medium,32.2,58.7,Moderate Risk
+STU1789,Female,21,2.2,52.0,66.9,35.1,41.5,Yes,Yes,8.2,High School,Medium,40.5,45.8,High Risk
+STU2712,Female,17,2.4,77.5,68.4,47.0,65.5,No,Yes,6.4,Bachelor,High,66.7,65.5,Moderate Risk
+STU2345,Male,22,2.0,63.8,47.6,30.3,46.2,Yes,Yes,7.3,Bachelor,Medium,51.2,47.0,High Risk
+STU1452,Male,22,2.3,54.6,62.1,59.5,62.0,No,Yes,7.3,High School,High,45.4,60.3,Moderate Risk
+STU1491,Female,18,5.3,51.8,76.1,64.9,61.7,Yes,Yes,8.5,Master,Medium,69.3,76.7,Moderate Risk
+STU2520,Male,19,2.2,56.2,69.1,45.9,56.8,No,Yes,6.5,Associate,Medium,57.0,60.4,Moderate Risk
+STU1288,Male,19,2.2,73.3,69.1,46.9,47.8,Yes,No,6.7,Associate,Medium,59.6,57.5,Moderate Risk
+STU1950,Male,21,3.6,64.7,50.7,54.9,39.3,Yes,Yes,7.8,Bachelor,Medium,77.9,55.9,Moderate Risk
+STU2043,Female,21,5.2,62.5,72.9,70.7,61.6,Yes,Yes,6.3,Bachelor,Medium,56.7,68.9,Low Risk
+STU2403,Female,22,2.8,53.1,64.5,43.1,45.9,Yes,Yes,6.8,High School,Low,55.8,55.9,Moderate Risk
+STU2229,Other,18,1.9,75.8,68.2,48.3,46.3,No,Yes,6.8,Bachelor,Medium,64.6,56.6,Moderate Risk
+STU2561,Female,20,3.0,57.4,67.1,53.2,43.0,Yes,Yes,6.7,Associate,Medium,62.6,58.0,Moderate Risk
+STU1835,Male,22,4.7,58.2,62.5,59.5,47.1,No,No,8.5,Bachelor,Low,38.0,56.9,Moderate Risk
+STU2745,Female,18,1.6,45.3,50.3,35.3,26.5,No,No,7.8,Master,Medium,30.5,44.1,High Risk
+STU1965,Female,21,3.3,67.5,64.5,67.1,69.5,Yes,No,6.8,High School,High,64.3,67.1,Moderate Risk
+STU1967,Male,18,6.0,77.2,71.2,66.9,62.3,Yes,No,6.6,Doctorate,High,72.3,76.5,Low Risk
+STU2638,Female,17,3.8,69.1,78.1,38.8,62.9,Yes,Yes,5.9,High School,Low,36.8,62.4,Moderate Risk
+STU2117,Female,22,2.8,79.7,84.1,49.8,62.8,No,Yes,5.0,Bachelor,Medium,81.9,61.8,Moderate Risk
+STU2692,Male,18,1.8,51.5,68.2,41.4,53.2,No,No,7.8,Bachelor,High,35.8,53.1,High Risk
+STU1328,Male,22,0.8,60.5,64.2,37.9,49.2,No,Yes,6.7,Associate,High,53.5,48.9,High Risk
+STU1443,Female,19,0.8,51.8,64.3,37.2,41.1,Yes,Yes,5.6,High School,Low,19.1,44.1,High Risk
+STU1807,Male,19,3.2,60.8,56.7,38.8,30.2,No,Yes,5.6,High School,High,49.4,44.7,Moderate Risk
+STU2108,Male,21,4.7,60.5,81.6,62.8,53.1,Yes,Yes,6.9,Master,Low,45.7,57.5,Moderate Risk
+STU1964,Female,21,2.7,72.0,63.5,49.5,68.6,No,Yes,,Master,Medium,72.2,58.8,Moderate Risk
+STU1917,Female,20,3.6,65.7,64.6,43.8,52.1,No,Yes,6.2,Bachelor,High,41.5,53.0,Moderate Risk
+STU1178,Female,17,4.4,81.7,80.5,69.1,67.0,Yes,Yes,7.5,Bachelor,Medium,66.1,72.5,Low Risk
+STU1768,Male,18,5.1,63.9,79.0,61.4,63.0,Yes,No,7.2,High School,Low,73.6,67.5,Moderate Risk
+STU1734,Male,18,3.1,71.9,69.1,59.7,67.7,Yes,Yes,6.4,Master,Medium,73.7,68.6,Moderate Risk
+STU1087,Male,18,1.3,65.1,73.3,52.1,61.2,Yes,Yes,8.7,Associate,Low,49.2,64.1,Moderate Risk
+STU2445,Male,17,4.7,62.9,63.1,56.6,54.4,No,Yes,8.3,Master,High,44.9,63.0,Moderate Risk
+STU2950,Female,18,2.8,80.3,71.3,49.5,56.9,Yes,Yes,6.2,High School,Medium,71.5,64.4,Moderate Risk
+STU1458,Female,21,3.2,46.8,76.4,51.6,42.7,Yes,Yes,6.5,Bachelor,Medium,54.9,49.3,Moderate Risk
+STU2877,Male,22,3.0,73.3,71.3,44.0,54.1,Yes,Yes,5.9,Bachelor,Low,60.2,58.9,Moderate Risk
+STU1055,Male,17,3.6,52.1,62.3,51.4,58.1,No,No,6.0,High School,High,56.5,56.8,Moderate Risk
+STU2541,Male,21,4.4,60.9,84.2,63.9,63.8,No,Yes,8.1,Bachelor,High,66.7,67.1,Low Risk
+STU1644,Female,21,1.2,65.3,72.8,65.4,58.6,Yes,Yes,6.8,Bachelor,Low,41.1,61.5,Moderate Risk
+STU1678,Female,21,2.0,79.4,71.6,46.7,49.4,No,Yes,7.3,Associate,Medium,33.5,53.6,Moderate Risk
+STU1222,Male,19,7.8,66.2,87.0,85.9,68.4,Yes,Yes,6.0,Master,High,76.6,81.1,Low Risk
+STU1114,Male,21,2.1,63.4,64.3,54.5,40.2,No,No,6.1,Master,Low,53.8,61.9,Moderate Risk
+STU2962,Female,19,1.1,62.5,67.3,36.2,53.7,No,Yes,6.5,Bachelor,Low,60.3,53.5,High Risk
+STU2259,Female,19,2.6,60.0,78.9,61.6,48.6,No,Yes,8.4,Bachelor,Medium,38.0,62.3,Moderate Risk
+STU2035,Female,20,3.4,73.5,75.2,57.4,71.1,No,No,6.8,Bachelor,Low,51.0,66.6,Low Risk
+STU1175,Male,21,3.7,78.6,69.7,65.6,54.6,Yes,Yes,9.3,Bachelor,Low,79.1,65.4,Low Risk
+STU2053,Male,17,2.8,61.1,77.6,52.0,68.4,No,Yes,9.4,Associate,Low,45.1,61.9,Moderate Risk
+STU1590,Female,20,2.4,51.0,63.9,50.8,54.6,Yes,Yes,5.2,High School,High,53.0,50.3,Moderate Risk
+STU2861,Male,19,2.6,76.7,77.0,52.3,58.4,Yes,Yes,5.8,High School,Medium,53.6,63.4,Moderate Risk
+STU1019,Female,17,3.6,45.0,65.8,52.9,51.2,No,Yes,9.6,Bachelor,Medium,49.4,52.0,Moderate Risk
+STU1424,Male,20,1.3,65.1,54.4,30.1,34.2,No,Yes,8.5,Bachelor,Medium,57.6,48.3,High Risk
+STU2376,Male,22,2.9,83.2,75.3,72.4,67.1,Yes,Yes,5.3,Bachelor,Medium,55.5,74.3,Moderate Risk
+STU1286,Female,19,8.0,89.0,75.0,69.9,62.9,Yes,Yes,,Bachelor,Low,86.7,78.2,Low Risk
+STU2623,Male,22,5.6,80.9,81.7,64.5,73.8,No,Yes,7.8,Associate,Medium,71.3,75.1,Low Risk
+STU1429,Female,21,3.6,82.2,74.5,54.5,70.8,Yes,Yes,7.5,Bachelor,Medium,61.7,75.7,Moderate Risk
+STU2549,Female,18,2.0,68.3,62.1,52.1,51.6,Yes,No,6.7,High School,Low,53.6,57.5,Moderate Risk
+STU1781,Male,18,1.7,72.9,52.3,29.6,41.3,Yes,Yes,6.9,High School,Medium,49.4,40.8,High Risk
+STU1670,Female,20,1.1,60.5,62.1,29.1,39.0,Yes,Yes,5.7,Bachelor,Medium,52.2,39.7,High Risk
+STU1032,Female,17,3.8,60.2,79.8,60.2,55.7,No,Yes,7.0,Master,Medium,76.0,57.8,Moderate Risk
+STU2936,Male,17,5.5,70.6,83.2,58.7,66.6,Yes,Yes,6.3,High School,High,90.4,71.4,Low Risk
+STU1723,Female,22,2.8,58.0,82.1,56.4,38.3,Yes,Yes,7.6,Associate,High,53.6,62.8,Moderate Risk
+STU2171,Male,20,2.5,71.6,79.0,53.7,61.3,Yes,No,8.4,Doctorate,Low,62.4,64.0,Moderate Risk
+STU1215,Male,22,5.7,63.1,76.1,70.8,47.8,No,Yes,5.1,Bachelor,High,69.5,63.2,Moderate Risk
+STU2429,Male,18,3.7,61.5,56.9,52.5,47.3,Yes,Yes,9.2,High School,High,52.9,51.4,Moderate Risk
+STU2344,Male,21,4.2,77.4,67.1,63.8,59.7,No,Yes,6.6,High School,Low,49.7,68.7,Moderate Risk
+STU1327,Male,21,3.8,71.6,76.8,73.0,51.7,Yes,No,6.1,Associate,Low,59.9,69.9,Moderate Risk
+STU1561,Male,17,7.2,86.8,87.3,74.0,71.2,Yes,Yes,6.1,Master,Medium,96.4,100.0,Low Risk
+STU2827,Female,17,5.7,63.1,82.0,60.0,63.1,No,Yes,6.6,Bachelor,Low,47.5,67.5,Moderate Risk
+STU1701,Male,21,3.0,61.7,75.4,52.7,60.3,No,No,7.4,Associate,Medium,40.7,62.9,Moderate Risk
+STU2894,Female,17,3.7,63.6,51.6,36.7,46.5,No,No,7.2,Associate,Medium,67.9,58.9,High Risk
+STU2420,Male,18,1.5,58.7,66.9,37.1,60.7,No,Yes,6.7,Bachelor,High,34.5,43.5,Moderate Risk
+STU1342,Female,21,3.4,79.6,79.3,63.0,62.5,No,No,7.0,High School,Medium,41.2,78.4,Moderate Risk
+STU1630,Female,18,2.5,57.6,56.2,50.3,59.7,No,Yes,6.8,Bachelor,High,35.9,50.9,Moderate Risk
+STU1148,Male,22,3.9,69.3,62.6,61.0,58.9,No,Yes,5.1,Master,Medium,64.7,64.6,Moderate Risk
+STU2476,Male,22,4.3,75.6,86.7,51.4,67.1,No,Yes,7.0,Bachelor,Low,63.2,67.1,Low Risk
+STU1361,Female,20,1.6,49.5,46.5,36.9,48.3,No,Yes,5.4,Associate,Medium,46.5,51.9,High Risk
+STU1084,Female,17,3.7,78.9,73.8,58.0,67.3,Yes,Yes,5.9,Master,Medium,60.1,68.8,Moderate Risk
+STU1049,Male,17,4.6,70.0,91.7,68.4,69.4,No,Yes,5.5,Associate,Medium,64.0,71.5,Low Risk
+STU1469,Female,17,5.3,77.3,86.2,64.8,59.0,No,Yes,7.4,Master,Medium,58.8,74.3,Low Risk
+STU1156,Female,20,5.4,82.1,77.8,63.2,60.4,No,Yes,8.1,Associate,High,61.8,75.3,Low Risk
+STU2911,Female,22,4.6,72.4,61.8,56.4,50.8,No,Yes,7.3,Bachelor,High,52.1,60.9,Moderate Risk
+STU2059,Female,19,6.2,73.6,65.5,55.0,44.2,Yes,Yes,8.0,Bachelor,Low,63.5,68.5,Moderate Risk
+STU2231,Male,22,3.9,73.1,71.1,57.8,57.1,No,Yes,7.2,Associate,High,54.2,68.4,Moderate Risk
+STU1952,Male,20,4.2,75.5,79.2,60.9,50.0,No,Yes,7.3,Associate,Medium,59.0,62.8,Moderate Risk
+STU2233,Female,19,5.4,70.0,85.6,77.8,70.5,No,Yes,7.0,Bachelor,High,78.1,68.6,Low Risk
+STU2671,Female,18,3.6,57.9,67.7,54.2,55.6,Yes,No,5.8,Associate,Medium,46.6,53.5,Moderate Risk
+STU1501,Male,21,2.9,71.7,76.3,74.0,66.4,No,Yes,6.4,Bachelor,Medium,54.6,70.1,Low Risk
+STU2810,Female,17,3.3,70.8,68.2,55.9,52.8,Yes,Yes,4.6,Bachelor,High,70.7,55.3,Moderate Risk
+STU1180,Female,22,2.6,72.2,62.5,50.7,57.7,Yes,Yes,8.8,Associate,Low,45.6,57.7,Moderate Risk
+STU2135,Male,19,7.5,86.8,98.0,76.5,76.5,Yes,Yes,6.9,Associate,Medium,80.8,91.7,Low Risk
+STU2801,Male,17,3.7,66.7,54.5,54.4,50.6,Yes,Yes,6.2,Bachelor,Low,35.5,57.9,Moderate Risk
+STU2695,Female,18,4.4,53.9,73.2,51.7,54.8,Yes,Yes,7.3,Master,Low,49.3,50.4,Moderate Risk
+STU1916,Female,22,2.8,57.1,62.2,48.0,46.8,No,Yes,7.4,High School,Medium,57.7,53.8,Moderate Risk
+STU2356,Male,17,5.1,72.4,80.1,62.7,66.7,Yes,Yes,6.7,Associate,Low,75.3,78.0,Moderate Risk
+STU2660,Female,21,5.2,74.7,,66.1,49.1,Yes,Yes,5.2,Associate,Low,72.6,62.9,Moderate Risk
+STU1529,Female,18,7.2,77.8,89.1,61.0,68.5,Yes,Yes,5.4,Associate,High,78.5,78.2,Low Risk
+STU1347,Male,17,1.3,51.8,46.0,28.9,39.3,No,Yes,5.8,High School,Medium,49.5,36.5,High Risk
+STU2423,Female,17,6.9,70.7,75.9,58.2,63.1,No,No,6.8,High School,Medium,51.5,68.3,Low Risk
+STU3013,Male,18,5.6,69.8,59.2,59.0,63.4,Yes,Yes,7.3,Bachelor,Medium,79.8,72.4,Moderate Risk
+STU2034,Female,17,4.1,59.0,56.7,52.0,55.6,Yes,Yes,9.2,High School,Medium,57.7,55.3,Moderate Risk
+STU1150,Female,21,4.4,69.3,80.2,72.6,56.4,No,Yes,5.1,Bachelor,High,60.3,69.9,Moderate Risk
+STU2387,Male,20,4.3,65.7,66.1,51.5,49.0,No,Yes,5.4,Master,Medium,49.9,51.6,Moderate Risk
+STU1602,Female,19,1.9,52.8,49.2,40.7,31.8,Yes,Yes,6.7,Associate,Medium,64.0,36.1,High Risk
+STU2798,Female,18,3.2,82.8,65.6,65.1,55.7,Yes,No,6.2,High School,High,56.3,62.1,Moderate Risk
+STU1244,Female,21,2.3,77.5,65.9,57.0,62.2,No,No,8.0,Associate,High,49.2,61.8,Moderate Risk
+STU2814,Female,17,1.9,53.2,60.9,37.3,37.7,Yes,Yes,6.4,High School,Medium,42.4,35.9,High Risk
+STU1803,Male,22,1.6,59.3,66.1,52.9,60.1,No,Yes,8.8,High School,Medium,41.2,65.3,Moderate Risk
+STU2199,Male,21,3.4,60.4,58.5,40.6,49.7,No,Yes,8.5,High School,Medium,42.4,56.0,Moderate Risk
+STU2902,Female,19,2.7,68.2,71.1,37.5,47.0,No,Yes,7.7,Bachelor,Low,54.1,48.2,Moderate Risk
+STU1313,Female,19,2.3,60.2,64.6,52.0,46.0,No,Yes,8.5,Master,Medium,44.8,52.8,Moderate Risk
+STU1436,Male,17,3.6,71.5,67.7,45.2,44.1,Yes,Yes,5.9,Bachelor,High,73.5,56.3,Moderate Risk
+STU2949,Female,21,1.9,54.9,63.0,38.7,54.7,Yes,Yes,8.5,Bachelor,Medium,62.3,51.8,Moderate Risk
+STU1974,Female,17,1.3,65.9,60.0,53.7,55.3,No,Yes,7.6,Bachelor,Low,60.8,58.4,Moderate Risk
+STU1309,Male,17,4.1,76.4,80.9,80.3,71.8,No,Yes,5.6,Master,Medium,55.0,74.9,Low Risk
+STU1431,Female,22,8.0,92.8,85.6,60.5,58.8,No,Yes,6.2,Associate,Low,86.0,79.4,Low Risk
+STU1661,Female,21,2.1,56.7,43.5,32.3,31.7,No,Yes,6.9,Bachelor,Medium,44.5,45.6,High Risk
+STU1371,Female,22,4.1,47.1,68.6,65.2,59.5,No,Yes,6.8,Bachelor,Medium,37.7,66.7,Moderate Risk
+STU1567,Female,20,4.0,65.1,54.6,40.3,39.1,No,Yes,6.7,High School,Medium,61.6,53.8,High Risk
+STU2023,Male,20,2.5,71.7,62.1,61.1,48.7,No,No,5.8,Associate,Medium,68.3,60.4,Moderate Risk
+STU1182,Female,22,5.1,66.4,74.1,62.5,66.2,No,Yes,7.5,Associate,Low,45.5,65.6,Moderate Risk
+STU1906,Male,19,5.4,69.8,82.8,61.4,69.3,Yes,No,5.1,Associate,Medium,61.0,72.1,Low Risk
+STU1622,Female,21,4.4,81.2,62.3,58.5,57.1,Yes,Yes,10.0,High School,Medium,78.0,69.1,Moderate Risk
+STU2558,Female,21,4.8,61.9,57.8,47.1,43.0,Yes,Yes,6.3,High School,Medium,58.5,52.5,Moderate Risk
+STU2223,Female,20,4.2,66.1,73.0,49.5,60.6,Yes,Yes,7.0,High School,Medium,52.4,63.2,Moderate Risk
+STU1995,Female,20,7.8,85.1,78.8,83.6,75.3,No,Yes,5.8,High School,Medium,62.1,87.2,Low Risk
+STU1814,Male,18,1.4,81.3,55.4,51.6,46.2,No,Yes,6.5,Bachelor,Low,64.8,57.2,Moderate Risk
+STU2458,Male,18,3.4,79.2,64.1,58.5,45.9,Yes,No,7.3,Bachelor,Low,58.0,57.0,Moderate Risk
+STU2889,Male,21,3.1,70.4,71.7,54.8,60.1,Yes,No,6.4,High School,Low,57.0,71.3,Moderate Risk
+STU2999,Female,20,6.1,63.7,55.2,69.4,49.3,No,Yes,8.9,Bachelor,High,81.7,64.5,Moderate Risk
+STU2226,Male,21,3.0,73.2,49.8,43.0,41.1,Yes,Yes,7.2,Associate,Medium,71.2,50.0,Moderate Risk
+STU1297,Male,17,2.9,65.3,65.3,42.9,50.5,No,Yes,9.4,High School,Low,70.7,54.8,Moderate Risk
+STU1941,Female,17,4.8,77.4,63.8,47.7,60.2,Yes,Yes,6.1,High School,High,73.7,68.9,Moderate Risk
+STU1462,Male,21,7.9,67.2,79.9,68.3,78.6,No,Yes,7.7,High School,Medium,75.6,90.2,Low Risk
+STU2335,Male,18,5.7,77.1,77.2,57.3,75.8,No,Yes,6.3,Master,Medium,58.6,75.5,Low Risk
+STU2207,Male,17,3.7,78.7,71.6,53.6,58.7,Yes,Yes,5.8,High School,High,70.9,61.2,Moderate Risk
+STU1378,Female,20,1.8,56.9,45.6,35.1,33.3,No,Yes,7.0,Bachelor,Low,58.6,39.8,High Risk
+STU1799,Male,18,1.1,64.2,60.4,36.4,45.4,No,Yes,6.3,High School,High,46.0,44.2,Moderate Risk
+STU2133,Female,18,2.1,62.7,59.4,41.2,48.6,No,Yes,6.1,Bachelor,Low,57.3,55.5,Moderate Risk
+STU1106,Female,19,3.2,62.3,71.5,44.4,37.1,No,Yes,4.9,Master,Low,39.9,51.0,Moderate Risk
+STU1127,Male,19,2.3,59.0,55.5,37.4,51.5,No,Yes,6.6,High School,High,45.1,57.1,Moderate Risk
+STU3000,Female,21,5.9,63.5,73.4,58.3,58.8,No,Yes,8.2,Bachelor,Low,70.7,74.9,Low Risk
+STU2161,Male,17,3.7,63.9,60.9,45.0,53.7,No,No,4.6,Associate,High,55.8,46.4,Moderate Risk
+STU2324,Female,20,3.5,73.7,74.5,54.7,59.7,No,Yes,7.3,Bachelor,Medium,66.7,70.3,Moderate Risk
+STU1356,Male,18,2.2,63.1,71.9,52.6,50.3,No,Yes,7.9,High School,High,50.6,59.3,Moderate Risk
+STU2657,Male,17,3.1,72.0,81.6,49.7,53.8,Yes,Yes,7.7,High School,Low,56.6,55.7,Moderate Risk
+STU1683,Female,22,5.4,73.9,73.3,64.2,65.4,Yes,Yes,5.2,High School,Medium,64.3,73.7,Low Risk
+STU2974,Male,19,2.8,65.2,68.9,55.7,56.6,Yes,Yes,6.5,High School,Medium,71.2,66.1,Moderate Risk
+STU2269,Male,19,5.1,74.8,69.5,61.3,52.0,Yes,No,7.0,Bachelor,Low,80.7,64.4,Moderate Risk
+STU2188,Female,22,3.7,61.6,57.1,44.7,49.8,No,Yes,5.8,High School,Medium,48.5,57.9,Moderate Risk
+STU1210,Female,19,4.1,79.2,67.8,57.4,57.0,Yes,No,6.3,Doctorate,High,61.1,72.4,Moderate Risk
+STU1923,Male,21,3.6,79.7,79.2,57.7,66.1,Yes,Yes,6.6,Doctorate,High,33.6,66.2,Moderate Risk
+STU1141,Male,22,4.8,83.7,77.8,58.0,56.8,No,No,8.1,Bachelor,Low,82.6,65.1,Low Risk
+STU2474,Female,21,3.3,60.6,68.3,51.2,71.5,No,Yes,5.8,Bachelor,Medium,52.8,51.0,Moderate Risk
+STU2824,Male,22,5.5,59.6,65.9,51.8,46.1,No,Yes,4.7,Master,Low,50.3,65.0,Moderate Risk
+STU2088,Female,20,2.2,59.2,55.4,38.3,35.9,Yes,Yes,6.9,High School,Medium,34.7,47.6,High Risk
+STU2614,Female,18,2.0,46.1,56.9,41.4,24.7,No,Yes,8.8,Associate,High,36.2,36.4,High Risk
+STU2126,Male,21,2.0,63.7,60.3,42.4,55.5,No,Yes,7.5,Master,Low,58.8,43.1,Moderate Risk
+STU1887,Male,18,2.0,58.2,44.8,38.3,51.2,No,No,8.5,Master,Medium,53.8,60.0,High Risk
+STU1931,Female,19,2.8,61.4,60.0,35.3,41.1,No,Yes,7.9,Master,Low,31.3,58.6,Moderate Risk
+STU1712,Male,22,6.5,66.1,81.5,66.7,71.6,No,Yes,6.0,Master,Medium,58.7,81.4,Low Risk
+STU2988,Male,18,2.1,48.7,76.3,48.1,54.1,Yes,Yes,7.3,Master,Medium,49.1,62.1,High Risk
+STU1904,Male,19,5.3,56.8,82.9,63.5,72.3,Yes,Yes,6.8,Bachelor,Low,66.8,75.1,Low Risk
+STU2895,Male,21,3.9,75.8,77.4,47.1,58.9,No,No,7.6,Doctorate,Medium,73.7,71.5,Low Risk
+STU2051,Male,21,1.9,45.0,54.4,37.3,31.6,No,Yes,9.0,Associate,Low,25.2,35.9,High Risk
+STU1011,Female,18,5.7,65.2,69.8,57.1,52.0,No,Yes,7.2,Bachelor,High,49.5,65.2,Moderate Risk
+STU2738,Female,19,4.3,66.5,61.2,53.2,53.4,No,No,7.7,Associate,Low,61.1,56.2,Moderate Risk
+STU2813,Female,18,3.1,59.0,60.7,52.0,58.9,Yes,Yes,,Bachelor,Low,44.6,56.3,Moderate Risk
+STU1283,Female,19,,59.9,69.1,46.3,60.7,No,Yes,8.5,Bachelor,Medium,24.9,57.8,Moderate Risk
+STU1811,Other,20,1.8,62.8,58.6,55.3,53.9,Yes,No,5.9,Associate,High,38.2,52.0,Moderate Risk
+STU2121,Male,22,1.2,52.4,61.7,40.1,45.1,No,Yes,7.8,Bachelor,High,38.4,52.2,High Risk
+STU1292,Female,21,5.1,73.4,71.7,69.4,62.3,Yes,Yes,6.1,Master,High,83.7,72.2,Low Risk
+STU1755,Female,19,5.1,71.6,81.9,49.5,48.0,No,Yes,6.4,Associate,Low,68.2,63.1,Moderate Risk
+STU1627,Female,19,2.0,58.4,59.1,43.3,42.8,Yes,No,7.2,Bachelor,Medium,26.7,49.3,High Risk
+STU1985,Male,22,3.2,70.5,62.1,51.0,53.0,Yes,Yes,6.7,Associate,Medium,75.3,62.3,Moderate Risk
+STU1901,Female,17,1.4,64.5,49.1,36.1,42.4,Yes,No,7.2,Bachelor,Medium,50.2,52.5,High Risk
+STU1130,Male,19,3.4,74.8,68.7,66.7,57.6,No,Yes,6.8,Bachelor,Low,51.2,71.2,Moderate Risk
+STU2323,Male,19,2.7,66.6,66.2,47.1,46.1,Yes,Yes,7.0,Master,Medium,48.2,53.6,Moderate Risk
+STU1844,Male,21,1.7,70.4,63.6,35.9,41.9,Yes,Yes,4.9,Bachelor,Low,69.7,47.1,High Risk
+STU1324,Female,20,2.8,87.9,69.0,52.9,52.4,No,Yes,9.7,Bachelor,Medium,56.6,59.9,Moderate Risk
+STU2119,Female,17,1.5,73.7,61.2,38.1,29.0,Yes,Yes,7.7,Master,Low,50.1,45.3,High Risk
+STU2085,Male,18,7.0,78.9,83.2,71.7,67.7,No,Yes,5.6,Doctorate,Medium,96.1,81.5,Low Risk
+STU2006,Male,21,2.0,75.9,59.4,41.9,45.0,No,No,6.7,Doctorate,High,49.4,48.3,High Risk
+STU2914,Female,17,2.9,56.1,55.7,42.8,49.2,Yes,Yes,7.7,Bachelor,Low,33.3,50.4,Moderate Risk
+STU1905,Female,17,3.7,92.1,67.5,59.8,52.8,No,No,5.3,Master,Medium,65.8,70.8,Moderate Risk
+STU2475,Female,19,1.4,66.9,62.2,41.0,39.2,No,Yes,7.0,High School,High,46.3,56.2,Moderate Risk
+STU1696,Male,19,1.4,62.4,54.5,38.3,40.2,No,Yes,8.3,Doctorate,Medium,56.6,44.7,Moderate Risk
+STU1216,Female,17,2.7,59.0,60.5,57.0,48.5,No,Yes,7.8,Associate,Medium,55.0,54.9,Moderate Risk
+STU2966,Male,22,6.0,77.5,76.8,69.9,72.5,No,Yes,7.2,Associate,Low,83.9,81.9,Low Risk
+STU2125,Male,18,3.6,69.3,59.1,51.2,43.7,No,Yes,8.0,Doctorate,High,60.2,47.7,Moderate Risk
+STU2293,Male,21,3.3,72.5,67.3,46.2,52.8,No,Yes,7.1,Bachelor,Low,53.0,63.4,Moderate Risk
+STU1159,Female,18,5.9,100.0,87.1,67.2,75.1,Yes,Yes,8.1,Associate,Low,100.0,84.7,Low Risk
+STU2912,Male,20,3.8,67.0,65.7,56.6,39.4,Yes,Yes,6.3,Bachelor,Medium,68.9,54.6,Moderate Risk
+STU2454,Male,19,7.2,78.8,72.2,64.3,56.5,No,No,5.2,Bachelor,Medium,61.9,68.3,Moderate Risk
+STU1932,Male,21,4.7,74.5,83.8,75.2,69.4,Yes,Yes,7.2,Associate,High,88.0,80.8,Low Risk
+STU1842,Male,17,6.0,89.7,80.2,67.3,64.3,No,No,7.5,Bachelor,Low,71.4,75.1,Low Risk
+STU1635,Female,21,2.2,60.7,52.1,33.9,47.1,,Yes,7.4,Bachelor,High,60.3,35.8,Moderate Risk
+STU1517,Female,22,5.4,77.4,84.9,74.1,74.8,Yes,Yes,6.8,Associate,Medium,75.5,77.0,Low Risk
+STU2465,Other,21,2.7,54.5,60.0,47.3,42.3,No,No,6.3,Bachelor,High,69.7,49.6,High Risk
+STU2560,Male,18,1.7,55.9,55.7,44.6,42.5,Yes,No,8.8,Master,High,51.7,46.6,High Risk
+STU1598,Female,21,2.9,52.3,63.0,52.3,43.7,No,Yes,6.8,Bachelor,Low,43.7,50.7,Moderate Risk
+STU1196,Female,20,1.8,57.7,58.4,39.4,52.9,No,Yes,7.3,Bachelor,High,41.8,46.3,Moderate Risk
+STU2684,Male,19,3.6,68.7,81.5,54.7,58.7,No,Yes,7.2,Master,Low,71.8,70.5,Moderate Risk
+STU2250,Male,17,5.3,58.7,71.0,44.3,57.6,Yes,Yes,6.0,Doctorate,Medium,58.0,62.3,Moderate Risk
+STU1411,Female,22,3.7,50.2,47.6,52.2,39.5,No,Yes,5.0,High School,High,32.8,51.6,High Risk
+STU1097,Male,19,6.1,80.1,75.7,72.1,59.3,No,Yes,6.6,High School,Low,63.8,79.4,Low Risk
+STU1441,Female,17,1.7,62.9,58.0,41.2,47.7,No,Yes,8.8,Master,Medium,41.0,45.0,High Risk
+STU1988,Female,21,3.9,53.5,55.8,46.8,38.5,Yes,Yes,7.2,Bachelor,High,47.9,61.6,Moderate Risk
+STU1157,Male,20,5.3,65.5,62.0,59.1,58.0,No,Yes,,Master,High,61.5,66.6,Moderate Risk
+STU1420,Male,22,4.0,75.0,53.7,64.6,66.7,No,Yes,8.4,Associate,High,66.0,62.2,Low Risk
+STU2851,Female,17,4.0,68.0,77.6,67.1,55.9,Yes,Yes,4.7,Bachelor,High,57.8,69.4,Moderate Risk
+STU1478,Male,18,2.2,67.1,65.6,41.4,47.6,Yes,Yes,9.0,High School,Medium,69.1,52.0,Moderate Risk
+STU2905,Male,21,4.0,78.6,73.0,71.2,78.4,No,Yes,8.2,Bachelor,Medium,70.3,84.8,Low Risk
+STU1669,Female,17,2.4,65.0,60.2,41.9,52.3,No,Yes,6.5,Master,Low,57.7,55.7,Moderate Risk
+STU2720,Female,17,4.1,77.7,55.9,54.7,49.7,No,Yes,7.6,High School,Low,67.0,52.9,Moderate Risk
+STU2922,Female,22,1.8,45.0,56.0,30.2,37.7,Yes,Yes,7.6,Bachelor,Medium,47.2,39.3,High Risk
+STU2332,Male,20,3.8,79.3,54.5,55.2,42.5,Yes,Yes,6.4,High School,Medium,51.2,50.5,Moderate Risk
+STU1448,Male,22,5.8,85.0,77.6,83.7,77.9,No,Yes,5.8,Master,Medium,67.5,85.7,Low Risk
+STU1554,Male,19,2.8,67.1,71.9,50.2,63.6,Yes,Yes,7.6,Doctorate,High,46.9,61.5,Moderate Risk
+STU1179,Male,20,4.0,57.5,68.9,60.5,52.3,No,Yes,7.7,Associate,Low,33.5,62.8,Moderate Risk
+STU1391,Other,22,4.2,71.2,68.1,52.3,62.8,Yes,Yes,7.4,High School,Medium,49.8,61.5,Moderate Risk
+STU1579,Male,20,4.1,62.1,67.4,45.2,42.8,No,Yes,7.6,Doctorate,Medium,51.4,52.2,Moderate Risk
+STU2041,Male,19,3.1,65.0,74.6,54.2,52.0,Yes,Yes,7.9,Bachelor,Low,50.6,61.1,Moderate Risk
+STU2750,Female,21,3.3,52.9,60.5,49.1,37.6,No,Yes,8.8,Associate,Low,56.2,52.5,Moderate Risk
+STU2319,Female,22,2.4,77.2,64.7,46.2,58.4,No,Yes,6.7,Bachelor,High,48.2,57.9,Moderate Risk
+STU2685,Female,21,1.7,54.0,46.8,38.5,32.4,Yes,Yes,6.8,Associate,Medium,54.3,34.7,High Risk
+STU1938,Male,20,4.3,77.5,75.3,66.2,60.0,No,Yes,8.1,Associate,High,54.2,72.1,Moderate Risk
+STU1821,Male,17,5.5,69.9,72.6,58.9,70.2,No,Yes,6.3,Bachelor,Medium,68.3,74.2,Moderate Risk
+STU2873,Male,18,3.1,77.9,59.5,60.3,53.2,Yes,Yes,7.8,Associate,Low,65.6,56.2,Moderate Risk
+STU2028,Male,17,1.6,52.5,69.0,57.6,59.7,No,Yes,7.2,Doctorate,High,46.8,56.3,Moderate Risk
+STU2076,Female,21,3.8,63.2,65.1,41.5,51.4,No,Yes,7.2,Bachelor,Medium,45.9,47.0,Moderate Risk
+STU1665,Female,20,5.2,61.1,73.5,64.1,62.6,Yes,Yes,7.4,Bachelor,High,88.7,79.6,Moderate Risk
+STU1143,Male,22,4.4,63.2,69.4,46.3,50.0,No,Yes,6.9,Associate,Medium,55.6,55.4,Moderate Risk
+STU2556,Female,22,2.7,75.5,65.8,60.1,64.8,No,Yes,7.1,Bachelor,Medium,75.4,72.3,Low Risk
+STU2466,Female,19,3.1,50.9,59.7,46.6,52.0,Yes,Yes,4.2,High School,Medium,33.0,51.8,Moderate Risk
+STU1865,Female,22,2.3,64.2,63.5,51.2,53.2,No,Yes,6.0,Associate,Medium,40.8,56.8,Moderate Risk
+STU1422,Male,22,7.4,59.5,70.4,74.7,56.0,Yes,No,9.3,Doctorate,High,91.5,81.6,Low Risk
+STU1637,Male,22,1.8,49.2,59.8,33.8,37.1,Yes,Yes,7.4,High School,High,62.4,40.6,High Risk
+STU2443,Male,20,5.6,62.3,75.3,65.7,61.7,No,No,7.1,Associate,Medium,63.7,73.9,Low Risk
+STU1800,Male,17,3.4,51.3,56.3,35.0,48.4,No,No,7.9,Associate,Medium,46.8,52.0,High Risk
+STU2095,Female,19,6.2,82.8,83.1,64.6,61.6,Yes,Yes,7.3,High School,Medium,75.0,77.5,Low Risk
+STU1616,Male,21,1.7,54.0,45.0,33.9,38.4,Yes,Yes,7.0,Bachelor,Medium,55.9,33.0,Moderate Risk
+STU1295,Female,19,3.0,57.9,87.6,46.4,60.3,No,Yes,7.5,Associate,Medium,32.9,50.7,Moderate Risk
+STU1963,Female,18,3.5,48.1,65.5,53.4,48.4,No,Yes,5.9,Bachelor,Medium,45.8,47.1,Moderate Risk
+STU1969,Male,17,1.8,46.8,49.7,20.1,29.7,Yes,Yes,5.9,Bachelor,Low,42.0,30.8,High Risk
+STU2953,Male,21,1.5,64.6,62.6,56.1,48.4,Yes,Yes,8.1,High School,Medium,37.7,59.9,Moderate Risk
+STU1089,Male,18,6.1,79.5,67.4,66.1,66.2,No,Yes,6.1,High School,Low,61.4,69.8,Low Risk
+STU1042,Male,17,4.3,73.0,66.6,55.4,60.8,No,Yes,7.2,Bachelor,Medium,55.1,78.1,Moderate Risk
+STU2850,Male,18,1.9,66.5,75.5,43.1,52.9,No,Yes,7.9,High School,Low,67.0,47.6,Moderate Risk
+STU2986,Female,20,8.0,84.6,88.4,88.2,87.4,Yes,Yes,8.7,Associate,Medium,92.9,97.8,Low Risk
+STU1132,Female,17,4.9,63.2,70.1,66.3,56.9,No,Yes,5.1,Associate,Medium,55.8,67.3,Moderate Risk
+STU2468,Female,17,4.1,94.4,91.7,66.1,79.4,No,Yes,6.9,Bachelor,High,62.9,77.0,Low Risk
+STU1410,Female,19,2.7,54.6,49.1,32.2,43.9,Yes,Yes,7.5,Master,Low,48.1,42.8,High Risk
+STU2348,Female,17,0.7,73.5,61.5,44.2,41.9,No,Yes,6.7,Master,Medium,10.0,49.3,High Risk
+STU2904,Female,19,4.0,59.9,64.1,63.7,48.2,No,Yes,7.0,Bachelor,High,57.8,57.8,Moderate Risk
+STU2377,Female,22,4.6,71.6,71.2,46.4,47.1,Yes,Yes,7.7,High School,Medium,55.4,55.0,Moderate Risk
+STU2538,Male,22,1.7,69.7,58.2,41.6,56.4,No,Yes,8.5,Master,Medium,72.1,54.3,Moderate Risk
+STU1165,Female,17,1.9,62.1,61.7,46.7,46.9,No,Yes,7.0,Bachelor,Medium,47.7,46.1,High Risk
+STU1725,Male,20,5.5,67.7,53.6,54.8,45.4,No,Yes,7.3,Bachelor,Medium,74.1,65.7,Moderate Risk
+STU1291,Female,20,2.7,62.9,85.2,52.6,57.0,Yes,Yes,7.0,Bachelor,Low,68.5,60.5,Moderate Risk
+STU2442,Female,17,3.8,79.5,63.8,49.4,50.3,No,Yes,7.2,Associate,Low,70.1,60.1,Moderate Risk
+STU2575,Female,18,2.6,81.7,54.8,50.4,58.6,Yes,Yes,6.0,Associate,Medium,70.9,58.7,Moderate Risk
+STU2947,Female,17,2.5,56.8,63.0,56.0,62.2,No,Yes,5.6,Associate,Low,48.8,51.8,Moderate Risk
+STU2048,Female,18,2.2,61.1,55.7,33.0,40.7,No,Yes,5.8,High School,Low,46.6,38.9,Moderate Risk
+STU2395,Female,18,4.7,68.1,62.0,61.2,43.6,No,Yes,5.6,Bachelor,Medium,54.8,64.8,Moderate Risk
+STU1779,Male,19,1.1,50.3,54.5,45.2,37.9,No,Yes,5.9,Bachelor,Low,59.6,44.2,High Risk
+STU1840,Male,17,2.1,48.9,57.6,34.7,30.6,No,Yes,6.5,Associate,Medium,48.6,42.3,High Risk
+STU1349,Female,21,2.3,64.1,70.0,60.0,65.9,Yes,Yes,4.4,Associate,Medium,65.3,69.6,Moderate Risk
+STU2997,Male,21,2.9,61.5,77.6,58.2,54.7,No,Yes,6.9,High School,High,39.0,57.9,Moderate Risk
+STU1572,Male,17,,68.7,76.6,51.2,55.8,Yes,No,6.0,Master,Medium,65.2,57.7,Moderate Risk
+STU1918,Male,19,4.1,94.3,83.9,66.3,74.9,No,Yes,6.0,Bachelor,Low,78.1,78.2,Low Risk
+STU2166,Male,19,2.6,68.1,51.1,57.4,63.2,Yes,Yes,6.1,Doctorate,Low,69.0,57.6,Moderate Risk
+STU2937,Female,18,2.1,62.3,60.7,47.9,43.1,No,Yes,7.6,Bachelor,High,58.1,50.6,Moderate Risk
+STU2507,Male,19,3.2,63.1,78.4,53.7,50.6,No,Yes,6.4,Associate,Medium,43.9,69.9,Moderate Risk
+STU2631,Male,17,2.2,53.5,52.4,32.9,45.6,No,No,6.9,High School,Low,44.1,45.9,High Risk
+STU2741,Male,18,4.0,71.0,72.9,59.1,57.9,Yes,Yes,6.6,Master,Medium,68.3,77.9,Moderate Risk
+STU2893,Male,18,4.1,67.3,61.2,62.3,64.6,Yes,No,7.6,Bachelor,High,68.9,71.6,Moderate Risk
+STU1137,Male,19,3.1,76.3,64.4,41.7,56.8,No,Yes,6.0,Bachelor,Low,49.6,56.2,Moderate Risk
+STU1459,Female,21,2.7,62.3,63.3,58.4,46.4,Yes,Yes,7.2,High School,Medium,66.8,60.6,Moderate Risk
+STU1376,Female,20,3.8,72.7,71.6,56.2,52.0,Yes,Yes,7.5,High School,Low,66.3,62.9,Moderate Risk
+STU2375,Female,18,5.5,70.6,73.9,64.3,64.1,Yes,Yes,8.5,Associate,Medium,86.7,68.0,Low Risk
+STU1334,Female,22,2.2,51.4,55.6,38.5,40.8,No,Yes,6.9,High School,Medium,57.4,46.8,Moderate Risk
+STU2339,Female,17,3.1,59.5,51.8,45.8,53.7,No,Yes,5.0,Bachelor,Medium,50.7,51.1,Moderate Risk
+STU2190,Male,20,4.2,65.9,69.0,49.9,54.2,No,Yes,7.0,Associate,Medium,51.7,60.5,Moderate Risk
+STU2975,Female,22,1.5,81.5,66.3,53.1,57.1,No,No,7.8,Bachelor,High,46.2,51.8,Moderate Risk
+STU2806,Male,19,2.3,74.0,72.9,56.0,51.9,Yes,No,6.8,Master,High,64.1,59.1,Moderate Risk
+STU2495,Male,19,4.1,74.8,61.1,53.4,59.1,No,Yes,7.9,High School,High,84.8,59.1,Moderate Risk
+STU1817,Male,19,2.7,45.0,67.5,51.2,57.2,No,Yes,6.4,High School,Low,52.2,58.4,Moderate Risk
+STU2145,Female,22,3.3,59.7,71.9,52.1,47.7,Yes,Yes,6.0,Bachelor,Low,45.7,55.5,Moderate Risk
+STU1606,Female,19,7.1,73.1,80.9,75.2,78.0,Yes,Yes,7.0,High School,Medium,86.2,91.0,Low Risk
+STU2906,Female,21,4.7,54.5,61.5,52.3,53.5,Yes,No,5.7,Bachelor,High,64.5,67.3,Moderate Risk
+STU2019,Male,17,6.2,74.6,72.3,66.7,66.7,Yes,Yes,6.6,Master,Medium,65.6,69.7,Low Risk
+STU2653,Female,19,6.2,73.3,54.0,59.0,46.1,Yes,No,7.4,Bachelor,Medium,66.7,64.2,Moderate Risk
+STU1911,Male,18,3.1,77.7,75.8,63.8,67.2,Yes,No,6.5,Master,High,58.1,71.7,Low Risk
+STU2279,Female,20,2.2,45.4,68.9,33.6,60.2,No,Yes,7.0,Master,Low,23.9,49.2,Moderate Risk
+STU2982,Male,20,2.2,54.7,,39.8,44.0,Yes,Yes,6.7,Master,Medium,37.4,52.6,High Risk
+STU2767,Male,17,6.3,55.5,81.6,62.3,55.9,No,No,6.9,High School,Medium,65.3,71.4,Low Risk
+STU1329,Female,22,3.4,66.1,76.4,61.0,62.9,No,Yes,6.2,Associate,Medium,67.1,69.0,Moderate Risk
+STU2081,Male,20,5.9,86.7,76.3,63.9,63.0,Yes,Yes,5.9,Doctorate,Medium,68.4,80.5,Low Risk
+STU1319,Female,22,3.8,72.4,61.9,47.7,54.7,No,Yes,7.4,Bachelor,Medium,73.1,58.8,Low Risk
+STU2569,Male,18,3.5,73.9,59.4,50.0,55.4,No,Yes,6.8,Bachelor,Low,59.7,66.8,Moderate Risk
+STU2392,Female,17,1.6,54.4,80.3,66.4,55.8,Yes,Yes,5.2,Associate,Medium,35.6,66.9,Moderate Risk
+STU2778,Female,21,3.8,77.2,72.3,59.3,70.5,Yes,Yes,9.2,Master,Medium,78.5,75.8,Moderate Risk
+STU1168,Female,20,5.4,71.7,75.8,70.0,73.5,No,Yes,4.8,Bachelor,Low,73.3,66.7,Low Risk
+STU1013,Male,19,0.7,74.5,51.3,43.2,42.3,Yes,Yes,4.7,High School,Medium,53.5,42.1,Moderate Risk
+STU2979,Male,17,2.5,83.3,61.0,52.0,56.9,No,Yes,7.0,Bachelor,Low,52.4,59.8,Moderate Risk
+STU1172,Female,22,2.0,55.2,45.9,36.9,30.8,Yes,Yes,7.1,Bachelor,Medium,44.5,44.3,High Risk
+STU1650,Male,22,5.8,79.1,69.7,59.3,60.3,No,Yes,7.5,Master,Medium,52.5,77.6,Low Risk
+STU2090,Female,19,3.1,72.3,74.6,45.2,55.1,No,Yes,6.7,,Medium,63.3,63.5,Moderate Risk
+STU1261,Male,19,3.5,52.2,73.8,54.7,51.7,No,Yes,8.2,Bachelor,Low,46.8,61.5,Moderate Risk
+STU2314,Male,20,2.9,69.5,75.8,58.9,61.1,No,No,,Master,Medium,49.7,63.9,Moderate Risk
+STU1169,Female,18,2.1,57.9,64.0,44.2,48.9,Yes,No,6.7,Master,Low,29.9,52.7,High Risk
+STU1902,Female,17,1.4,46.3,67.1,31.5,46.6,No,Yes,8.6,High School,Low,21.0,44.8,High Risk
+STU1673,Female,21,4.2,74.9,49.3,49.4,50.3,Yes,Yes,8.6,High School,Medium,57.4,52.8,Moderate Risk
+STU1259,Male,19,5.8,74.6,79.8,69.7,62.3,Yes,Yes,6.1,Associate,Medium,61.4,68.8,Low Risk
+STU2545,Male,17,4.1,66.8,78.3,69.2,61.0,Yes,Yes,6.9,Associate,High,67.4,74.7,Low Risk
+STU1845,Female,21,4.0,72.6,69.0,58.5,59.3,No,Yes,6.8,Associate,High,39.5,68.2,Moderate Risk
+STU1868,Female,22,1.4,56.8,59.8,48.6,47.3,No,Yes,8.0,Bachelor,Medium,56.9,56.4,Moderate Risk
+STU2256,Female,19,3.5,68.2,60.5,56.9,56.5,No,Yes,6.9,Associate,High,68.0,63.8,Moderate Risk
+STU1139,Female,20,4.9,67.3,61.0,56.9,59.1,No,Yes,7.9,Doctorate,Medium,60.8,66.7,Moderate Risk
+STU1894,Female,22,3.1,65.3,43.9,41.9,45.1,No,Yes,6.8,High School,Low,47.3,39.6,Moderate Risk
+STU2886,Female,18,8.0,79.3,80.5,84.7,75.7,Yes,Yes,6.0,High School,Low,66.7,88.1,Low Risk
+STU1550,Male,20,6.3,76.9,79.6,68.9,65.7,Yes,Yes,4.8,High School,Medium,80.1,73.9,Low Risk
+STU1320,Female,17,5.7,63.7,63.7,52.4,48.9,Yes,Yes,8.4,Bachelor,Low,63.0,59.9,Moderate Risk
+STU2566,Female,20,2.6,71.3,74.8,69.1,75.0,No,No,6.8,Associate,Low,65.3,68.3,Low Risk
+STU2842,Female,18,0.9,63.9,54.3,47.8,49.3,No,Yes,6.0,Bachelor,Medium,52.3,50.2,Moderate Risk
+STU2854,Male,19,2.0,47.0,61.7,40.9,34.8,Yes,Yes,7.8,Associate,High,14.8,39.5,High Risk
+STU1559,Male,18,4.9,57.4,57.2,45.3,54.8,No,No,7.1,High School,High,63.9,51.1,Moderate Risk
+STU1140,Male,22,3.1,56.9,68.0,62.1,64.1,Yes,Yes,8.4,Master,Low,71.0,60.3,Moderate Risk
+STU2780,Male,20,4.4,64.6,68.0,55.7,56.1,Yes,Yes,8.4,High School,Medium,66.0,74.2,Moderate Risk
+STU1532,Other,22,3.7,66.6,77.0,50.9,46.9,Yes,Yes,7.8,Bachelor,Medium,58.5,55.2,Moderate Risk
+STU1225,Female,21,2.4,77.7,68.8,42.2,51.9,No,No,6.1,Master,High,77.3,62.7,Moderate Risk
+STU1724,Male,18,2.5,60.6,52.6,47.6,44.4,Yes,Yes,8.4,High School,Low,72.8,59.6,Moderate Risk
+STU2761,Female,17,3.1,56.8,54.3,42.7,46.3,No,Yes,6.1,Bachelor,Medium,69.7,59.8,Moderate Risk
+STU1326,Male,17,3.9,63.8,49.7,50.1,43.2,Yes,Yes,7.7,High School,Medium,60.2,52.4,Moderate Risk
+STU2294,Male,20,4.4,65.5,77.2,65.1,58.7,Yes,Yes,6.9,High School,Medium,74.9,70.2,Moderate Risk
+STU1715,Female,22,7.1,67.0,64.0,60.6,66.2,No,Yes,5.3,High School,High,65.4,76.1,Moderate Risk
+STU1847,Female,19,1.5,66.5,66.5,50.1,47.1,No,No,6.9,Associate,Medium,65.0,63.4,Moderate Risk
+STU1194,Male,22,2.3,69.5,73.2,55.7,61.6,Yes,No,8.6,Bachelor,Low,23.6,56.1,Moderate Risk
+STU1574,Male,19,,64.9,78.0,63.6,60.5,No,Yes,8.1,Doctorate,Medium,37.7,57.5,Moderate Risk
+STU1947,Female,21,1.2,74.1,74.4,59.4,70.1,No,No,7.0,High School,Low,58.0,65.6,Low Risk
+STU1504,Male,18,2.3,59.7,56.5,49.5,44.4,No,No,4.2,Master,Medium,52.2,42.8,Moderate Risk
+STU2203,Female,18,1.8,61.7,55.5,23.3,42.4,Yes,Yes,7.2,Bachelor,High,55.5,52.2,Moderate Risk
+STU2194,Male,21,4.0,67.7,97.2,67.5,60.2,No,Yes,7.5,Bachelor,Medium,43.5,63.2,Moderate Risk
+STU2834,Male,22,1.9,71.4,49.1,45.0,49.5,No,Yes,8.0,High School,Medium,62.5,57.1,Moderate Risk
+STU1004,Male,18,1.0,73.7,44.9,40.5,45.5,No,Yes,7.7,High School,Low,47.1,56.6,High Risk
+STU2180,Male,21,2.8,65.8,73.7,57.5,56.3,No,Yes,7.8,Bachelor,Medium,67.7,60.5,Moderate Risk
+STU1468,Male,21,5.9,79.1,78.3,52.1,59.9,Yes,Yes,6.3,Associate,Medium,88.4,76.3,Moderate Risk
+STU1006,Female,22,3.8,66.9,65.1,52.9,56.1,No,Yes,6.4,Bachelor,Low,36.3,57.3,Moderate Risk
+STU2819,Male,22,3.8,54.7,66.2,37.9,42.9,No,Yes,8.0,Master,Medium,73.8,60.6,Moderate Risk
+STU1548,Male,18,2.8,71.8,72.2,62.9,51.4,Yes,No,7.2,Associate,Medium,55.1,62.3,Moderate Risk
+STU1229,Male,20,5.1,77.4,75.5,58.5,55.5,No,Yes,7.0,Master,Low,55.8,66.3,Moderate Risk
+STU1543,Female,19,8.0,84.3,80.0,82.3,79.0,Yes,Yes,8.5,High School,Low,75.5,87.8,Low Risk
+STU1243,Male,21,6.4,98.1,93.5,71.7,72.0,Yes,Yes,6.6,High School,High,77.4,81.2,Low Risk
+STU1899,Female,20,2.3,56.0,65.9,53.7,48.2,No,Yes,4.8,Bachelor,Medium,49.7,53.7,Moderate Risk
+STU2164,Male,21,1.0,55.9,53.2,35.9,43.8,Yes,Yes,6.6,Master,Medium,31.4,49.5,High Risk
+STU2222,Female,20,2.8,58.4,55.2,48.9,46.8,Yes,Yes,7.4,Bachelor,Medium,72.8,59.6,Moderate Risk
+STU2115,Male,20,5.0,69.6,89.3,71.1,67.8,No,Yes,7.4,High School,Low,59.5,76.2,Low Risk
+STU1843,Female,22,6.4,78.6,92.9,76.3,82.9,No,Yes,7.2,Doctorate,Medium,78.5,84.2,Low Risk
+STU2455,Female,20,2.0,68.0,78.7,47.7,55.0,No,Yes,6.9,Bachelor,Medium,69.0,57.2,Moderate Risk
+STU2603,Female,22,3.0,67.8,78.3,44.3,71.8,Yes,No,7.2,Master,High,56.2,66.9,Moderate Risk
+STU1923,Male,21,3.6,79.7,79.2,57.7,66.1,Yes,Yes,6.6,Doctorate,High,33.6,66.2,Moderate Risk
+STU1662,Other,22,3.4,55.6,63.7,57.6,56.8,Yes,Yes,8.0,Master,Low,50.3,61.1,Moderate Risk
+STU2241,Male,20,1.8,66.3,71.6,39.9,44.5,Yes,Yes,7.6,Master,Low,54.2,49.1,Moderate Risk
+STU1315,Male,19,5.0,86.2,83.7,56.8,53.9,No,Yes,8.9,Associate,Medium,74.4,66.0,Low Risk
+STU1692,Female,21,2.6,67.6,57.5,43.5,45.9,Yes,Yes,4.9,Bachelor,Medium,58.6,54.1,Moderate Risk
+STU2543,Male,18,5.0,63.8,65.3,72.4,58.1,Yes,Yes,7.2,Bachelor,Medium,57.6,69.4,Low Risk
+STU1425,Female,20,4.1,69.1,62.1,50.6,59.4,No,Yes,6.6,Master,Medium,62.7,58.2,Moderate Risk
+STU1595,Male,17,2.0,45.3,53.0,38.2,51.9,No,Yes,6.3,Associate,Low,36.6,46.7,High Risk
+STU3016,Female,22,4.2,64.8,67.8,49.0,53.0,No,Yes,6.6,Associate,Low,40.8,55.2,Moderate Risk
+STU1623,Female,21,3.4,74.7,62.5,44.9,62.5,Yes,Yes,6.1,Master,Low,71.4,68.8,Moderate Risk
+STU2201,Male,18,4.5,68.7,67.1,57.2,68.9,Yes,Yes,6.7,Master,High,51.0,70.5,Low Risk
+STU2482,Female,19,3.5,65.6,60.8,51.2,41.6,No,Yes,7.0,Master,Medium,47.3,52.6,Moderate Risk
+STU1228,Female,19,2.6,60.6,64.8,40.5,43.1,Yes,No,6.7,Master,Medium,56.0,47.9,High Risk
+STU2743,Male,22,5.0,73.1,58.7,52.8,44.2,Yes,Yes,6.3,Bachelor,Low,56.1,50.5,Moderate Risk
+STU2829,Male,18,1.5,57.6,52.0,41.4,46.4,Yes,Yes,6.8,High School,High,33.2,42.9,High Risk
+STU2965,Male,19,1.8,51.3,57.4,37.8,37.4,No,Yes,6.7,Associate,Low,43.9,52.1,High Risk
+STU1067,Female,19,2.7,61.3,67.3,52.1,57.2,Yes,Yes,7.1,Master,Medium,64.5,59.2,Moderate Risk
+STU1025,Female,17,1.9,54.7,62.0,49.0,52.1,No,Yes,6.0,High School,Low,54.1,52.7,Moderate Risk
+STU1145,Female,17,6.6,73.9,73.6,76.5,72.5,Yes,Yes,7.2,Associate,High,74.4,83.1,Low Risk
+STU1537,Male,20,1.4,45.0,61.6,48.3,50.6,No,Yes,5.5,Associate,Low,42.7,54.2,Moderate Risk
+STU1812,Male,21,3.8,50.4,56.6,30.1,39.2,Yes,Yes,7.5,Bachelor,Medium,41.9,48.0,High Risk
+STU2318,Male,19,7.1,89.5,71.8,76.7,84.9,No,Yes,9.0,Bachelor,Low,80.4,97.5,Low Risk
+STU1086,Female,20,2.1,56.0,67.4,44.1,53.1,Yes,Yes,6.3,Associate,Medium,40.2,48.4,Moderate Risk
+STU2365,Male,20,1.3,50.8,64.2,39.3,55.5,No,Yes,7.6,Master,Low,24.7,50.6,High Risk
+STU2818,Male,17,7.6,83.8,86.6,85.5,77.9,No,Yes,6.7,High School,Low,81.6,85.1,Low Risk
+STU2418,Female,17,2.7,66.3,71.5,54.9,57.0,No,Yes,8.9,Associate,Medium,63.8,62.6,Moderate Risk
+STU2853,Male,20,8.0,71.8,98.0,80.1,73.1,Yes,Yes,7.0,Bachelor,Medium,80.0,90.2,Low Risk
+STU2866,Male,17,6.1,75.7,82.0,66.0,76.6,No,Yes,5.3,Master,Medium,70.3,80.4,Low Risk
+STU2407,Male,20,1.2,55.7,66.6,58.8,46.3,No,Yes,6.5,Doctorate,Medium,37.6,54.3,High Risk
+STU2916,Male,17,1.6,63.1,73.2,53.6,52.8,No,Yes,7.6,High School,Medium,46.0,48.3,Moderate Risk
+STU1363,Female,17,2.2,72.9,75.1,57.7,63.6,Yes,Yes,4.2,High School,Low,51.6,63.5,Moderate Risk
+STU2652,Female,18,0.9,57.0,56.8,43.1,40.8,Yes,Yes,4.1,Associate,Medium,36.6,39.1,High Risk
+STU2183,Male,19,7.1,65.2,78.8,71.9,67.6,Yes,Yes,5.3,Bachelor,Medium,76.6,77.1,Low Risk
+STU2027,Male,19,2.1,52.1,69.5,38.4,55.6,Yes,Yes,5.7,Associate,High,67.7,51.1,Moderate Risk
+STU2031,Female,20,6.0,79.9,67.9,59.3,53.8,No,Yes,7.2,Doctorate,Medium,66.6,61.3,Low Risk
+STU2248,Female,17,1.9,70.6,57.8,47.6,50.1,No,Yes,7.3,Master,Medium,57.5,57.2,Moderate Risk
+STU2388,Female,22,2.8,76.4,64.0,57.8,59.8,No,Yes,7.5,Bachelor,Medium,39.5,67.7,Moderate Risk
+STU2101,Female,17,2.1,72.3,52.5,44.8,44.7,No,Yes,4.4,High School,Medium,65.1,51.3,Moderate Risk
+STU1666,Female,19,4.5,85.4,77.8,71.7,72.7,No,Yes,5.1,Associate,High,55.4,80.7,Low Risk
+STU1365,Male,18,5.1,49.0,54.3,63.3,48.5,Yes,Yes,5.4,Master,Low,63.8,63.7,Moderate Risk
+STU1078,Female,22,4.1,80.3,55.5,51.9,50.0,No,No,8.1,Bachelor,Low,46.3,67.4,Moderate Risk
+STU1028,Male,20,,71.5,63.9,41.8,42.6,No,Yes,7.5,Associate,Medium,32.9,57.7,High Risk
+STU2473,Male,17,2.9,55.3,55.5,35.8,57.0,Yes,Yes,6.4,Associate,High,65.0,51.2,Moderate Risk
+STU1526,Female,19,,69.9,42.6,45.1,48.7,Yes,Yes,6.9,Master,Medium,35.5,62.6,Moderate Risk
+STU2883,Male,21,7.6,88.3,76.5,70.7,59.2,No,Yes,7.6,Bachelor,Medium,81.7,80.6,Low Risk
+STU1056,Male,18,5.5,83.1,74.7,67.5,73.7,No,Yes,6.4,Master,Low,83.3,84.2,Low Risk
+STU1639,Female,17,3.0,66.3,68.2,41.1,42.1,Yes,Yes,8.1,Bachelor,Low,47.6,55.6,High Risk
+STU1303,Male,21,5.1,61.6,72.8,65.1,58.1,No,Yes,6.1,High School,High,44.3,64.3,Moderate Risk
+STU1719,Female,18,3.4,66.1,57.1,55.8,65.7,No,Yes,5.8,Associate,Medium,63.5,63.5,Moderate Risk
+STU1625,Male,20,8.0,86.3,81.9,76.6,78.4,Yes,Yes,7.0,Bachelor,Low,85.3,84.2,Low Risk
+STU1008,Male,21,2.3,81.5,66.0,59.1,61.7,No,Yes,6.7,High School,Low,52.0,64.7,Moderate Risk
+STU1804,Male,20,2.7,46.3,62.5,46.1,53.4,No,Yes,7.3,Associate,Medium,35.1,49.3,Moderate Risk
+STU2050,Female,22,6.2,73.4,74.5,66.3,59.4,Yes,Yes,8.3,Bachelor,Medium,65.2,74.8,Low Risk
+STU1337,Male,19,1.6,68.2,63.4,52.2,58.7,No,No,8.5,Associate,Medium,46.3,52.5,Moderate Risk
+STU1048,Male,18,5.8,64.1,60.8,52.1,60.8,Yes,Yes,6.4,High School,Low,69.8,61.6,Moderate Risk
+STU2519,Female,22,3.7,66.0,70.7,63.8,47.9,No,Yes,7.2,High School,Low,49.1,63.0,Moderate Risk
+STU1107,Female,19,3.0,68.9,73.8,69.2,68.1,No,Yes,6.5,Master,High,38.5,72.0,Moderate Risk
+STU1350,Male,17,2.5,59.0,63.5,46.0,57.4,Yes,Yes,6.8,Associate,Medium,48.0,63.2,Moderate Risk
+STU2080,Male,21,2.0,74.8,55.0,35.2,44.0,No,Yes,7.5,Bachelor,Low,53.0,48.5,Moderate Risk
+STU1239,Male,22,1.5,51.5,58.2,30.9,41.6,Yes,Yes,8.3,Bachelor,Low,50.4,45.5,High Risk
+STU1214,Female,17,1.7,63.3,48.1,46.6,42.3,No,Yes,4.9,High School,Low,49.0,53.6,High Risk
+STU2284,Female,17,2.9,53.4,63.4,48.1,54.2,No,Yes,7.4,Bachelor,High,40.5,52.1,Moderate Risk
+STU2212,Female,18,3.5,71.6,76.3,62.8,53.8,No,Yes,6.7,Master,Medium,51.6,59.0,Low Risk
+STU1794,Male,20,2.2,83.1,81.7,50.3,60.8,No,No,5.9,High School,Medium,56.3,68.6,Moderate Risk
+STU2097,Female,20,3.1,59.1,52.0,37.3,49.7,No,Yes,6.1,,Low,38.5,51.0,Moderate Risk
+STU2362,Female,19,8.0,83.6,84.0,80.1,71.5,Yes,Yes,8.8,Bachelor,Medium,74.7,83.4,Low Risk
+STU2915,Female,21,6.4,84.2,81.6,70.6,69.7,No,No,8.3,High School,Medium,77.0,84.1,Low Risk
+STU2622,Female,19,1.1,53.9,51.4,34.8,52.5,Yes,No,4.9,Bachelor,High,41.6,50.3,Moderate Risk
+STU2862,Male,21,3.6,67.8,55.1,50.1,57.8,Yes,Yes,7.4,Associate,Low,55.2,58.2,Moderate Risk
+STU1524,Male,20,4.5,80.7,83.9,66.1,67.1,No,No,4.9,Master,Medium,96.1,78.6,Low Risk
+STU1233,Male,20,3.6,58.0,53.2,39.5,35.8,No,Yes,7.5,High School,High,34.2,60.3,Moderate Risk
+STU1645,Female,17,1.7,51.1,52.3,40.7,40.8,No,Yes,7.6,Master,Medium,38.1,47.2,Moderate Risk
+STU2547,Male,22,4.9,92.4,67.6,74.4,56.9,No,Yes,,Associate,Low,64.2,64.5,Low Risk
+STU1534,Male,17,3.6,61.9,64.9,48.8,46.6,No,Yes,5.2,Bachelor,Low,65.5,54.5,Moderate Risk
+STU2548,Male,21,2.6,57.7,68.4,56.1,45.2,No,Yes,6.6,Bachelor,Medium,60.4,58.4,Moderate Risk
+STU1604,Female,20,3.8,52.3,59.3,49.3,49.5,Yes,Yes,4.7,Associate,Medium,55.1,53.4,Moderate Risk
+STU2240,Female,18,3.6,45.4,53.2,46.4,55.9,Yes,Yes,7.2,Bachelor,Medium,42.6,52.9,Moderate Risk
+STU2075,Other,17,4.3,86.7,79.6,70.9,58.1,Yes,No,5.7,High School,High,68.1,70.0,Low Risk
+STU2337,Female,19,4.9,65.9,64.3,58.8,58.5,No,Yes,6.8,Bachelor,Medium,79.8,69.1,Moderate Risk
+STU1061,Female,22,2.1,59.6,65.3,41.3,41.3,No,Yes,6.6,Bachelor,Low,43.8,51.2,High Risk
+STU2944,Male,20,2.9,75.2,66.2,49.4,54.0,No,Yes,6.9,High School,High,64.3,67.6,Moderate Risk
+STU1093,Male,20,2.9,76.5,70.8,58.9,65.9,No,Yes,7.2,High School,Low,68.4,60.9,Moderate Risk
+STU1667,Female,20,4.6,65.3,61.8,54.2,50.0,No,No,7.2,High School,High,41.1,50.3,Moderate Risk
+STU1281,Male,22,3.0,59.5,57.3,46.5,41.1,No,No,9.3,Bachelor,High,54.8,52.3,High Risk
+STU2691,Female,19,2.7,62.8,52.5,45.1,43.7,No,Yes,7.6,Master,Medium,52.7,49.8,Moderate Risk
+STU1360,Male,22,5.8,75.7,70.6,59.5,55.9,No,Yes,6.1,Doctorate,Medium,74.8,81.4,Moderate Risk
+STU2663,Male,19,3.0,69.7,69.7,64.3,59.9,Yes,Yes,6.9,Bachelor,Low,49.4,70.4,Moderate Risk
+STU2583,Male,20,4.5,74.4,78.0,61.1,60.8,Yes,Yes,7.2,Bachelor,Low,87.7,69.1,Moderate Risk
+STU1848,Other,21,4.2,58.6,66.9,54.8,49.4,Yes,Yes,9.3,Bachelor,High,43.5,54.7,Moderate Risk
+STU2963,Male,22,5.6,67.0,75.3,67.4,62.1,Yes,Yes,5.8,,Medium,61.6,78.8,Low Risk
+STU1111,Female,20,2.8,63.4,72.7,43.7,66.7,No,Yes,7.3,High School,Low,48.0,59.7,Moderate Risk
+STU1043,Female,17,3.4,73.2,52.9,54.5,56.2,No,Yes,7.4,Bachelor,Medium,61.1,65.9,Moderate Risk
+STU1126,Female,21,2.1,73.7,70.4,42.2,46.5,Yes,Yes,9.0,High School,Medium,31.8,59.3,Moderate Risk
+STU1205,Male,21,5.2,72.0,79.0,47.4,55.0,No,Yes,6.9,Bachelor,Low,59.7,66.8,Moderate Risk
+STU1053,Male,18,5.0,72.8,80.4,74.5,72.0,Yes,Yes,7.3,Master,High,71.8,82.7,Low Risk
+STU1546,Female,21,2.5,46.6,54.5,42.8,44.8,Yes,Yes,7.0,High School,Medium,34.8,41.7,Moderate Risk
+STU1069,Female,17,3.4,71.0,73.4,55.7,56.0,No,Yes,6.5,Bachelor,Low,61.2,67.7,Moderate Risk
+STU2282,Male,19,4.0,77.6,71.6,64.2,58.6,Yes,Yes,5.7,High School,Medium,68.9,74.4,Low Risk
+STU2587,Male,20,1.8,56.0,62.7,48.4,53.6,No,Yes,5.6,Bachelor,Low,46.1,57.8,High Risk
+STU1184,Male,20,4.2,58.8,76.4,58.8,60.1,Yes,Yes,7.4,Associate,Medium,64.4,74.4,Moderate Risk
+STU1138,Male,21,2.3,62.0,61.7,44.9,48.2,No,Yes,6.3,Bachelor,Low,34.7,59.2,Moderate Risk
+STU1900,Female,19,3.1,71.1,70.0,65.4,50.2,Yes,Yes,7.9,Master,Low,73.4,66.6,Moderate Risk
+STU1797,Male,20,3.3,66.4,81.3,53.6,51.3,Yes,No,7.1,Associate,Medium,47.7,67.0,Moderate Risk
+STU1133,Female,20,4.8,65.9,61.1,61.7,52.0,No,Yes,7.0,Bachelor,Medium,49.5,65.2,Moderate Risk
+STU1081,Male,22,2.1,80.8,70.9,63.0,58.7,No,Yes,7.1,Bachelor,Low,54.2,62.6,Moderate Risk
+STU2522,Male,22,8.0,84.7,67.9,66.6,57.1,No,No,7.6,Master,Low,76.1,82.6,Low Risk
+STU2830,Female,21,3.2,65.1,64.9,46.8,50.0,Yes,Yes,9.2,Bachelor,Medium,67.9,57.5,Moderate Risk
+STU1542,Male,20,5.8,65.3,92.4,63.4,60.8,No,Yes,6.3,Bachelor,Medium,52.7,69.1,Low Risk
+STU2718,Male,20,4.7,74.3,50.4,40.6,40.5,Yes,Yes,7.2,High School,Medium,70.2,50.3,High Risk
+STU1984,Female,20,3.8,70.0,59.7,39.4,47.9,,Yes,8.2,Master,Medium,41.2,53.2,Moderate Risk
+STU1166,Male,20,5.1,77.1,73.1,76.2,68.5,Yes,Yes,7.0,High School,Medium,60.7,68.2,Low Risk
+STU1249,Male,20,3.8,69.7,61.7,50.7,37.4,No,Yes,7.1,Master,Medium,56.3,59.1,Moderate Risk
+STU1447,Other,19,2.6,68.8,68.6,45.2,56.7,Yes,No,6.4,,High,56.9,66.1,Moderate Risk
+STU2179,Male,19,3.6,71.7,81.7,54.7,57.7,Yes,Yes,7.2,Bachelor,Low,65.2,56.5,Moderate Risk
+STU1859,Male,20,5.1,82.2,67.8,69.1,69.8,No,Yes,7.8,Bachelor,Medium,91.5,80.5,Low Risk
+STU2874,Male,18,2.4,63.3,68.1,43.7,55.0,Yes,Yes,8.6,Doctorate,Low,48.5,56.0,Moderate Risk
+STU1098,Female,22,3.2,80.9,63.1,45.4,37.4,No,Yes,5.9,Bachelor,High,53.0,51.8,Moderate Risk
+STU1180,Female,22,2.6,72.2,62.5,50.7,57.7,Yes,Yes,8.8,Associate,Low,45.6,57.7,Moderate Risk
+STU1738,Male,22,4.1,70.2,71.8,58.7,59.6,Yes,Yes,6.0,Bachelor,High,62.4,75.7,Moderate Risk
+STU2287,Female,17,8.0,97.5,81.0,82.9,74.6,Yes,Yes,6.0,High School,Low,74.5,86.2,Low Risk
+STU1103,Female,19,3.1,68.0,77.9,46.1,65.3,No,Yes,5.6,Master,Low,63.3,73.6,Moderate Risk
+STU1435,Female,22,3.2,62.5,61.6,46.4,47.3,No,Yes,4.2,High School,Low,55.9,62.8,High Risk
+STU1075,Male,20,8.0,87.7,83.5,70.8,68.2,Yes,Yes,5.4,Associate,Medium,99.2,88.3,Low Risk
+STU2839,Male,17,2.6,50.3,67.8,41.9,37.0,No,Yes,7.4,Associate,Medium,58.9,53.7,High Risk
+STU2232,Female,21,2.6,66.7,55.5,47.5,43.9,No,No,6.4,Doctorate,Medium,59.9,47.1,High Risk
+STU1919,Male,21,2.7,55.1,64.5,51.6,50.9,Yes,Yes,6.6,High School,Medium,29.0,57.6,Moderate Risk
+STU2755,Male,17,4.2,57.9,77.7,47.9,62.9,Yes,Yes,7.3,Associate,High,55.4,67.0,Moderate Risk
+STU2714,Female,22,2.5,65.9,76.6,46.7,69.2,No,No,6.3,Master,High,41.7,59.3,Moderate Risk
+STU2661,Male,19,1.3,65.0,67.7,52.4,37.6,No,Yes,6.1,Bachelor,Medium,39.5,55.3,Moderate Risk
+STU1763,Female,21,8.0,75.6,71.9,68.7,55.4,Yes,Yes,5.4,Associate,Medium,78.8,77.2,Low Risk
+STU1990,Male,22,3.2,71.1,72.6,55.2,48.8,Yes,Yes,8.2,Bachelor,High,34.3,56.0,Moderate Risk
+STU1389,Male,17,3.5,67.3,61.6,36.8,58.1,No,Yes,5.2,Associate,Low,63.6,70.7,Moderate Risk
+STU1236,Male,20,4.8,66.3,67.7,58.7,55.8,No,Yes,6.2,High School,Medium,73.4,71.1,Moderate Risk
+STU2546,Female,18,3.8,60.0,79.0,62.6,73.9,No,No,5.7,High School,Medium,62.6,79.6,Low Risk
+STU1268,Male,21,4.6,61.2,64.1,50.1,54.2,No,Yes,5.4,Master,Medium,69.6,59.4,Moderate Risk
+STU2336,Male,20,1.7,54.1,50.8,40.5,49.3,Yes,Yes,6.3,Master,Medium,55.4,40.7,High Risk
+STU1118,Female,18,2.4,64.9,52.9,32.9,36.1,No,Yes,7.2,Doctorate,High,39.9,48.2,High Risk
+STU2647,Female,17,4.5,66.8,67.6,64.1,45.6,Yes,Yes,8.0,Associate,Medium,28.0,63.2,Moderate Risk
+STU1674,Male,18,1.8,71.5,47.8,59.8,41.7,Yes,Yes,7.4,Bachelor,Medium,55.6,51.5,Moderate Risk
+STU1250,Male,17,3.8,76.6,81.4,64.8,68.0,No,Yes,7.1,Master,Medium,66.7,69.5,Low Risk
+STU2490,Female,22,5.3,55.4,86.2,60.8,53.3,,Yes,7.8,Master,Medium,59.9,70.1,Moderate Risk
+STU1262,Other,19,1.8,54.1,66.5,46.5,60.4,Yes,Yes,8.8,Bachelor,Low,57.2,55.7,Moderate Risk
+STU1095,Male,18,4.7,85.0,78.7,55.8,48.4,Yes,No,5.7,High School,Medium,87.3,59.1,Low Risk
+STU1034,Male,21,3.2,82.1,59.8,55.9,63.4,No,Yes,9.2,High School,Low,91.2,70.9,Moderate Risk
+STU2502,Female,17,4.2,79.2,74.7,60.7,65.9,Yes,Yes,5.7,High School,Low,50.0,65.0,Moderate Risk
+STU2711,Female,17,2.9,58.0,60.9,44.9,39.8,No,Yes,7.5,High School,Low,50.6,53.1,High Risk
+STU1449,Female,19,4.4,76.4,65.3,49.1,49.9,No,Yes,5.7,High School,Medium,73.5,73.9,Moderate Risk
+STU1717,Male,19,2.2,67.9,56.4,53.1,54.9,No,Yes,6.6,Master,High,62.9,62.5,Moderate Risk
+STU2499,Female,18,5.6,69.3,80.2,64.0,59.0,No,Yes,6.1,Master,Medium,100.0,67.9,Low Risk
+STU2557,Male,17,3.1,82.2,62.5,45.5,46.4,Yes,No,6.1,Doctorate,Medium,66.3,56.7,Moderate Risk
+STU1001,Female,20,3.6,75.9,57.1,62.0,65.5,Yes,Yes,5.7,Bachelor,Low,61.5,65.0,Moderate Risk
+STU2588,Female,20,6.2,80.3,59.1,50.9,59.2,Yes,No,7.8,Bachelor,Medium,95.6,72.9,Moderate Risk
+STU2102,Male,18,5.8,66.9,77.4,79.6,65.2,No,Yes,7.5,High School,Medium,79.8,74.0,Low Risk
+STU2109,Male,20,1.7,56.4,57.0,50.9,48.7,No,Yes,8.3,Master,Medium,53.9,46.7,Moderate Risk
+STU2812,Male,21,3.3,76.7,58.9,60.8,44.7,,No,8.6,Master,Low,72.0,61.4,Moderate Risk
+STU1083,Female,21,4.9,72.8,68.7,63.8,57.2,No,Yes,5.7,Master,Low,54.1,66.3,Moderate Risk
+STU2320,Female,20,3.0,50.3,57.4,47.9,44.9,No,Yes,6.7,Bachelor,Low,42.6,48.5,High Risk
+STU1677,Female,19,3.9,75.4,69.6,73.0,77.0,No,Yes,7.8,High School,Low,55.4,81.2,Low Risk
+STU2488,Male,20,1.8,69.5,52.0,38.7,44.2,Yes,Yes,7.9,High School,Medium,38.6,44.4,High Risk
+STU2047,Female,17,3.4,63.5,72.3,51.2,46.5,No,Yes,7.6,Bachelor,Medium,53.7,48.6,Moderate Risk
+STU1771,Female,21,2.9,53.6,64.1,45.8,54.4,Yes,Yes,9.5,Bachelor,High,48.8,50.8,Moderate Risk
+STU2246,Male,19,7.8,97.4,87.5,81.0,89.9,Yes,Yes,6.4,Bachelor,Medium,93.6,95.1,Low Risk
+STU2593,Female,22,8.0,85.8,78.6,71.5,71.7,No,Yes,6.9,Bachelor,Medium,93.4,83.6,Low Risk
+STU2620,Male,19,2.2,58.5,58.7,44.5,48.1,Yes,Yes,6.6,Master,Medium,47.1,47.3,Moderate Risk
+STU2665,Other,19,3.2,59.9,67.1,36.3,48.0,Yes,Yes,7.7,Doctorate,Low,34.2,49.8,High Risk
+STU1405,Female,17,6.0,83.9,75.8,72.9,70.0,No,Yes,6.4,Bachelor,Low,74.8,85.2,Low Risk
+STU2772,Male,19,5.2,64.3,66.7,62.5,68.3,No,No,8.3,Bachelor,Medium,72.5,67.2,Low Risk
+STU2331,Male,21,2.4,70.5,60.9,42.8,40.2,Yes,Yes,5.9,Master,High,65.9,50.4,Moderate Risk
+STU2616,Male,18,4.7,63.0,72.7,64.6,49.4,Yes,Yes,7.2,High School,High,52.5,63.4,Moderate Risk
+STU1105,Male,21,5.8,90.7,85.6,81.7,70.7,No,Yes,8.0,Master,Medium,80.1,80.1,Low Risk
+STU1689,Male,20,4.1,80.7,77.1,65.3,63.7,Yes,Yes,6.6,High School,Medium,66.2,74.8,Low Risk
+STU3019,Female,20,5.1,68.4,75.4,65.2,61.1,Yes,Yes,6.1,High School,Medium,60.3,74.4,Moderate Risk
+STU1827,Female,18,5.7,82.7,81.6,75.4,79.2,No,Yes,7.3,Doctorate,Medium,71.1,80.3,Low Risk
+STU1063,Male,22,2.8,53.0,60.8,39.2,39.7,Yes,Yes,7.5,Bachelor,Medium,42.4,50.6,Moderate Risk
+STU1853,Female,17,5.6,70.3,67.8,54.1,55.7,No,Yes,6.0,Master,High,77.1,64.9,Moderate Risk
+STU2386,Female,22,2.6,83.8,69.1,59.6,62.3,No,Yes,5.9,Master,Medium,52.4,71.4,Moderate Risk
+STU1224,Female,20,2.1,66.5,77.7,44.6,56.0,No,Yes,7.3,Master,Low,30.0,56.7,Moderate Risk
+STU1146,Female,20,2.3,53.2,53.6,31.1,37.9,Yes,Yes,6.6,Associate,Low,51.8,39.6,High Risk
+STU2089,Other,18,4.1,67.0,75.4,64.8,58.9,Yes,Yes,5.8,High School,Medium,63.1,69.2,Moderate Risk
+STU1374,Male,21,2.8,72.8,61.1,41.8,49.2,Yes,Yes,5.2,Bachelor,Low,68.5,49.5,Moderate Risk
+STU2457,Male,22,4.9,51.1,65.9,51.4,52.7,Yes,Yes,8.0,Associate,Medium,56.8,59.8,Moderate Risk
+STU2143,Male,22,2.0,67.1,64.5,46.2,40.7,Yes,Yes,4.4,Bachelor,Medium,59.4,46.8,Moderate Risk
+STU2875,Male,19,2.5,66.4,58.0,41.7,50.3,No,Yes,6.6,Associate,Medium,52.1,53.1,Moderate Risk
+STU2789,Female,20,7.0,86.4,90.5,77.5,58.3,No,Yes,4.8,Bachelor,Low,89.9,79.0,Low Risk
+STU2642,Male,21,1.5,77.4,59.5,54.8,51.6,No,Yes,8.0,Bachelor,Medium,46.8,54.1,Moderate Risk
+STU2302,Male,19,5.0,78.4,80.1,64.3,75.6,Yes,Yes,8.1,Associate,High,50.5,69.0,Low Risk
+STU1010,Male,21,4.1,80.3,76.3,64.9,66.7,No,Yes,7.0,Bachelor,Medium,62.0,72.0,Low Risk
+STU1450,Female,19,1.6,70.4,72.0,54.2,47.8,No,Yes,7.2,Bachelor,High,33.1,58.2,Moderate Risk
+STU1709,Female,17,3.7,69.2,71.6,57.5,62.9,Yes,Yes,6.4,Bachelor,Low,64.0,57.5,Low Risk
+STU1256,Male,19,4.0,72.6,72.6,57.7,46.7,Yes,Yes,5.7,Master,Low,67.7,66.6,Moderate Risk
+STU1883,Female,17,2.4,59.6,82.6,56.4,47.0,Yes,Yes,6.4,Bachelor,Low,56.8,51.9,Moderate Risk
+STU1390,Male,17,5.1,79.9,65.5,58.3,56.0,Yes,Yes,6.4,Master,Medium,62.8,68.4,Moderate Risk
+STU1909,Female,20,8.0,74.4,79.2,69.3,70.3,Yes,Yes,8.5,High School,Low,72.2,83.8,Low Risk
+STU1925,Female,20,1.8,52.5,46.7,33.4,29.6,Yes,Yes,6.3,Bachelor,Medium,65.0,43.4,High Risk
+STU2747,Female,21,5.2,70.8,65.7,67.5,56.3,Yes,Yes,4.0,Bachelor,Low,68.1,65.2,Moderate Risk
+STU2263,Female,18,4.9,82.0,62.6,63.8,62.2,Yes,Yes,8.2,Master,Low,86.7,72.0,Moderate Risk
+STU1461,Female,20,3.3,82.4,67.1,63.2,56.3,Yes,Yes,7.4,Master,Medium,66.0,74.7,Low Risk
+STU2960,Male,19,0.9,64.9,69.3,29.8,52.9,No,Yes,6.7,Associate,Medium,51.5,57.6,Moderate Risk
+STU2744,Female,19,1.3,47.5,61.1,36.7,47.4,No,Yes,7.8,,Low,65.7,46.8,High Risk
+STU2169,Female,22,1.5,62.2,58.5,38.3,37.5,Yes,Yes,8.9,High School,Low,37.5,41.3,High Risk
+STU1959,Female,17,2.8,65.5,52.8,36.2,34.8,No,Yes,6.2,High School,Medium,49.5,45.5,High Risk
+STU1502,Male,18,2.2,66.7,64.0,50.5,51.4,No,No,7.2,Bachelor,High,58.5,53.0,Moderate Risk
+STU1740,Female,18,3.3,69.2,61.7,58.8,58.5,No,Yes,8.8,High School,Medium,61.7,68.5,Moderate Risk
+STU2899,Female,17,2.0,65.6,81.0,51.5,54.6,No,Yes,7.0,Master,Medium,42.9,54.1,Moderate Risk
+STU1869,Male,22,7.5,63.5,87.1,70.0,72.8,Yes,Yes,5.6,High School,Medium,57.0,83.9,Low Risk
+STU1732,Male,17,2.3,69.2,66.0,26.7,33.2,Yes,Yes,8.9,Bachelor,Medium,71.7,50.5,High Risk
+STU1540,Female,19,3.1,52.5,64.5,57.2,52.6,No,Yes,7.1,Associate,Low,41.6,60.3,Moderate Risk
+STU2202,Female,21,3.2,56.9,55.0,34.3,44.6,No,Yes,4.1,High School,Medium,47.3,41.2,Moderate Risk
+STU1698,Male,18,5.1,81.7,82.4,74.2,78.2,No,No,6.3,Bachelor,Medium,82.0,77.9,Low Risk
+STU2428,Male,17,3.2,49.6,70.0,44.5,53.6,No,Yes,7.8,High School,Low,46.3,49.1,High Risk
+STU2787,Male,21,3.4,54.7,62.1,57.0,54.9,Yes,Yes,,Associate,High,35.4,61.0,Moderate Risk
+STU2146,Male,22,2.7,64.7,57.3,29.3,31.9,No,No,8.5,Doctorate,Medium,46.4,44.4,High Risk
+STU2032,Male,18,2.8,69.3,53.0,49.0,56.4,No,Yes,6.4,Master,Medium,52.6,57.7,Moderate Risk
+STU1373,Female,17,5.0,72.5,68.0,50.8,59.4,Yes,Yes,6.2,Doctorate,Low,69.7,72.0,Moderate Risk
+STU1668,Female,19,7.3,73.3,72.8,65.1,61.8,Yes,No,8.4,Bachelor,Low,65.6,67.5,Moderate Risk
+STU2565,Male,17,1.7,45.9,65.7,44.9,48.0,Yes,Yes,7.1,Bachelor,Medium,32.4,50.1,Moderate Risk
+STU1358,Male,21,4.4,71.9,64.5,65.4,51.3,Yes,Yes,7.7,High School,Medium,66.6,66.3,Moderate Risk
+STU1968,Female,17,4.6,66.3,72.0,57.2,68.0,No,Yes,7.4,Master,Medium,68.9,69.7,Moderate Risk
+STU1784,Female,22,1.4,57.9,47.1,41.7,37.4,No,Yes,8.1,High School,Low,46.5,46.3,High Risk
+STU1736,Male,19,4.2,64.2,53.4,57.8,54.9,,Yes,6.5,Bachelor,Medium,72.0,60.2,Moderate Risk
+STU2036,Male,20,3.8,53.9,80.4,65.7,65.6,Yes,Yes,4.5,Associate,High,63.0,57.6,Low Risk
+STU1971,Male,19,3.0,58.1,69.3,48.8,48.3,Yes,Yes,7.0,Master,Medium,50.3,60.6,High Risk
+STU2564,Female,19,5.5,70.0,66.5,48.4,58.4,No,Yes,7.0,Doctorate,Low,63.2,62.0,Moderate Risk
+STU2526,Female,22,3.7,64.2,72.5,44.8,59.6,No,Yes,,Associate,Low,43.8,64.2,Moderate Risk
+STU2563,Male,17,4.1,59.6,56.5,47.4,43.5,No,Yes,7.7,Master,High,52.7,54.4,Moderate Risk
+STU2811,Male,22,3.9,74.7,71.0,66.9,59.4,Yes,Yes,6.3,High School,Low,35.8,75.8,Low Risk
+STU2574,Male,20,1.8,56.2,56.9,25.3,45.5,No,Yes,6.9,,Medium,54.5,40.4,High Risk
+STU2698,Female,20,5.6,74.5,76.2,60.3,55.4,Yes,Yes,5.5,Bachelor,Low,62.7,73.1,Moderate Risk
+STU2253,Female,20,4.7,67.0,64.2,65.8,61.1,No,Yes,7.8,Master,Medium,65.8,76.3,Moderate Risk
+STU2737,Female,20,2.5,84.5,71.8,44.8,42.4,No,Yes,7.5,Associate,Low,55.8,59.5,Moderate Risk
+STU2759,Female,18,3.5,72.1,80.6,56.9,66.5,No,Yes,7.0,High School,Low,76.6,69.8,Low Risk
+STU2237,Male,20,8.0,100.0,80.5,77.8,72.2,Yes,Yes,7.4,Master,Medium,93.0,90.8,Low Risk
+STU1886,Female,21,3.1,45.0,,42.1,44.1,No,Yes,7.6,High School,Low,41.1,44.3,High Risk
+STU1080,Female,20,,56.7,85.4,50.4,66.6,Yes,Yes,5.3,Master,Medium,58.7,64.4,Moderate Risk
+STU2173,Male,20,2.1,60.9,67.6,51.3,45.1,Yes,Yes,6.4,Associate,Medium,36.4,54.6,Moderate Risk
+STU1815,Male,21,4.5,86.1,82.2,74.1,62.5,No,Yes,7.9,Bachelor,Medium,54.4,78.9,Low Risk
+STU2317,Male,17,2.9,65.6,66.6,46.5,55.2,Yes,No,7.0,Associate,Medium,48.9,59.8,Moderate Risk
+STU1672,Male,19,7.1,77.7,,76.4,69.5,Yes,Yes,7.1,Associate,Medium,75.9,79.6,Low Risk
+STU2882,Male,17,5.8,69.3,80.6,73.9,55.2,No,Yes,,,Low,69.3,80.6,Low Risk
+STU1058,Female,18,2.9,67.7,75.4,47.0,58.0,No,Yes,6.8,Bachelor,Medium,63.2,56.1,Moderate Risk
+STU1134,Female,17,3.7,57.5,87.0,57.5,67.3,No,Yes,7.4,Bachelor,Medium,77.7,65.5,Moderate Risk
+STU2141,Male,21,,75.9,60.3,54.1,58.2,Yes,Yes,8.0,Bachelor,Medium,43.1,61.8,Moderate Risk
+STU1934,Male,17,3.8,73.9,64.3,46.2,57.3,Yes,Yes,6.7,High School,Medium,58.1,62.4,Moderate Risk
+STU2728,Other,21,3.3,65.4,65.9,54.8,47.3,Yes,Yes,5.7,Master,Medium,36.4,61.8,Moderate Risk
+STU1824,Female,20,5.6,71.0,68.6,67.5,60.7,No,Yes,9.1,Bachelor,Medium,82.8,70.5,Moderate Risk
+STU2215,Male,22,5.3,73.4,87.3,62.3,64.0,Yes,No,7.3,Associate,High,68.6,69.5,Low Risk
+STU1505,Male,19,1.7,69.3,64.9,46.9,52.3,No,Yes,7.5,Bachelor,Medium,65.1,47.4,Moderate Risk
+STU2821,Female,21,3.2,59.6,74.6,48.1,55.7,No,Yes,6.1,Associate,Low,42.5,58.6,Moderate Risk
+STU1348,Female,21,2.9,74.1,52.9,48.7,49.5,Yes,Yes,7.5,Doctorate,Medium,49.4,60.6,Moderate Risk
+STU1387,Female,18,2.8,61.5,67.0,40.1,63.8,Yes,No,5.2,Bachelor,Medium,56.3,58.6,Moderate Risk
+STU2025,Male,20,5.2,79.2,75.2,63.5,62.1,Yes,Yes,8.5,High School,Medium,50.8,62.2,Low Risk
+STU1895,Male,21,6.8,72.8,79.2,75.3,71.5,Yes,No,7.0,Bachelor,Low,64.3,74.8,Low Risk
+STU1829,Male,18,3.0,77.7,65.9,55.1,53.4,Yes,No,6.0,Master,Medium,58.9,64.7,Moderate Risk
+STU2943,Male,17,1.8,63.7,56.3,48.5,54.8,No,Yes,8.5,Master,Medium,47.7,51.0,Moderate Risk
+STU1476,Other,18,2.8,65.3,47.7,54.0,41.6,No,No,7.3,Associate,Medium,64.7,52.2,Moderate Risk
+STU2994,Female,20,1.2,58.8,,43.8,48.3,Yes,Yes,7.9,Master,Low,27.6,48.7,High Risk
+STU2484,Female,18,5.3,77.3,63.3,55.3,58.2,Yes,Yes,7.0,Bachelor,Low,66.7,66.8,Moderate Risk
+STU2432,Male,21,6.2,74.6,80.6,74.7,68.8,Yes,Yes,7.3,High School,Low,58.3,75.3,Low Risk
+STU1653,Male,19,4.4,48.2,76.4,55.3,47.9,No,Yes,7.3,Associate,Low,64.3,63.4,Moderate Risk
+STU1173,Male,21,3.5,67.5,63.6,44.0,57.3,No,Yes,8.0,Bachelor,Low,63.3,61.8,Moderate Risk
+STU2150,Male,22,1.0,66.9,45.0,27.6,29.9,Yes,Yes,6.2,Bachelor,Medium,59.0,50.1,High Risk
+STU1039,Male,19,1.6,49.1,49.5,29.8,39.0,No,Yes,7.0,Bachelor,Low,36.5,45.7,High Risk
+STU1714,Female,20,1.2,60.8,48.2,41.7,36.9,No,Yes,8.8,Bachelor,High,48.3,39.1,High Risk
+STU1091,Female,22,1.2,56.0,62.4,45.1,43.4,Yes,Yes,6.3,Bachelor,Medium,33.0,51.5,Moderate Risk
+STU2989,Female,18,3.7,74.0,80.8,58.6,58.5,No,Yes,5.6,High School,High,62.8,64.0,Moderate Risk
+STU2206,Male,22,1.4,58.7,47.4,27.5,35.1,Yes,Yes,6.0,Associate,Medium,52.1,43.4,High Risk
+STU1876,Female,18,3.4,70.3,61.7,50.1,59.0,No,Yes,6.3,High School,Medium,43.8,59.6,Moderate Risk
+STU2384,Female,22,4.7,76.2,73.4,46.7,64.8,Yes,Yes,7.3,Associate,High,54.5,70.5,Moderate Risk
+STU2940,Female,22,3.8,64.2,55.9,43.7,50.8,No,Yes,5.4,Bachelor,High,62.4,55.3,Moderate Risk
+STU2094,Male,17,4.9,75.1,66.0,50.0,67.7,No,Yes,7.3,Bachelor,Medium,56.3,71.1,Moderate Risk
+STU2156,Male,21,5.4,79.8,89.1,78.0,72.8,Yes,Yes,5.0,Bachelor,Medium,71.0,78.0,Low Risk
+STU2325,Male,18,2.5,66.1,62.8,45.6,52.1,No,Yes,5.6,High School,High,71.6,57.6,Moderate Risk
+STU2621,Female,21,1.5,66.5,67.9,56.8,63.9,Yes,Yes,6.9,Bachelor,Low,50.2,65.4,Moderate Risk
+STU3011,Female,18,2.4,45.0,61.4,38.2,44.2,No,Yes,6.8,Associate,Low,47.1,42.5,High Risk
+STU1500,Other,19,1.8,67.1,60.3,51.0,45.0,Yes,Yes,6.9,Bachelor,High,61.5,60.2,Moderate Risk
+STU1339,Female,18,4.7,64.9,58.8,62.2,59.0,Yes,Yes,6.9,High School,Medium,76.3,61.8,Moderate Risk
+STU2189,Female,20,2.7,65.8,77.6,49.4,54.7,Yes,Yes,6.7,High School,Medium,51.5,62.7,Moderate Risk
+STU1029,Male,18,4.1,51.3,69.0,52.2,44.2,Yes,Yes,7.9,Bachelor,Medium,40.7,54.9,Moderate Risk
+STU2218,Male,21,1.8,64.2,50.6,36.5,35.8,Yes,No,4.5,Bachelor,Low,59.8,42.7,High Risk
+STU2358,Female,22,1.0,81.5,58.5,48.2,58.8,No,No,8.5,Associate,High,52.5,59.6,Moderate Risk
+STU2869,Female,18,1.9,75.7,63.1,48.9,61.1,Yes,Yes,6.6,Master,Medium,53.0,59.2,Moderate Risk
+STU1946,Female,20,1.7,64.1,73.7,54.7,58.5,Yes,Yes,7.0,High School,Medium,63.1,54.2,Moderate Risk
+STU1170,Male,18,2.4,83.0,74.2,59.9,71.0,No,Yes,7.2,Bachelor,Medium,59.3,69.7,Moderate Risk
+STU2880,Male,21,5.8,64.5,70.3,72.9,58.5,Yes,Yes,8.3,High School,Medium,63.8,76.0,Low Risk
+STU2198,Male,19,3.8,82.2,94.2,71.9,71.5,No,Yes,7.8,Associate,High,68.6,80.3,Low Risk
+STU2254,Female,21,7.4,87.3,83.6,79.8,72.6,Yes,Yes,5.9,Bachelor,Low,81.5,86.0,Low Risk
+STU2434,Male,21,8.0,96.5,92.4,73.1,77.7,No,Yes,7.4,Associate,Medium,63.6,85.0,Low Risk
+STU1913,Male,21,3.6,54.3,76.5,45.3,50.5,Yes,Yes,7.6,Doctorate,Medium,44.8,56.4,High Risk
+STU1492,Male,19,2.1,52.1,65.2,49.0,62.5,Yes,Yes,7.9,High School,High,37.2,58.5,Moderate Risk
+STU1954,Male,19,4.6,77.6,59.6,69.0,73.4,No,Yes,7.2,Associate,Medium,72.3,65.7,Low Risk
+STU2098,Female,18,3.9,63.9,59.2,56.6,44.1,,No,6.9,High School,Low,65.4,47.5,Moderate Risk
+STU2033,Female,22,1.6,61.2,49.1,36.8,40.1,Yes,Yes,6.6,Associate,Medium,35.3,32.4,High Risk
+STU1588,Female,21,7.5,77.0,91.7,83.5,78.8,Yes,Yes,5.7,Associate,High,79.0,85.2,Low Risk
+STU1751,Female,17,3.6,71.3,75.9,64.5,63.9,Yes,No,4.5,High School,Medium,48.5,69.2,Moderate Risk
+STU1658,Female,19,7.0,65.7,81.4,60.9,70.2,Yes,Yes,6.6,Master,Low,73.7,83.1,Low Risk
+STU1235,Female,19,1.6,66.7,56.4,38.6,41.2,No,Yes,5.2,Doctorate,High,61.3,47.3,Moderate Risk
+STU1733,Male,19,6.1,66.2,80.7,75.5,67.4,Yes,Yes,7.7,Associate,High,69.2,78.4,Low Risk
+STU2051,Male,21,1.9,45.0,54.4,37.3,31.6,No,Yes,9.0,Associate,Low,25.2,35.9,High Risk
+STU2673,Male,20,1.9,65.1,64.1,43.5,61.6,No,No,6.2,Master,Medium,40.6,60.0,Moderate Risk
+STU2157,Female,20,2.0,69.5,60.8,28.1,41.8,No,Yes,8.2,,Low,50.5,51.7,Moderate Risk
+STU2508,Male,21,2.3,61.2,61.7,48.9,52.8,No,Yes,8.2,High School,High,19.8,52.8,Moderate Risk
+STU2461,Female,18,3.0,76.2,59.7,52.5,55.0,No,Yes,9.0,High School,High,62.9,59.7,Moderate Risk
+STU2668,Male,19,2.6,50.3,57.8,31.4,45.7,No,Yes,8.2,High School,High,34.3,46.5,High Risk
+STU1935,Female,20,7.1,94.9,77.3,87.2,76.2,,Yes,5.8,High School,Low,98.6,92.7,Low Risk
+STU2210,Other,19,1.8,67.1,68.1,48.9,61.8,No,Yes,7.1,Bachelor,Medium,60.5,65.1,Moderate Risk
+STU2066,Male,19,8.0,89.5,90.7,76.3,74.7,Yes,Yes,6.4,Associate,Medium,87.2,76.7,Low Risk
+STU1109,Female,18,4.2,71.3,61.5,54.4,59.6,No,Yes,7.1,High School,Medium,60.0,58.9,Moderate Risk
+STU2582,Female,22,2.1,62.4,60.5,50.3,43.9,No,No,7.1,Master,High,57.6,50.2,Moderate Risk
+STU1569,Male,20,3.4,62.9,75.4,51.5,61.5,No,Yes,7.8,Bachelor,High,65.6,60.7,Moderate Risk
+STU2168,Male,20,5.1,88.4,76.7,76.8,80.6,Yes,Yes,6.4,Associate,Medium,83.8,80.4,Low Risk
+STU2175,Male,18,1.8,55.9,68.6,55.6,42.5,Yes,Yes,8.6,Associate,Low,42.6,51.2,Moderate Risk
+STU1891,Male,17,4.3,79.7,71.9,54.8,52.0,No,Yes,7.2,Bachelor,High,79.0,63.8,Low Risk
+STU1948,Male,18,3.8,65.6,61.5,54.9,55.0,No,Yes,7.5,Associate,Low,64.2,65.5,Moderate Risk
+STU2049,Male,21,3.4,62.5,69.2,49.7,43.4,No,Yes,5.0,Associate,High,65.2,44.1,Moderate Risk
+STU2385,Male,19,8.0,78.3,83.3,79.5,79.9,No,No,6.7,Bachelor,High,100.0,96.1,Low Risk
+STU2406,Female,20,3.1,65.2,52.3,47.3,38.6,No,Yes,7.4,Associate,Medium,23.7,47.9,Moderate Risk
+STU2219,Male,18,1.5,69.9,70.5,28.3,53.1,No,No,8.8,Master,Medium,46.2,45.2,Moderate Risk
+STU1885,Male,18,1.1,59.3,44.4,38.1,37.8,No,Yes,5.0,Master,Medium,57.3,43.1,High Risk
+STU2795,Female,22,4.6,82.2,79.5,81.1,73.1,Yes,Yes,8.3,High School,Medium,44.1,69.4,Low Risk
+STU1851,Female,17,5.9,73.9,85.0,76.7,79.5,No,Yes,5.8,Associate,Medium,66.0,81.8,Low Risk
+STU1735,Female,17,2.7,66.0,70.7,55.9,55.0,Yes,Yes,9.5,Bachelor,Low,53.0,62.2,Moderate Risk
+STU1718,Male,19,1.2,57.9,66.2,42.1,61.3,No,Yes,5.4,Bachelor,Medium,48.4,62.6,Moderate Risk
+STU1455,Female,20,5.4,68.1,63.4,65.5,50.9,No,Yes,6.2,Bachelor,Low,47.0,67.9,Moderate Risk
+STU1265,Male,22,3.0,71.3,63.1,51.2,40.4,No,Yes,7.4,Bachelor,Medium,58.5,59.2,Moderate Risk
+STU1076,Male,22,6.3,71.9,63.0,56.6,49.0,Yes,Yes,8.2,Doctorate,Medium,76.3,65.6,Moderate Risk
+STU2700,Male,21,1.5,50.3,58.4,28.4,37.1,No,Yes,6.7,Associate,High,55.6,44.1,High Risk
+STU1445,Male,17,3.9,64.9,61.9,62.2,53.0,Yes,Yes,6.1,Associate,Low,62.1,63.4,Moderate Risk
+STU1396,Male,17,3.0,79.7,72.2,40.1,49.2,Yes,Yes,4.7,Master,Low,71.7,51.1,Moderate Risk
+STU1177,Male,21,3.8,59.5,54.8,54.7,43.4,No,No,7.2,High School,Medium,41.7,54.3,Moderate Risk
+STU2043,Female,21,5.2,62.5,72.9,70.7,61.6,Yes,Yes,6.3,Bachelor,Medium,56.7,68.9,Low Risk
+STU2781,Female,20,5.0,79.9,77.1,67.5,62.8,No,Yes,5.5,Bachelor,Medium,53.3,74.0,Low Risk
+STU2437,Female,20,3.7,70.3,75.4,54.5,56.0,Yes,Yes,6.6,Bachelor,Medium,79.6,72.6,Moderate Risk
+STU2550,Male,17,4.6,73.9,85.0,68.9,62.0,Yes,Yes,6.0,High School,Low,53.5,78.7,Moderate Risk
+STU2415,Male,17,2.9,86.2,53.4,45.0,46.5,Yes,Yes,6.9,High School,Medium,56.6,48.5,Moderate Risk
+STU1596,Female,21,3.6,70.3,62.1,43.6,41.5,No,Yes,7.1,Master,Medium,71.5,52.7,Moderate Risk
+STU1062,Female,20,2.7,70.9,68.4,52.0,56.7,No,Yes,6.9,Master,Medium,46.8,69.3,Moderate Risk
+STU2297,Female,19,1.3,70.0,77.5,46.8,58.0,Yes,Yes,6.6,Doctorate,Low,70.1,60.1,Moderate Risk
+STU1873,Male,18,1.9,50.7,64.2,48.6,46.7,No,Yes,6.2,High School,Low,29.6,57.0,High Risk
+STU2996,Male,19,5.6,67.4,74.9,71.2,60.2,No,Yes,7.0,High School,High,71.4,61.5,Low Risk
+STU2929,Male,17,2.4,60.0,54.6,46.1,46.0,No,Yes,6.1,Bachelor,High,66.8,53.1,Moderate Risk
+STU1279,Male,18,3.7,57.2,60.4,62.4,53.4,No,Yes,5.1,Associate,High,46.9,63.3,Low Risk
+STU2393,Female,19,5.5,75.2,81.3,75.2,60.5,Yes,Yes,7.3,High School,Low,59.3,74.5,Low Risk
+STU1037,Female,20,3.2,79.5,64.8,48.9,62.4,Yes,Yes,6.8,Associate,Medium,57.0,52.8,Moderate Risk
+STU2555,Female,20,1.8,70.5,78.2,55.2,54.6,Yes,Yes,7.3,Associate,High,50.3,61.3,Moderate Risk
+STU1663,Male,20,2.3,63.4,68.3,56.5,52.1,Yes,Yes,6.1,Associate,High,34.6,62.6,Moderate Risk
+STU2855,Male,22,5.2,54.8,88.4,50.1,66.1,Yes,Yes,6.3,High School,Medium,65.7,65.7,Low Risk
+STU2481,Male,20,2.4,66.4,69.5,48.3,53.7,No,Yes,7.7,Bachelor,Medium,55.3,62.5,Moderate Risk
+STU1978,Female,21,2.5,63.5,65.3,59.3,64.9,Yes,Yes,4.3,Associate,Medium,48.6,67.9,Moderate Risk
+STU2611,Male,20,3.1,71.2,48.1,42.9,41.3,No,Yes,6.3,High School,High,49.5,55.7,High Risk
+STU1739,Female,19,3.6,62.5,65.1,48.2,53.6,No,Yes,7.7,Doctorate,High,56.0,60.5,Moderate Risk
+STU1192,Male,21,1.4,68.6,66.7,51.4,49.1,No,Yes,8.1,High School,High,48.4,58.2,Moderate Risk
+STU1920,Female,17,4.0,55.1,71.1,67.7,69.6,No,Yes,4.6,High School,Medium,42.4,65.0,Low Risk
+STU1457,Female,20,2.9,61.3,56.4,54.0,50.2,No,Yes,8.4,High School,Medium,48.2,58.6,High Risk
+STU1676,Other,20,3.4,63.5,70.4,50.8,58.8,Yes,Yes,5.8,Master,High,47.8,55.4,Moderate Risk
+STU1761,Female,18,1.5,60.0,41.1,43.1,36.0,No,No,6.4,Bachelor,Low,74.0,49.5,High Risk
+STU2856,Female,22,8.0,78.3,87.8,79.4,65.7,Yes,Yes,7.2,Associate,Low,68.8,80.8,Low Risk
+STU2643,Male,22,2.5,76.1,66.6,59.3,60.7,No,Yes,,Master,Medium,71.5,66.8,Low Risk
+STU1729,Female,22,3.9,57.1,65.5,41.0,52.1,No,Yes,7.3,High School,Medium,59.7,50.1,Moderate Risk
+STU2400,Male,17,8.0,78.1,75.4,80.6,73.7,Yes,No,7.8,Associate,Medium,79.2,84.6,Low Risk
+STU1413,Male,21,3.2,70.4,55.6,52.2,52.9,No,Yes,7.5,Master,Low,44.4,49.5,Moderate Risk
+STU2099,Male,17,2.5,79.6,59.9,55.7,55.8,No,No,8.8,Associate,Medium,56.7,62.7,Moderate Risk
+STU1826,Male,20,1.8,70.3,69.8,32.9,42.5,Yes,Yes,6.7,Master,Medium,56.0,49.7,High Risk
+STU2628,Male,21,4.3,61.0,69.1,55.1,52.1,No,Yes,6.4,Bachelor,Low,59.6,64.6,Moderate Risk
+STU1617,Female,21,7.8,84.5,70.8,76.3,60.3,Yes,Yes,7.0,Associate,Medium,91.6,86.1,Low Risk
+STU1115,Male,21,5.2,64.5,79.4,54.5,53.8,No,Yes,8.6,Doctorate,Low,63.8,61.7,Moderate Risk
+STU1418,Female,22,3.7,87.1,77.3,53.8,64.9,No,No,6.7,Bachelor,High,51.5,59.5,Low Risk
+STU2961,Female,19,3.2,63.3,70.7,61.4,56.6,No,Yes,7.4,Associate,High,63.9,62.3,Moderate Risk
+STU1970,Female,22,0.8,54.8,37.1,35.8,27.0,No,Yes,6.8,Bachelor,Low,59.3,34.6,High Risk
+STU1605,Female,18,1.7,46.3,68.0,38.3,45.4,Yes,Yes,6.1,Bachelor,Low,46.3,53.7,High Risk
+STU2971,Female,19,2.4,58.1,60.6,55.4,51.6,Yes,No,6.5,Bachelor,Low,62.5,56.5,High Risk
+STU1090,Female,17,2.8,63.8,64.6,44.0,52.3,No,Yes,6.3,Bachelor,High,57.2,62.6,Moderate Risk
+STU1849,Male,19,3.8,64.2,82.4,62.5,65.8,No,Yes,5.8,Associate,Medium,58.7,64.9,Moderate Risk
+STU2559,Male,18,4.9,64.9,72.2,69.5,55.1,No,Yes,8.5,Associate,High,75.9,72.1,Moderate Risk
+STU2969,Female,20,2.9,52.9,55.9,40.3,50.7,Yes,Yes,7.1,Master,Medium,27.4,46.4,High Risk
+STU1754,Female,22,2.4,72.6,66.5,67.5,66.7,No,Yes,6.4,Bachelor,Medium,58.8,67.7,Low Risk
+STU1499,Male,19,2.6,78.1,70.1,39.6,30.6,Yes,Yes,7.3,Bachelor,Medium,47.3,48.8,Moderate Risk
+STU2277,Female,21,5.7,71.7,89.9,73.2,60.9,No,Yes,9.4,Doctorate,Low,76.3,75.5,Moderate Risk
+STU2326,Female,19,3.7,77.1,78.7,49.8,57.8,No,Yes,6.8,Bachelor,Medium,64.9,64.7,Moderate Risk
+STU1012,Male,21,2.7,56.4,59.3,56.6,58.2,No,Yes,7.1,Master,Medium,46.4,62.7,Moderate Risk
+STU1397,Male,21,3.6,69.3,69.2,55.9,57.0,Yes,Yes,7.5,,Medium,59.7,63.7,Moderate Risk
+STU1285,Male,19,6.2,80.0,83.4,84.4,75.5,Yes,Yes,6.9,Associate,Low,75.3,82.5,Low Risk
+STU2067,Female,17,2.9,54.7,56.7,47.1,63.8,No,Yes,5.9,Master,Medium,62.2,51.2,Moderate Risk
+STU2192,Male,21,1.9,73.8,73.2,49.6,52.3,No,Yes,5.7,Associate,Medium,56.9,59.2,Moderate Risk
+STU2441,Male,17,1.6,49.0,59.0,40.9,47.9,Yes,Yes,5.3,High School,Low,48.4,50.3,Moderate Risk
+STU2790,Male,17,4.3,74.1,56.1,53.0,45.5,No,Yes,6.3,Bachelor,Medium,56.9,59.3,Moderate Risk
+STU1691,Female,17,4.2,68.5,78.3,50.1,57.1,No,Yes,8.2,Associate,High,58.1,61.3,Moderate Risk
+STU2672,Male,18,2.6,88.3,69.8,57.2,60.3,No,No,6.2,Associate,Low,44.0,69.5,Low Risk
+STU2926,Female,19,1.4,64.1,68.4,49.9,51.7,No,Yes,6.1,Associate,High,52.4,54.9,Moderate Risk
+STU1690,Female,21,5.7,59.9,72.5,50.2,59.3,No,Yes,7.2,Associate,High,74.7,62.2,Moderate Risk
+STU1852,Male,22,7.5,77.6,75.2,70.2,58.0,No,Yes,6.0,Associate,Low,56.7,73.2,Moderate Risk
+STU1160,Male,19,4.1,65.1,81.8,52.4,72.1,Yes,Yes,8.7,Bachelor,Medium,52.2,70.3,Low Risk
+STU1896,Female,20,8.0,75.2,74.3,80.5,77.0,No,No,7.3,High School,Medium,74.2,84.9,Low Risk
+STU2615,Female,17,1.8,50.9,69.9,52.5,55.6,No,Yes,7.5,Bachelor,Low,51.8,57.0,Moderate Risk
+STU1258,Male,22,5.4,85.7,83.3,80.8,83.0,No,Yes,8.7,High School,High,73.6,90.1,Low Risk
+STU1336,Female,19,5.8,80.8,79.3,64.4,65.8,Yes,No,6.0,High School,Medium,80.0,65.9,Low Risk
+STU2930,Female,21,1.4,54.6,68.8,41.7,45.8,No,Yes,6.9,Master,Medium,49.0,50.5,Moderate Risk
+STU2040,Female,20,1.2,65.8,73.8,32.5,48.2,No,No,7.7,Associate,Low,43.0,59.2,Moderate Risk
+STU1516,Female,21,5.1,76.5,84.8,75.9,74.6,Yes,Yes,5.8,Associate,Medium,72.3,79.8,Low Risk
+STU2349,Other,17,5.5,61.6,65.2,58.1,53.1,Yes,Yes,7.1,,Medium,64.0,56.1,Moderate Risk
+STU2016,Male,22,3.0,64.0,73.0,54.9,66.4,No,Yes,6.8,Associate,Medium,67.6,59.6,Moderate Risk
+STU1769,Female,18,1.1,69.0,77.1,54.1,52.1,No,Yes,7.2,Master,Medium,43.0,58.0,Moderate Risk
+STU2792,Male,22,2.3,52.1,72.4,43.6,49.6,No,Yes,5.9,Bachelor,Medium,56.5,47.3,High Risk
+STU1762,Female,22,6.4,88.6,90.2,76.0,67.8,No,Yes,6.3,High School,Medium,67.3,88.3,Low Risk
+STU2247,Female,17,3.9,69.4,74.8,68.7,56.3,No,Yes,7.3,High School,Medium,65.0,73.9,Low Risk
+STU2204,Female,22,3.7,74.1,63.5,54.8,58.3,No,Yes,7.0,Bachelor,Low,50.8,64.9,Moderate Risk
+STU2506,Female,21,2.0,53.9,56.1,45.3,36.2,No,Yes,6.9,High School,Low,30.9,50.8,High Risk
+STU1236,Male,20,4.8,66.3,67.7,58.7,55.8,No,Yes,6.2,High School,Medium,73.4,71.1,Moderate Risk
+STU1522,Female,17,8.0,80.9,96.6,70.8,70.6,No,Yes,7.7,Associate,Medium,63.5,86.6,Low Risk
+STU1023,Female,21,3.6,63.2,62.3,60.3,65.1,No,Yes,5.6,Bachelor,Medium,67.4,59.5,Moderate Risk
+STU1357,Female,17,1.7,62.0,61.1,42.6,33.4,No,Yes,7.0,Bachelor,Low,44.9,47.6,High Risk
+STU2278,Other,20,2.4,58.2,55.5,44.5,54.6,Yes,Yes,6.0,High School,Medium,38.8,51.9,Moderate Risk
+STU2313,Male,18,4.2,77.0,73.6,65.9,59.7,No,Yes,5.1,High School,High,69.9,77.3,Moderate Risk
+STU2938,Male,19,1.2,61.4,65.2,33.7,50.0,Yes,Yes,7.4,Bachelor,Medium,38.7,44.6,Moderate Risk
+STU1341,Male,21,5.6,66.7,74.6,54.9,57.1,No,Yes,7.5,Master,Medium,74.1,68.8,Moderate Risk
+STU1432,Male,18,4.0,58.8,53.4,54.5,52.6,Yes,Yes,6.3,Bachelor,Low,62.7,62.1,Moderate Risk
+STU1474,Male,17,4.9,58.7,70.4,65.9,52.6,No,Yes,6.9,Bachelor,Medium,59.8,67.9,Low Risk
+STU1218,Male,20,4.2,74.5,73.8,67.3,63.4,No,Yes,7.3,Bachelor,Medium,58.1,70.5,Moderate Risk
+STU1912,Female,19,2.6,65.2,60.2,36.3,38.4,No,Yes,4.4,Master,Medium,67.5,45.1,High Risk
+STU2228,Female,20,,48.5,63.4,42.9,45.5,Yes,Yes,7.2,Associate,Medium,47.3,53.0,High Risk
+STU2636,Female,20,3.8,60.1,75.8,56.8,58.6,Yes,Yes,4.7,Bachelor,High,56.9,59.2,Moderate Risk
+STU2012,Other,18,2.0,71.9,74.3,50.0,51.8,Yes,Yes,5.9,Bachelor,Medium,75.5,55.9,Moderate Risk
+STU3002,Female,20,2.1,62.1,65.6,33.3,52.1,No,Yes,8.3,Master,Medium,46.2,50.8,Moderate Risk
+STU1094,Male,17,5.4,66.2,66.6,60.3,55.1,No,No,7.2,Bachelor,Low,59.2,62.7,Moderate Risk
+STU2009,Female,21,2.9,50.7,58.9,28.8,32.1,Yes,Yes,6.5,Bachelor,Low,33.6,39.3,High Risk
+STU2071,Female,19,2.2,53.1,69.1,36.9,47.4,No,Yes,5.4,Master,Medium,52.2,51.5,High Risk
+STU2093,Male,17,2.7,53.7,58.4,46.7,32.0,No,Yes,6.9,Bachelor,Medium,53.4,49.0,High Risk
+STU2625,Female,18,7.1,91.0,78.7,84.3,71.2,No,Yes,8.2,High School,Medium,92.4,83.1,Low Risk
+STU2309,Female,22,1.0,49.3,47.5,35.9,33.8,Yes,Yes,6.6,High School,Low,47.0,36.9,High Risk
+STU1697,Female,21,8.0,74.9,63.1,60.9,65.1,No,Yes,6.9,Associate,Medium,78.9,75.6,Low Risk
+STU2841,Female,19,2.8,55.3,77.5,57.1,68.4,No,Yes,7.7,Bachelor,Low,46.7,63.6,Moderate Risk
+STU1997,Male,19,4.7,76.9,67.6,73.5,75.2,No,Yes,,Associate,High,52.1,67.2,Low Risk
+STU2459,Female,17,3.9,77.9,76.7,70.1,60.1,No,Yes,7.6,High School,Medium,68.4,71.6,Low Risk
+STU1154,Female,21,1.6,62.6,66.2,37.7,34.7,No,Yes,5.6,Master,Medium,48.8,49.7,High Risk
+STU2100,Female,18,3.7,69.9,75.2,52.7,49.8,No,Yes,5.4,Associate,Low,68.8,55.4,Moderate Risk
+STU2762,Male,22,3.0,62.5,69.3,39.0,52.2,No,Yes,7.7,Associate,Medium,60.5,56.2,High Risk
+STU2147,Male,18,3.6,67.7,61.9,53.1,63.4,Yes,Yes,6.8,High School,Medium,71.4,68.4,Moderate Risk
+STU1790,Male,17,4.9,74.0,69.3,64.8,57.3,Yes,Yes,7.7,Bachelor,Low,56.7,70.6,Moderate Risk
+STU1581,Female,19,5.5,82.4,75.8,71.3,59.9,No,Yes,6.7,High School,Medium,94.7,81.5,Low Risk
+STU2471,Male,19,3.8,69.2,77.4,79.5,62.3,No,Yes,7.7,Associate,Medium,56.1,76.5,Low Risk
+STU1704,Female,21,2.1,65.1,51.8,37.5,50.9,No,Yes,7.1,Master,Medium,48.4,55.2,Moderate Risk
+STU2213,Female,22,5.6,72.5,69.2,70.6,68.5,No,Yes,5.6,High School,Low,63.1,76.3,Low Risk
+STU2296,Female,19,2.6,73.7,56.2,53.3,51.9,No,Yes,6.1,Master,Low,62.7,52.9,Moderate Risk
+STU2709,Male,22,1.6,45.1,58.0,31.7,33.6,No,No,5.5,Bachelor,High,37.7,41.4,High Risk
+STU2261,Female,22,5.1,57.7,86.6,66.4,62.5,Yes,No,6.5,Bachelor,Medium,65.5,71.8,Moderate Risk
+STU1488,Female,17,4.8,75.4,61.9,49.6,50.9,No,Yes,6.4,Bachelor,High,70.9,66.3,Moderate Risk
+STU1560,Male,19,1.5,45.0,64.2,39.8,55.9,No,No,7.2,High School,Low,48.6,56.5,High Risk
+STU2142,Female,22,2.1,72.1,46.6,44.8,40.1,No,Yes,5.4,Bachelor,Medium,54.2,44.2,Moderate Risk
+STU2120,Female,17,3.7,81.4,74.5,53.7,66.8,No,No,6.2,Bachelor,Low,62.8,68.0,Low Risk
+STU1802,Female,22,2.9,67.8,52.4,37.3,31.7,Yes,Yes,7.5,Bachelor,Medium,52.6,47.3,High Risk
+STU1513,Male,19,4.4,80.4,78.8,73.5,67.7,Yes,Yes,6.4,Doctorate,High,48.3,74.7,Low Risk
+STU1634,Male,21,3.4,55.3,54.3,47.9,36.6,Yes,Yes,6.6,Associate,Medium,59.2,45.9,Moderate Risk
+STU2518,Male,21,3.1,71.7,59.6,49.4,46.7,No,Yes,7.5,Associate,Medium,63.0,58.2,Moderate Risk
+STU2835,Male,22,8.0,77.7,98.0,76.9,74.6,Yes,Yes,8.9,Bachelor,Medium,80.3,97.2,Low Risk
+STU3014,Female,21,2.5,65.2,60.1,43.6,46.4,Yes,Yes,8.7,High School,Medium,46.0,48.3,Moderate Risk
+STU2151,Male,21,2.9,70.1,59.7,56.5,47.7,No,Yes,7.0,High School,Low,51.8,56.0,Moderate Risk
+STU1791,Female,21,2.6,62.8,54.7,28.5,32.5,No,Yes,,Master,Medium,50.1,37.8,High Risk
+STU1117,Male,22,3.7,75.9,61.2,43.7,43.3,No,No,5.1,Bachelor,Medium,70.8,56.2,High Risk
+STU2498,Female,19,2.0,79.5,54.5,53.6,56.3,No,No,4.0,Master,Medium,49.2,53.5,Moderate Risk
+STU1741,Female,20,5.0,63.0,75.0,40.4,49.5,Yes,Yes,5.3,Associate,Low,58.0,52.9,Moderate Risk
+STU2764,Female,21,4.1,74.7,72.9,63.0,54.0,Yes,Yes,6.1,High School,Low,52.6,70.1,Moderate Risk
+STU2082,Female,20,0.7,58.6,60.6,44.1,46.7,No,No,8.2,High School,Low,38.3,43.1,High Risk
+STU1831,Female,20,5.1,88.9,74.1,59.9,62.8,Yes,Yes,7.1,Associate,High,79.2,80.7,Low Risk
+STU1120,Male,20,3.2,61.2,61.5,38.9,44.1,Yes,No,6.4,Bachelor,Low,59.5,49.1,Moderate Risk
+STU1657,Female,21,1.4,53.3,43.6,40.1,45.6,Yes,Yes,7.9,Bachelor,Medium,30.4,37.2,High Risk
+STU2958,Female,18,3.0,53.1,54.7,48.7,41.7,Yes,Yes,8.3,Master,Low,50.4,41.2,Moderate Risk
+STU1636,Female,19,6.1,60.3,77.5,63.6,53.2,Yes,Yes,7.3,High School,Medium,33.4,64.0,Moderate Risk
+STU1370,Female,19,2.0,74.6,65.2,32.0,47.7,No,Yes,6.7,Bachelor,Medium,66.4,49.8,Moderate Risk
+STU1269,Female,22,2.7,64.6,68.5,48.1,60.2,Yes,No,5.5,Bachelor,Medium,52.8,55.2,Moderate Risk
+STU1656,Female,18,5.1,75.0,80.9,63.2,64.1,Yes,Yes,6.6,High School,Medium,72.8,74.6,Low Risk
+STU1936,Female,19,6.3,83.9,86.1,78.3,78.6,No,Yes,6.5,High School,Medium,64.7,78.6,Low Risk
+STU1823,Female,18,6.2,69.8,85.7,78.7,63.9,Yes,Yes,5.3,Master,Medium,72.3,79.7,Low Risk
+STU1867,Female,21,4.7,65.2,67.2,58.7,60.6,No,Yes,7.6,Master,Medium,55.2,80.4,Low Risk
+STU1047,Female,22,2.3,82.3,55.4,49.2,49.1,Yes,Yes,6.4,High School,High,77.7,49.1,Moderate Risk
+STU2374,Male,18,2.9,45.0,57.5,39.1,48.7,No,No,6.4,Bachelor,Low,48.9,49.0,Moderate Risk
+STU2946,Male,20,,75.3,78.8,56.1,58.3,No,Yes,6.8,Associate,Medium,55.2,69.9,Moderate Risk
+STU1992,Male,17,3.3,46.2,68.9,36.6,45.3,Yes,Yes,6.2,Associate,Medium,74.4,48.1,Moderate Risk
+STU1877,Male,18,5.3,88.5,91.3,76.9,76.3,No,Yes,7.1,Bachelor,High,54.0,85.0,Low Risk
+STU1774,Female,17,5.8,72.3,63.2,59.0,66.9,Yes,Yes,6.7,High School,Medium,71.6,71.9,Low Risk
+STU2220,Female,20,3.7,72.0,52.0,46.5,46.5,Yes,Yes,9.7,Master,Low,57.4,54.4,Moderate Risk
+STU2127,Female,20,7.6,72.1,80.5,80.6,66.1,Yes,Yes,4.4,Master,Medium,72.1,76.2,Low Risk
+STU1005,Female,20,4.9,45.0,57.4,41.6,47.1,Yes,Yes,6.1,Associate,Medium,53.5,47.5,Moderate Risk
+STU2004,Male,21,2.7,56.3,58.6,48.2,44.1,Yes,Yes,7.6,Associate,Low,59.2,51.8,High Risk
+STU2768,Female,18,1.5,58.7,58.9,27.6,54.4,No,Yes,5.7,Bachelor,Low,50.2,51.6,High Risk
+STU1264,Male,22,3.2,68.2,58.5,38.7,35.8,No,Yes,6.8,Bachelor,Medium,50.1,58.3,Moderate Risk
+STU2609,Female,18,5.3,76.9,77.2,61.4,63.1,Yes,Yes,8.0,Bachelor,Medium,81.7,69.7,Low Risk
+STU2879,Female,18,5.4,70.4,74.9,69.8,53.8,No,Yes,5.9,Associate,High,68.5,70.9,Moderate Risk
+STU1444,Female,19,6.3,66.6,90.1,77.8,77.3,Yes,Yes,7.8,Associate,Medium,78.2,82.4,Low Risk
+STU2003,Male,18,1.7,57.5,56.5,44.2,50.2,Yes,Yes,5.4,Bachelor,Medium,48.7,51.4,Moderate Risk
+STU2078,Male,18,2.1,53.0,71.0,37.1,43.9,No,Yes,7.7,Bachelor,Low,55.9,57.6,Moderate Risk
+STU1838,Female,21,6.1,71.3,60.6,74.1,67.2,No,No,8.3,High School,Medium,65.3,78.7,Moderate Risk
+STU2838,Female,22,1.4,62.7,64.4,35.6,49.9,Yes,No,5.7,Associate,Medium,57.6,47.7,Moderate Risk
+STU1305,Male,20,1.4,77.0,64.0,51.7,35.4,No,Yes,6.9,Bachelor,Medium,51.2,52.2,Moderate Risk
+STU2366,Female,20,5.6,70.9,91.0,80.3,67.3,No,Yes,8.0,Bachelor,High,80.8,85.7,Low Risk
+STU2597,Female,19,4.0,67.2,65.7,46.4,46.1,No,Yes,6.3,Bachelor,High,65.7,52.3,Moderate Risk
+STU1314,Male,21,4.5,80.6,72.1,73.0,65.8,Yes,Yes,5.2,Master,Low,72.7,65.9,Low Risk
+STU1150,Female,21,4.4,69.3,80.2,72.6,56.4,No,Yes,5.1,Bachelor,High,60.3,69.9,Moderate Risk
+STU2149,Male,18,8.0,77.2,78.0,80.1,73.5,Yes,Yes,6.6,Associate,Low,87.0,79.5,Low Risk
+STU2214,Male,21,3.7,48.0,63.6,52.0,49.4,No,Yes,5.3,Associate,High,54.5,63.0,Moderate Risk
+STU1575,Male,21,2.6,51.3,60.3,34.9,46.7,No,Yes,7.6,High School,Medium,65.5,55.6,High Risk
+STU1051,Male,21,2.0,63.8,47.4,42.9,49.4,No,Yes,6.9,Master,Low,45.6,51.7,Moderate Risk
+STU2592,Other,18,1.5,54.4,48.5,23.6,38.8,No,Yes,6.3,Bachelor,Medium,57.9,39.2,High Risk
+STU1727,Female,19,4.5,62.7,69.0,56.0,46.9,Yes,Yes,7.0,High School,Low,73.8,64.9,Moderate Risk
+STU1834,Female,22,4.4,58.1,54.3,47.8,60.1,Yes,Yes,4.9,Doctorate,Medium,50.4,54.3,Moderate Risk
+STU2378,Male,21,3.5,54.1,55.2,52.2,40.7,No,Yes,7.5,Master,Medium,47.9,52.5,High Risk
+STU2116,Male,22,7.7,78.9,72.9,56.5,55.1,No,Yes,6.1,Master,High,79.8,79.3,Low Risk
+STU2167,Male,20,1.9,67.5,59.3,47.1,51.4,No,Yes,8.2,Doctorate,Medium,42.4,48.1,Moderate Risk
+STU1471,Female,22,2.9,46.2,56.4,35.6,32.3,Yes,Yes,7.0,High School,Low,45.0,38.6,High Risk
+STU1972,Male,22,3.3,70.1,89.3,56.8,53.5,Yes,Yes,4.6,Associate,Medium,56.6,73.7,Moderate Risk
+STU1654,Male,19,0.9,45.0,52.8,31.4,31.6,No,Yes,6.2,Master,High,45.2,33.5,High Risk
+STU1400,Male,18,6.6,69.1,83.4,63.9,70.5,No,No,7.1,Associate,Medium,63.2,73.8,Low Risk
+STU1512,Female,22,1.8,62.7,67.4,45.7,34.6,No,Yes,5.6,Master,Low,45.7,45.0,High Risk
+STU1321,Male,20,4.7,58.3,63.7,55.9,55.5,No,No,5.2,Bachelor,Low,60.4,60.1,Moderate Risk
+STU1020,Female,21,4.1,45.0,70.1,54.3,42.8,No,Yes,7.7,Bachelor,High,53.6,61.0,High Risk
+STU1685,Male,18,8.0,85.9,98.0,86.2,76.9,No,Yes,8.3,High School,Low,73.2,91.3,Low Risk
+STU1036,Male,18,3.3,86.9,67.0,74.6,61.6,No,Yes,6.3,Bachelor,Medium,58.6,75.4,Moderate Risk
+STU1903,Female,19,3.6,61.4,58.4,52.8,56.8,No,No,7.5,Master,Low,42.5,54.2,Moderate Risk
+STU2825,Male,20,5.9,78.5,,64.1,63.5,Yes,Yes,8.1,Associate,Medium,60.4,70.8,Low Risk
+STU1828,Female,18,4.9,73.2,79.9,69.3,69.2,No,Yes,7.3,Master,Medium,62.2,72.9,Low Risk
+STU2845,Male,18,3.9,70.6,74.6,66.5,70.5,Yes,Yes,5.9,Associate,Medium,69.1,73.9,Low Risk
+STU1408,Female,21,4.0,71.7,71.0,62.0,66.8,Yes,Yes,6.0,Doctorate,Low,63.2,64.0,Low Risk
+STU1921,Male,18,1.8,54.7,51.7,26.5,35.1,No,Yes,5.8,Bachelor,High,55.1,39.1,High Risk
+STU1538,Female,21,6.1,58.9,57.4,66.6,41.7,Yes,No,6.2,Doctorate,Low,56.1,69.3,Moderate Risk
+STU1759,Male,22,5.2,80.9,69.8,61.4,64.0,No,Yes,6.3,High School,Medium,73.0,69.9,Moderate Risk
+STU2955,Other,20,2.5,69.7,77.2,36.0,40.2,No,Yes,7.5,Bachelor,Medium,60.6,51.8,Moderate Risk
+STU2063,Male,20,3.1,59.5,63.9,47.8,50.4,Yes,Yes,6.8,Doctorate,Low,52.4,48.9,Moderate Risk
+STU2200,Female,18,4.8,68.0,59.9,57.1,53.7,Yes,Yes,8.4,High School,Medium,58.3,65.1,Moderate Risk
+STU1246,Male,20,5.1,63.4,66.4,40.3,46.8,No,Yes,5.2,Bachelor,Medium,55.9,64.1,Moderate Risk
+STU2417,Female,20,4.0,64.8,52.4,62.0,50.8,Yes,Yes,7.9,Bachelor,Low,68.2,76.5,Moderate Risk
+STU2128,Female,20,2.4,57.9,62.7,43.6,37.4,Yes,Yes,4.1,Bachelor,High,47.3,41.8,Moderate Risk
+STU1785,Female,19,3.2,80.1,54.0,41.6,49.3,Yes,No,8.3,Doctorate,Medium,37.6,61.1,Moderate Risk
+STU2788,Male,18,4.8,60.1,78.9,64.6,66.9,No,Yes,8.1,High School,Medium,69.3,73.6,Moderate Risk
+STU1490,Male,20,1.5,58.0,58.1,38.8,36.3,No,Yes,6.5,Bachelor,Medium,61.8,50.9,Moderate Risk
+STU1155,Other,18,2.4,66.7,72.6,44.7,59.0,Yes,Yes,6.0,Master,Medium,99.0,56.3,Moderate Risk
+STU1962,Male,21,2.5,64.4,73.8,39.6,34.4,Yes,Yes,5.5,High School,Medium,47.1,52.4,Moderate Risk
+STU1854,Male,22,3.6,64.9,50.6,49.3,37.2,Yes,Yes,,High School,Low,58.5,57.2,High Risk
+STU2312,Male,20,2.8,58.2,76.6,54.4,56.7,No,Yes,6.9,Associate,Medium,35.7,57.0,Moderate Risk
+STU1626,Female,21,2.7,69.2,56.6,27.6,26.7,No,Yes,,High School,Low,53.6,51.4,Moderate Risk
+STU1686,Male,19,2.3,70.6,57.0,47.1,52.2,Yes,Yes,8.9,High School,Medium,46.0,55.2,Moderate Risk
+STU2601,Female,17,3.2,70.1,70.0,45.2,53.0,No,Yes,6.1,Associate,Medium,53.3,60.5,Moderate Risk
+STU1570,Female,21,1.8,65.7,69.0,46.1,57.8,No,Yes,8.2,Bachelor,Medium,57.4,51.1,Moderate Risk
+STU2959,Male,21,6.0,61.2,65.9,55.8,55.1,No,Yes,7.6,Bachelor,Low,58.5,69.5,Moderate Risk
+STU1018,Male,19,4.4,70.9,80.8,74.1,63.8,No,Yes,6.4,High School,Medium,58.9,74.9,Low Risk
+STU1128,Male,19,1.0,62.4,64.5,34.9,52.2,Yes,Yes,5.5,Bachelor,Low,48.6,50.4,Moderate Risk
+STU2347,Female,22,4.3,78.7,61.3,62.4,59.9,Yes,Yes,5.7,High School,Medium,72.8,57.4,Moderate Risk
+STU2280,Male,18,4.3,54.7,77.6,59.9,58.4,Yes,Yes,4.6,Master,High,49.9,62.6,Moderate Risk
+STU1345,Female,19,2.8,67.1,74.6,61.6,54.1,Yes,Yes,7.0,Bachelor,High,56.4,68.8,Moderate Risk
+STU1928,Male,18,2.9,64.8,62.8,38.8,63.1,Yes,No,7.7,Bachelor,Medium,70.6,56.7,Moderate Risk
+STU1981,Female,20,5.0,87.1,80.2,72.1,74.0,No,Yes,8.3,Bachelor,Low,62.6,74.4,Low Risk
+STU3017,Female,22,3.2,71.6,70.2,54.5,55.1,Yes,Yes,7.6,High School,Medium,55.3,61.7,Moderate Risk
+STU1191,Female,17,5.0,62.8,71.1,59.6,62.9,Yes,Yes,5.6,Associate,Low,75.1,69.9,Moderate Risk
+STU2140,Male,22,4.2,71.1,77.9,57.3,60.9,Yes,Yes,7.0,High School,Medium,61.9,67.5,Moderate Risk
+STU1993,Female,20,2.4,57.3,65.8,48.8,52.5,Yes,No,8.0,Associate,Medium,38.7,56.6,Moderate Risk
+STU3008,Male,17,1.7,66.3,69.4,33.5,55.8,No,Yes,6.7,Bachelor,Low,56.4,55.8,Moderate Risk
+STU2907,Male,19,5.7,70.9,78.7,60.8,61.2,No,Yes,6.5,Doctorate,Medium,62.3,84.1,Moderate Risk
+STU1607,Female,22,3.0,60.3,69.9,50.4,52.6,No,Yes,6.7,Bachelor,Medium,54.0,49.1,Moderate Risk
+STU1181,Female,18,2.8,60.7,73.4,39.3,52.5,No,Yes,8.2,Associate,Medium,29.1,59.3,Moderate Risk
+STU1302,Male,22,6.7,80.6,82.3,83.7,83.6,No,Yes,7.1,Associate,High,69.0,91.6,Low Risk
+STU1497,Male,18,2.7,60.5,70.1,52.4,63.9,No,Yes,7.3,Bachelor,Medium,39.5,56.1,Moderate Risk
+STU2739,Female,21,5.9,71.5,86.1,62.9,72.5,No,No,6.4,Master,Low,73.6,74.2,Low Risk
+STU2753,Female,20,3.9,61.4,78.0,57.4,66.4,Yes,Yes,6.8,Bachelor,Medium,26.5,73.4,Moderate Risk
+STU2704,Male,22,2.1,83.1,50.8,41.5,45.2,Yes,Yes,6.3,Master,Low,54.0,50.0,High Risk
+STU2849,Male,20,1.8,60.6,53.2,41.4,45.1,No,Yes,6.1,High School,Medium,54.2,54.8,Moderate Risk
+STU1518,Male,19,3.8,61.4,71.0,54.7,57.4,No,No,5.3,Bachelor,Low,59.9,58.7,Moderate Risk
+STU2303,Female,19,8.0,78.6,89.0,69.7,61.0,No,No,8.4,Bachelor,Medium,87.8,82.8,Low Risk
+STU2070,Female,22,1.7,53.3,58.0,48.0,47.5,Yes,Yes,6.4,Master,Low,48.6,55.4,High Risk
+STU1477,Female,18,4.2,72.8,72.2,63.9,55.9,No,Yes,6.4,Associate,High,69.0,73.2,Moderate Risk
+STU1158,Male,22,4.9,84.9,68.2,55.4,63.9,Yes,Yes,8.0,Bachelor,Medium,84.2,69.9,Moderate Risk
+STU2244,Male,19,1.7,75.9,79.1,62.3,61.9,Yes,No,6.8,Associate,Medium,40.8,72.1,Moderate Risk
+STU2196,Male,17,2.5,67.3,56.4,47.6,46.3,No,No,7.0,High School,Medium,42.8,56.0,High Risk
+STU1017,Female,19,1.1,57.7,58.1,41.6,50.3,No,Yes,6.1,Bachelor,Low,34.5,44.9,High Risk
+STU2536,Female,22,2.7,56.0,91.8,53.0,63.8,No,Yes,6.2,High School,Low,65.3,61.1,Moderate Risk
+STU2073,Female,19,3.2,61.5,59.3,57.7,65.5,No,Yes,5.9,High School,Medium,53.7,71.4,Moderate Risk
+STU1237,Female,18,4.0,64.8,60.2,56.9,62.4,No,Yes,7.0,Bachelor,Low,50.7,63.5,Moderate Risk
+STU1547,Female,22,2.4,57.4,70.4,44.3,44.3,Yes,Yes,7.6,Bachelor,High,62.6,57.2,Moderate Risk
+STU2540,Male,20,3.5,63.5,68.8,59.7,67.0,Yes,Yes,6.7,Bachelor,High,56.3,66.1,Moderate Risk
+STU1659,Male,18,4.6,69.9,86.2,59.8,70.3,No,No,6.8,Master,Medium,67.7,76.8,Low Risk
+STU2666,Male,20,2.0,63.8,62.2,49.9,48.8,No,Yes,9.3,Master,Medium,57.2,50.0,High Risk
+STU2020,Female,19,3.2,83.8,77.2,60.6,76.1,No,No,7.9,Associate,Low,64.1,74.7,Low Risk
+STU2705,Female,17,8.0,100.0,92.7,88.7,91.5,Yes,No,5.7,High School,High,97.6,100.0,Low Risk
+STU2505,Female,22,6.7,74.8,71.9,63.6,50.0,No,Yes,5.7,Associate,Low,79.7,66.1,Low Risk
+STU1960,Male,20,5.3,72.0,81.9,67.7,67.3,No,Yes,6.4,High School,Medium,78.4,76.1,Low Risk
+STU2932,Male,19,3.0,71.9,60.7,46.3,40.9,Yes,No,5.8,Bachelor,Medium,62.5,55.9,High Risk
+STU1284,Female,22,8.0,89.3,98.0,75.9,69.8,No,Yes,6.3,Master,Low,67.5,90.4,Low Risk
+STU2633,Male,20,2.1,67.6,73.5,52.7,48.0,No,Yes,4.8,Bachelor,Medium,61.6,49.0,Moderate Risk
+STU1798,Male,19,2.2,66.6,69.8,49.8,54.1,No,Yes,5.5,High School,Low,65.8,55.7,Moderate Risk
+STU2667,Female,17,2.5,57.4,58.4,58.5,40.9,No,Yes,5.8,Associate,Medium,41.1,46.9,Moderate Risk
+STU1226,Female,18,1.8,51.2,47.8,35.0,45.3,Yes,Yes,7.5,Bachelor,High,38.1,48.2,High Risk
+STU1027,Female,21,3.4,62.6,69.0,53.9,59.1,No,No,7.4,Associate,High,58.9,64.2,Moderate Risk
+STU2817,Female,22,8.0,83.6,83.0,68.3,69.1,No,No,7.5,Master,Medium,67.0,75.9,Low Risk
+STU1438,Male,21,3.3,67.9,51.1,54.7,34.7,No,Yes,7.5,Bachelor,Medium,44.4,50.0,High Risk
+STU3001,Female,19,2.1,74.3,74.3,49.2,48.8,No,Yes,7.9,High School,High,73.2,55.9,Moderate Risk
+STU2389,Male,21,4.5,57.2,72.6,62.5,56.8,No,Yes,8.4,High School,Medium,40.9,68.0,Low Risk
+STU1230,Male,22,2.6,73.7,45.3,51.8,37.6,No,No,9.2,Bachelor,High,49.5,60.5,Moderate Risk
+STU1038,Female,18,4.5,64.2,66.7,52.6,68.7,Yes,Yes,7.1,High School,Medium,73.4,64.6,Low Risk
+STU1750,Male,17,3.4,61.6,69.0,53.1,44.5,Yes,Yes,7.7,Bachelor,Medium,56.3,51.6,Moderate Risk
+STU2046,Male,22,1.6,51.9,45.0,29.2,27.9,No,Yes,7.9,High School,Low,34.0,22.9,High Risk
+STU2399,Male,17,2.8,70.6,54.3,45.6,44.0,No,Yes,7.5,High School,High,57.2,55.6,Moderate Risk
+STU1470,Male,19,1.3,70.0,48.1,48.4,45.6,No,Yes,6.6,Bachelor,Low,53.3,46.5,High Risk
+STU2736,Male,18,3.1,78.1,63.2,46.0,39.1,No,No,6.6,Associate,Medium,50.5,59.7,Moderate Risk
+STU3020,Male,18,3.8,54.4,66.9,35.9,42.8,Yes,Yes,6.4,Associate,Medium,49.5,50.7,Moderate Risk
+STU1688,Female,21,4.2,75.0,83.9,66.2,65.2,No,Yes,8.5,Bachelor,Medium,77.1,72.1,Low Risk
+STU2892,Female,19,3.1,81.7,81.7,57.4,63.0,No,Yes,7.5,Doctorate,Medium,66.9,64.1,Low Risk
+STU1640,Female,21,2.8,75.0,67.8,57.6,65.7,Yes,Yes,5.9,Bachelor,Medium,53.4,60.0,Moderate Risk
+STU2756,Male,19,6.1,78.7,65.5,74.8,60.6,No,Yes,5.2,Master,Low,79.1,65.1,Low Risk
+STU2219,Male,18,1.5,69.9,70.5,28.3,53.1,No,No,8.8,Master,Medium,46.2,45.2,Moderate Risk
+STU2159,Male,19,4.9,65.5,78.2,57.6,60.2,Yes,No,7.9,Master,High,48.0,74.9,Low Risk
+STU2416,Male,19,3.0,50.8,49.1,43.7,43.5,No,Yes,5.7,Bachelor,Medium,31.9,44.8,High Risk
+STU2528,Female,19,4.6,74.7,74.2,68.3,56.9,Yes,Yes,8.2,High School,Low,60.5,68.8,Low Risk
+STU2697,Female,19,4.2,75.2,63.0,63.1,55.7,No,Yes,7.2,Bachelor,Low,51.7,62.1,Moderate Risk
+STU2301,Female,18,8.0,79.9,76.4,78.9,61.2,No,Yes,7.7,Bachelor,Medium,59.9,83.5,Low Risk
+STU2871,Male,17,2.6,66.4,54.8,43.9,42.9,No,Yes,7.6,Master,High,56.5,46.4,Moderate Risk
+STU1801,Male,18,5.4,72.2,81.0,56.9,70.1,No,Yes,7.4,Doctorate,High,70.2,70.9,Low Risk
+STU2604,Female,17,4.8,76.6,73.1,53.6,61.0,No,Yes,5.3,,Medium,79.6,67.8,Moderate Risk
+STU1161,Female,19,5.1,55.5,59.2,49.7,55.1,No,Yes,4.9,Doctorate,Medium,68.4,56.4,Moderate Risk
+STU1957,Male,19,3.5,61.9,65.1,60.6,55.8,No,Yes,8.2,High School,Medium,44.5,64.3,Moderate Risk
+STU2187,Male,18,3.2,67.9,71.0,45.8,56.4,Yes,Yes,6.6,Associate,Medium,55.1,61.3,Moderate Risk
+STU1822,Female,18,2.7,72.1,82.9,65.2,63.3,Yes,Yes,7.0,Associate,Medium,54.6,66.7,Low Risk
+STU2140,Male,22,4.2,71.1,77.9,57.3,60.9,Yes,Yes,7.0,High School,Medium,61.9,67.5,Moderate Risk
+STU1878,Male,18,2.0,76.4,66.9,58.3,42.2,Yes,Yes,7.3,Bachelor,Medium,56.7,61.6,Moderate Risk
+STU1914,Female,19,4.0,57.9,69.3,46.6,57.3,Yes,Yes,5.8,Bachelor,Low,57.3,54.0,Moderate Risk
+STU1153,Female,22,3.8,63.5,70.0,64.9,60.9,No,No,5.6,High School,Low,43.1,67.5,Moderate Risk
+STU2885,Female,21,2.4,77.9,60.6,47.7,46.7,Yes,Yes,6.6,Associate,Medium,45.1,53.1,Moderate Risk
+STU2823,Male,21,4.0,65.2,77.1,46.8,59.2,Yes,Yes,6.4,Bachelor,High,55.9,61.7,Moderate Risk
+STU1510,Male,19,3.0,69.3,82.0,55.4,56.5,Yes,Yes,7.1,Bachelor,Medium,53.3,63.1,Moderate Risk
+STU2136,Female,18,1.4,49.5,54.5,31.3,42.7,Yes,No,6.7,High School,High,42.2,47.3,High Risk
+STU2251,Male,19,3.3,63.8,61.3,49.7,44.4,Yes,Yes,7.3,Master,Medium,56.1,57.1,Moderate Risk
+STU2707,Male,22,2.1,67.8,65.8,61.8,59.8,No,Yes,6.8,High School,Medium,66.5,69.5,Moderate Risk
+STU1104,Male,19,2.6,71.4,70.0,57.4,58.7,No,Yes,7.0,Doctorate,Low,47.3,66.1,Moderate Risk
+STU2446,Female,17,4.3,82.7,59.0,57.7,65.3,No,Yes,4.8,Bachelor,Medium,82.2,65.6,Low Risk
+STU2444,Female,21,2.7,71.8,64.4,53.0,57.1,No,Yes,5.3,Bachelor,Medium,81.4,61.0,Moderate Risk
+STU2784,Male,18,1.5,69.6,51.9,31.2,42.4,Yes,Yes,6.0,Associate,High,46.7,43.3,High Risk
+STU1587,Female,22,1.8,52.5,43.4,30.6,43.2,Yes,No,6.4,High School,Medium,57.6,34.5,High Risk
+STU2815,Female,20,2.9,55.6,45.8,48.3,39.5,Yes,Yes,7.9,,High,50.5,49.3,High Risk
+STU2144,Male,22,1.7,48.8,62.3,50.2,49.8,No,Yes,6.9,Associate,Medium,42.8,53.1,Moderate Risk
+STU1054,Male,22,1.4,72.1,77.0,64.8,64.0,No,Yes,6.1,High School,Medium,57.4,72.5,Moderate Risk
+STU1152,Female,21,2.8,56.0,44.4,36.8,41.9,No,Yes,8.4,High School,Medium,45.2,40.9,High Risk
+STU1404,Male,18,2.7,69.4,58.4,55.3,50.2,,No,6.1,Bachelor,Medium,54.9,60.9,Moderate Risk
+STU2995,Male,17,4.0,54.3,43.5,40.7,37.3,No,Yes,6.4,High School,Medium,51.0,52.5,High Risk
+STU1208,Male,18,2.0,57.7,73.5,64.5,49.1,No,Yes,7.5,High School,Medium,64.9,61.0,Moderate Risk
+STU2945,Male,20,8.0,85.5,90.3,86.0,70.7,Yes,Yes,8.4,Master,Medium,80.4,90.3,Low Risk
+STU2683,Male,18,2.5,71.6,57.2,38.8,58.3,No,Yes,5.7,Associate,Medium,50.5,50.1,High Risk
+STU2123,Male,18,3.5,56.9,73.0,49.2,48.5,Yes,Yes,6.9,High School,Medium,60.5,56.2,Moderate Risk
+STU2957,Male,19,1.9,68.2,65.7,44.9,49.1,No,Yes,7.2,Bachelor,Medium,66.5,57.4,Moderate Risk
+STU1009,Male,18,7.5,87.6,87.0,87.6,78.0,No,Yes,7.5,Bachelor,Low,71.5,87.1,Low Risk
+STU2015,Male,20,5.6,85.1,79.0,70.7,57.3,Yes,Yes,6.7,Master,Medium,66.7,71.7,Low Risk
+STU2844,Male,22,7.3,50.0,74.8,56.5,63.4,Yes,Yes,6.9,Associate,Medium,57.1,77.1,Moderate Risk
+STU2061,Male,20,2.5,60.6,63.8,61.2,53.6,No,Yes,7.4,Bachelor,Medium,44.5,55.5,High Risk
+STU1453,Female,21,2.4,60.5,70.7,56.3,56.2,Yes,Yes,6.4,Master,Medium,52.1,66.5,Moderate Risk
+STU2676,Female,21,3.7,84.9,80.3,53.3,57.8,No,Yes,7.9,Bachelor,Low,74.1,71.0,Moderate Risk
+STU1254,Female,21,4.1,57.0,66.7,57.8,44.2,No,Yes,5.8,High School,High,69.8,47.7,Moderate Risk
+STU2328,Male,17,2.9,46.1,61.6,43.6,45.0,Yes,Yes,7.0,Bachelor,Medium,45.0,45.1,Moderate Risk
+STU1897,Female,17,2.0,75.9,59.6,43.6,56.3,No,Yes,6.6,High School,High,61.1,57.2,Moderate Risk
+STU2779,Female,17,7.9,88.2,73.0,82.2,78.4,Yes,Yes,7.1,Associate,Medium,88.0,87.2,Low Risk
+STU1881,Female,20,4.4,72.6,73.5,60.3,64.2,Yes,Yes,7.7,Associate,High,76.7,66.4,Moderate Risk
+STU2596,Male,22,8.0,78.5,90.3,83.0,69.6,Yes,Yes,7.2,Associate,Medium,71.6,83.9,Low Risk
+STU2939,Male,18,5.0,63.3,72.7,45.1,58.1,Yes,Yes,6.4,Doctorate,Medium,58.9,62.6,Moderate Risk
+STU1624,Female,18,2.3,59.4,60.1,48.4,41.7,No,Yes,8.7,High School,Medium,62.9,45.0,Moderate Risk
+STU1346,Male,20,2.2,63.5,72.4,49.6,48.4,No,Yes,7.3,Master,High,49.3,60.9,Moderate Risk
+STU2746,Female,17,3.1,72.7,53.9,52.5,54.3,No,Yes,7.4,High School,High,66.6,57.9,Moderate Risk
+STU1263,Female,18,4.9,74.6,83.6,64.3,62.5,No,Yes,5.5,High School,Medium,75.5,72.9,Low Risk
+STU2635,Male,17,2.4,62.0,55.5,37.7,42.5,Yes,Yes,6.8,Associate,Low,50.2,50.6,Moderate Risk
+STU2322,Female,17,3.8,83.7,68.5,61.9,63.6,No,Yes,7.2,Master,Low,56.3,69.4,Low Risk
+STU2439,Female,21,3.4,64.0,72.8,58.6,65.2,Yes,Yes,5.4,Doctorate,Medium,40.0,65.5,Moderate Risk
+STU1151,Male,21,3.8,59.9,61.0,58.1,50.1,No,Yes,6.0,Bachelor,Low,57.8,60.6,Moderate Risk
+STU1473,Female,21,2.1,85.3,66.6,44.4,45.8,No,Yes,9.6,Associate,Medium,67.2,55.9,Moderate Risk
+STU1641,Female,22,1.0,55.4,70.5,36.2,48.0,Yes,Yes,6.7,Bachelor,Medium,39.5,44.2,High Risk
+STU2112,Female,19,3.7,71.7,69.0,42.0,48.1,No,Yes,7.6,Associate,Medium,56.7,55.8,Moderate Risk
+STU2933,Male,21,2.4,75.8,64.3,42.0,52.4,Yes,Yes,6.8,Bachelor,Low,51.5,51.4,Moderate Risk
+STU1551,Male,20,4.5,70.4,62.4,62.7,50.8,No,Yes,6.2,Associate,Medium,86.2,61.9,Low Risk
+STU2826,Male,21,3.2,65.2,70.6,51.1,66.3,No,No,8.4,High School,Medium,57.9,61.6,Moderate Risk
+STU1929,Male,21,3.7,60.7,54.5,48.4,48.6,Yes,Yes,6.8,Master,Medium,61.7,55.0,Moderate Risk
+STU1489,Male,17,5.2,79.4,74.7,50.0,51.6,No,Yes,9.1,Associate,High,66.2,67.6,Low Risk
+STU2860,Male,20,1.8,67.8,69.2,42.0,54.1,Yes,No,8.1,High School,Low,62.1,56.1,Moderate Risk
+STU2172,Other,19,3.2,69.4,69.6,50.6,62.9,Yes,No,7.0,Bachelor,Medium,46.9,57.2,Moderate Risk
+STU1147,Male,19,2.9,57.0,54.1,56.4,52.1,No,Yes,7.9,Associate,Medium,53.0,57.8,Moderate Risk
+STU2748,Female,20,5.1,80.2,74.2,63.3,69.2,Yes,Yes,6.0,Bachelor,Medium,64.4,71.8,Low Risk
+STU2981,Female,20,1.6,68.7,54.6,42.9,57.2,No,Yes,7.3,High School,Medium,34.2,50.6,Moderate Risk
+STU1403,Male,20,2.9,70.6,58.3,45.9,40.9,Yes,Yes,7.4,Master,Low,58.4,59.8,Moderate Risk
+STU1955,Female,18,2.7,73.0,83.1,58.1,75.1,Yes,Yes,7.3,Bachelor,Low,43.4,69.9,Moderate Risk
+STU2928,Female,18,6.3,72.0,58.8,50.9,49.7,No,Yes,6.2,Bachelor,Medium,56.7,52.5,Moderate Risk
+STU1660,Male,17,1.1,60.5,59.4,42.3,55.2,No,No,7.2,High School,Medium,44.8,58.6,Moderate Risk
+STU2373,Male,21,2.9,66.2,87.8,57.0,67.7,Yes,Yes,4.1,Associate,High,40.2,61.2,Low Risk
+STU1464,Male,21,2.9,73.8,73.7,38.8,63.1,Yes,Yes,6.4,High School,Low,52.5,62.1,Moderate Risk
+STU2350,Female,21,5.3,67.2,72.2,61.7,66.3,Yes,Yes,4.6,Doctorate,Low,64.7,67.7,Low Risk
+STU1187,Male,19,4.8,79.8,66.2,76.2,56.8,Yes,Yes,6.1,Doctorate,Medium,74.4,78.2,Low Risk
+STU2148,Male,22,3.0,56.7,46.5,41.0,20.0,No,No,7.1,Associate,Medium,52.8,41.3,High Risk
+STU2225,Female,19,4.3,72.5,63.5,52.6,61.7,Yes,Yes,7.6,High School,Medium,58.6,67.2,Low Risk
+STU1609,Male,19,0.8,57.7,53.1,33.8,42.1,Yes,No,8.3,Bachelor,Medium,56.8,43.4,High Risk
+STU1144,Female,19,4.2,76.6,68.8,69.5,57.7,No,Yes,7.0,Master,Medium,70.2,67.5,Moderate Risk
+STU1752,Male,17,2.6,58.5,62.2,48.6,45.3,Yes,Yes,6.8,Associate,Low,71.9,52.8,Moderate Risk
+STU2535,Female,22,2.5,68.1,63.0,40.6,45.5,No,Yes,6.5,Bachelor,Medium,63.4,46.3,High Risk
+STU1982,Male,18,4.9,61.1,68.3,55.3,56.7,No,No,8.3,Bachelor,High,89.6,65.8,Moderate Risk
+STU1198,Male,22,3.1,49.5,64.9,43.1,48.3,No,Yes,6.1,Bachelor,Medium,60.8,56.4,Moderate Risk
+STU2634,Male,17,4.1,51.8,81.3,62.3,62.7,Yes,Yes,6.7,Bachelor,Medium,50.3,65.9,Moderate Risk
+STU1884,Female,17,1.3,75.0,60.0,55.0,57.4,No,Yes,6.1,Bachelor,High,54.1,63.9,Moderate Risk
+STU1280,Male,22,3.4,67.4,58.2,42.8,38.1,No,Yes,8.4,Associate,Low,59.2,60.7,Moderate Risk
+STU1294,Female,17,2.6,72.6,77.7,65.0,62.6,No,Yes,8.1,Associate,Low,66.0,65.5,Moderate Risk
+STU2872,Female,21,4.6,70.8,91.1,57.3,67.6,Yes,Yes,6.1,Bachelor,Medium,66.6,72.4,Moderate Risk
+STU1401,Female,19,3.1,65.9,70.1,48.9,50.6,No,Yes,5.4,Associate,Medium,46.6,46.8,Moderate Risk
+STU1123,Female,20,3.2,58.2,77.1,59.9,45.3,No,Yes,7.0,Associate,High,64.8,60.0,Moderate Risk
+STU2208,Female,19,1.6,45.0,49.8,32.3,38.7,Yes,Yes,7.2,Bachelor,Low,36.5,36.7,High Risk
+STU1203,Female,22,1.3,48.3,60.4,38.5,32.4,Yes,Yes,5.4,High School,Low,40.3,45.7,High Risk
+STU2463,Female,20,3.9,71.0,70.6,64.0,62.6,Yes,Yes,8.8,Bachelor,Low,51.6,74.1,Moderate Risk
+STU1836,Female,19,1.6,54.1,52.6,40.8,27.5,Yes,Yes,7.7,Master,Medium,19.6,38.7,High Risk
+STU1247,Female,22,4.2,67.0,65.7,50.5,49.0,No,No,6.6,High School,Medium,52.0,53.2,Moderate Risk
+STU2440,Male,19,5.9,67.0,64.6,53.6,58.0,Yes,Yes,6.5,Bachelor,Medium,72.2,66.0,Low Risk
+STU2734,Female,18,2.7,55.7,50.2,39.3,61.6,No,Yes,6.8,Bachelor,Medium,46.9,55.7,Moderate Risk
+STU2799,Female,18,1.1,49.3,40.9,24.6,30.8,No,Yes,5.6,High School,Medium,39.4,35.2,High Risk
+STU2952,Female,21,8.0,95.3,92.7,86.8,85.4,Yes,No,8.2,Bachelor,Low,71.2,99.9,Low Risk
+STU2708,Female,19,4.3,63.7,71.3,51.9,50.9,Yes,Yes,5.8,High School,High,54.5,75.7,Moderate Risk
+STU2931,Male,19,4.1,75.0,65.4,45.5,57.6,,Yes,8.7,Bachelor,Medium,80.0,67.3,Moderate Risk
+STU2154,Male,22,2.6,51.7,55.1,48.3,50.4,Yes,Yes,6.5,Doctorate,Low,37.9,50.0,Moderate Risk
+STU2662,Male,17,4.3,80.1,74.4,48.2,61.7,Yes,Yes,6.5,Bachelor,Low,65.8,65.5,Low Risk
+STU2427,Female,17,4.4,77.0,68.0,50.2,57.5,Yes,Yes,6.3,Bachelor,Low,45.6,57.0,Moderate Risk
+STU1385,Male,20,3.2,57.4,47.8,46.6,34.6,No,Yes,6.9,Bachelor,Low,51.0,52.9,Moderate Risk
+STU2804,Female,17,8.0,86.8,73.4,75.1,74.0,No,Yes,7.3,Associate,Low,80.5,91.0,Low Risk
+STU2760,Male,17,3.5,85.8,67.7,61.1,53.7,Yes,Yes,5.5,High School,Medium,57.2,58.4,Low Risk
+STU1855,Female,18,4.1,71.7,77.2,67.4,72.7,No,Yes,6.6,High School,Low,45.7,71.9,Low Risk
+STU2590,Male,20,3.6,66.4,68.8,58.4,48.2,No,Yes,5.1,Associate,Medium,69.7,68.9,Moderate Risk
+STU1220,Male,22,2.4,61.2,71.8,44.2,59.5,Yes,Yes,6.4,Master,Medium,58.6,58.0,Moderate Risk
+STU1642,Female,20,6.4,82.3,75.4,62.1,54.1,Yes,Yes,6.2,High School,Low,90.9,73.5,Low Risk
+STU1002,Male,21,2.2,46.2,62.6,40.1,49.9,No,Yes,8.9,Associate,Low,45.2,56.8,High Risk
+STU1113,Male,20,2.9,66.5,47.3,37.5,48.8,Yes,Yes,5.9,Bachelor,Medium,77.5,55.0,Moderate Risk
+STU1699,Female,19,4.2,82.6,77.8,56.9,78.4,No,Yes,7.2,Bachelor,Medium,73.8,78.6,Low Risk
+STU2970,Female,20,2.9,69.7,68.8,48.2,46.5,No,Yes,6.8,Associate,Low,42.9,60.8,Moderate Risk
+STU1952,Male,20,4.2,75.5,79.2,60.9,50.0,No,Yes,7.3,Associate,Medium,59.0,62.8,Moderate Risk
+STU2649,Male,18,2.4,68.8,62.7,31.9,51.2,No,Yes,8.9,Bachelor,High,60.7,57.1,Moderate Risk
+STU2637,Female,19,1.5,59.3,61.4,47.5,44.2,Yes,Yes,7.6,Bachelor,High,58.5,61.4,High Risk
+STU2794,Male,20,3.1,70.3,53.7,59.7,56.3,Yes,Yes,8.4,Master,Medium,51.8,53.6,Moderate Risk
+STU2411,Female,21,3.6,64.2,62.4,39.7,50.2,No,Yes,7.3,Associate,High,69.2,60.9,Moderate Risk
+STU2410,Male,21,2.2,51.4,55.0,38.6,43.2,No,Yes,7.1,Associate,Low,31.3,42.1,High Risk
+STU2534,Female,20,3.1,66.9,63.7,46.3,48.8,No,Yes,6.8,Bachelor,High,56.8,47.1,Moderate Risk
+STU2292,Female,17,3.6,56.4,62.9,44.8,48.0,Yes,Yes,6.3,Bachelor,Low,59.3,56.4,Moderate Risk
+STU2857,Male,19,1.6,65.1,64.7,36.3,56.2,No,No,8.1,High School,High,68.3,63.5,Moderate Risk
+STU1442,Other,21,1.7,54.8,75.0,50.2,49.8,Yes,Yes,7.6,Master,High,27.4,46.5,Moderate Risk
+STU2521,Female,17,4.8,79.3,69.9,62.4,51.9,No,Yes,7.3,Bachelor,Medium,76.2,68.9,Low Risk
+STU2137,Male,21,,48.0,70.5,47.2,57.8,No,Yes,8.4,Bachelor,High,38.7,60.8,High Risk
+STU2716,Other,17,4.8,81.0,65.3,71.6,65.0,Yes,Yes,6.3,Bachelor,Low,89.3,76.6,Low Risk
+STU2257,Female,19,3.8,73.4,76.7,46.2,66.8,No,Yes,8.9,Associate,Medium,60.2,64.7,Moderate Risk
+STU2913,Other,17,4.8,66.9,61.6,61.5,47.7,Yes,Yes,7.1,High School,Medium,50.4,60.1,Moderate Risk
+STU2632,Female,21,2.5,55.4,66.6,52.1,55.3,No,Yes,7.2,Bachelor,Low,48.9,58.5,Moderate Risk
+STU2696,Female,22,1.7,67.7,54.6,35.8,33.2,Yes,Yes,9.7,Bachelor,High,61.7,41.6,High Risk
+STU2398,Female,22,5.0,77.0,76.2,55.6,54.3,No,Yes,7.0,Associate,Medium,68.8,71.9,Moderate Risk
+STU1664,Female,21,3.6,75.1,70.3,65.1,53.4,Yes,Yes,7.0,Bachelor,Medium,46.7,58.8,Moderate Risk
+STU2884,Male,21,1.6,59.0,53.9,45.4,34.9,No,Yes,10.0,Doctorate,Low,48.0,44.4,High Risk
+STU2258,Male,17,5.4,80.5,60.7,61.8,55.0,No,Yes,8.1,Associate,Medium,77.4,62.6,Low Risk
+STU2840,Female,22,4.1,83.3,79.6,66.5,56.1,Yes,No,6.7,Master,Medium,72.4,75.7,Low Risk
+STU2701,Male,22,1.7,83.6,92.8,68.1,70.6,Yes,Yes,5.5,Bachelor,Medium,58.9,69.6,Low Risk
+STU1318,Female,22,1.8,50.3,44.9,42.7,36.2,Yes,Yes,7.8,High School,Medium,42.1,34.7,High Risk
+STU1649,Male,21,1.7,65.1,63.6,44.6,49.9,No,No,7.9,Bachelor,Medium,32.4,49.6,Moderate Risk
+STU2435,Female,22,6.7,70.4,70.9,64.3,59.4,Yes,Yes,5.4,Bachelor,Medium,84.8,73.1,Low Risk
+STU2480,Female,19,8.0,78.7,94.0,83.0,78.5,No,Yes,7.6,Master,Low,94.9,84.0,Low Risk
+STU1710,Male,20,3.5,75.1,69.5,55.3,38.5,Yes,Yes,5.8,High School,Medium,61.7,63.4,Moderate Risk
+STU2383,Male,17,4.0,71.9,75.1,59.1,51.3,No,Yes,6.7,High School,Low,59.5,68.8,Moderate Risk
+STU2283,Male,17,2.6,67.4,68.3,54.2,53.1,Yes,Yes,6.5,High School,Low,62.7,60.4,Moderate Risk
+STU2769,Female,20,3.0,63.9,71.4,49.2,57.1,Yes,Yes,6.7,Master,Medium,76.3,63.2,Moderate Risk
+STU1973,Male,22,4.6,66.7,75.6,59.4,75.0,No,Yes,6.0,Master,Low,38.5,73.5,Low Risk
+STU1628,Male,22,2.3,64.0,69.1,47.5,49.7,Yes,No,7.0,Master,High,61.3,51.9,Moderate Risk
+STU1633,Male,17,7.3,85.8,91.4,87.4,85.4,No,Yes,7.5,Master,Medium,88.7,99.5,Low Risk
+STU2307,Male,21,1.0,54.6,62.1,44.6,31.0,No,Yes,8.4,High School,Medium,33.6,46.0,High Risk
+STU2401,Female,19,3.1,68.2,59.6,42.7,56.7,Yes,Yes,6.6,Bachelor,Medium,52.5,58.8,High Risk
+STU2409,Male,19,4.0,60.1,74.2,55.2,55.8,No,Yes,7.8,Bachelor,Low,45.9,68.8,Moderate Risk
+STU2249,Male,21,3.0,46.7,78.2,38.7,57.7,Yes,Yes,7.5,Bachelor,High,42.1,53.1,Moderate Risk
+STU3005,Female,22,3.1,62.3,55.1,58.6,57.4,No,Yes,6.4,Associate,High,63.0,49.2,Moderate Risk
+STU2255,Male,22,3.6,56.6,61.2,54.1,43.9,Yes,Yes,7.2,Master,Medium,51.6,48.3,Moderate Risk
+STU2497,Male,19,2.1,71.0,,30.3,27.4,Yes,Yes,7.6,Master,Medium,67.7,45.6,High Risk
+STU2372,Female,21,2.9,50.7,53.1,28.7,36.2,No,Yes,5.7,High School,Medium,33.9,41.3,High Risk
+STU2530,Male,22,4.2,61.2,69.3,65.7,46.9,No,Yes,6.1,High School,Medium,47.5,56.7,Moderate Risk
+STU2664,Male,18,8.0,71.2,67.6,82.9,51.1,No,Yes,8.3,Associate,Medium,91.6,78.1,Low Risk
+STU2355,Female,21,1.6,64.0,86.1,53.3,68.0,Yes,Yes,6.1,Associate,Low,49.2,64.8,Moderate Risk
+STU2822,Female,21,3.3,83.3,71.2,58.5,54.3,No,Yes,9.0,High School,Low,50.6,68.0,Moderate Risk
+STU2978,Female,22,2.6,69.5,64.2,41.9,50.6,No,Yes,6.1,Bachelor,Medium,40.6,56.0,Moderate Risk
+STU2951,Female,18,3.0,73.9,68.1,42.0,43.0,Yes,Yes,6.8,Associate,Low,41.2,60.9,Moderate Risk
+STU2644,Male,18,1.9,58.9,83.1,46.1,58.8,No,Yes,6.9,Associate,Medium,44.3,59.9,Moderate Risk
+STU2898,Female,22,2.0,49.0,61.3,32.1,47.1,No,Yes,7.0,Master,Low,23.2,47.1,High Risk
+STU1796,Male,17,2.8,53.9,54.0,55.0,51.3,Yes,Yes,8.3,Master,Medium,48.3,52.2,Moderate Risk
+STU1646,Male,17,1.6,62.0,63.6,49.7,49.5,Yes,Yes,6.9,High School,High,75.9,55.0,Moderate Risk
+STU2013,Male,22,4.1,66.7,69.3,40.4,41.8,Yes,Yes,7.6,Associate,Medium,47.9,50.1,High Risk
+STU2888,Female,21,2.8,62.7,51.6,51.6,54.4,Yes,Yes,6.0,Bachelor,Medium,44.9,49.5,Moderate Risk
+STU1557,Female,17,2.6,72.7,63.7,48.7,65.2,Yes,Yes,6.7,Bachelor,Medium,56.3,63.5,Moderate Risk
+STU1682,Female,18,3.0,54.9,34.8,44.6,37.9,Yes,Yes,7.3,High School,Low,46.5,45.8,High Risk
+STU1578,Male,18,4.1,77.8,68.6,52.0,71.6,Yes,No,8.1,Associate,Medium,60.7,68.2,Low Risk
+STU2820,Female,17,3.8,59.1,51.8,51.1,38.0,Yes,Yes,6.2,Bachelor,Medium,44.5,49.7,High Risk
+STU2110,Female,20,7.0,83.4,91.7,73.5,78.8,Yes,Yes,5.4,Master,Medium,77.5,88.9,Low Risk
+STU2267,Female,20,3.2,87.9,69.7,71.5,58.6,No,Yes,8.2,Bachelor,Low,57.8,65.7,Low Risk
+STU2723,Female,17,1.5,61.1,49.8,34.7,44.2,Yes,Yes,4.9,Bachelor,Medium,41.5,48.7,High Risk
+STU2184,Male,22,8.0,80.4,78.1,79.5,75.4,Yes,Yes,8.8,Associate,Low,91.4,89.8,Low Risk
+STU1525,Male,19,1.1,77.4,65.4,29.9,48.9,Yes,No,5.4,High School,Medium,42.4,50.9,Moderate Risk
+STU2060,Male,21,3.3,75.4,78.0,48.6,58.0,Yes,Yes,6.8,Associate,Medium,61.8,60.4,Moderate Risk
+STU1541,Male,18,3.5,55.8,68.0,38.2,54.3,Yes,No,7.5,Associate,Low,50.9,63.1,Moderate Risk
+STU2195,Female,18,3.0,72.6,79.3,58.0,71.0,Yes,Yes,6.9,Associate,Low,53.3,71.3,Moderate Risk
+STU2679,Female,17,3.4,62.1,67.8,50.1,60.6,Yes,Yes,7.3,Bachelor,Medium,63.9,65.2,Moderate Risk
+STU1749,Male,17,1.3,76.2,59.2,48.4,47.2,No,Yes,10.0,Bachelor,Medium,61.4,60.7,Moderate Risk
+STU2901,Male,17,4.3,48.1,61.2,57.7,49.7,Yes,Yes,7.6,Master,Low,61.9,52.3,Moderate Risk
+STU2431,Female,17,6.1,74.7,74.5,52.7,65.9,No,Yes,5.0,Associate,Medium,59.5,68.1,Low Risk
+STU1485,Male,19,6.8,90.5,93.6,77.1,68.2,No,Yes,9.5,Associate,Medium,81.9,82.5,Low Risk
+STU2758,Female,22,2.1,81.9,65.3,52.7,55.7,Yes,Yes,7.0,Bachelor,High,57.5,59.4,Moderate Risk
+STU1096,Male,20,3.3,63.8,82.3,69.4,64.7,Yes,Yes,7.9,High School,Medium,61.5,70.3,Moderate Risk
+STU2021,Male,22,2.7,65.1,63.0,43.5,46.2,No,Yes,7.2,Master,Low,45.9,51.6,Moderate Risk
+STU1564,Female,20,3.3,62.3,71.3,53.9,60.4,No,Yes,8.8,Bachelor,Low,55.7,69.3,Moderate Risk
+STU2265,Female,20,4.4,63.0,52.9,56.2,44.4,No,Yes,6.1,Associate,Medium,52.8,60.6,Moderate Risk
+STU1743,Male,20,5.3,92.2,77.7,55.1,57.0,Yes,Yes,8.1,Associate,High,74.6,74.9,Moderate Risk
+STU1864,Female,20,3.4,66.7,74.8,58.6,68.3,No,Yes,6.1,High School,Low,31.4,65.4,Moderate Risk
+STU2599,Female,19,3.1,70.7,68.9,63.1,61.2,No,No,7.4,Bachelor,Medium,55.3,70.7,Low Risk
+STU2715,Female,19,4.0,77.6,71.4,45.9,66.7,Yes,Yes,5.6,Bachelor,High,78.8,65.0,Low Risk
+STU2485,Female,17,3.5,48.7,58.6,56.5,55.7,No,Yes,8.7,Bachelor,Medium,12.0,52.0,Moderate Risk
+STU1892,Male,18,5.7,71.8,73.7,68.5,66.2,No,Yes,6.3,High School,Medium,62.8,74.7,Low Risk
+STU2578,Male,18,6.8,78.7,78.1,76.3,68.6,No,Yes,7.6,Bachelor,Medium,70.6,78.6,Low Risk
+STU2039,Female,18,2.4,71.2,72.6,46.8,62.8,No,Yes,5.9,Master,Medium,37.0,56.9,Moderate Risk
+STU1207,Female,20,2.1,54.4,53.2,29.0,28.7,Yes,Yes,6.3,Master,Medium,63.6,37.0,High Risk
+STU1393,Female,22,2.6,50.3,54.3,38.0,34.5,No,Yes,7.0,Bachelor,High,48.6,46.6,High Risk
+STU1795,Female,17,1.4,68.1,58.3,51.5,56.8,No,Yes,7.4,High School,Low,51.8,56.9,Moderate Risk
+STU1871,Female,21,4.1,73.7,67.4,71.4,67.5,Yes,No,8.2,Doctorate,Low,56.8,71.4,Low Risk
+STU1398,Female,20,0.8,70.7,70.9,37.8,60.3,Yes,Yes,7.2,Associate,High,25.9,54.5,Moderate Risk
+STU1767,Male,22,8.0,87.9,87.4,68.1,73.3,Yes,Yes,6.8,Bachelor,Low,100.0,90.9,Low Risk
+STU2890,Other,18,5.2,88.7,82.1,63.4,69.5,No,Yes,7.7,High School,High,82.5,76.8,Low Risk
+STU2242,Male,17,3.4,54.6,47.6,34.9,34.8,Yes,Yes,6.4,Bachelor,Medium,57.9,41.5,Moderate Risk
+STU2029,Female,20,2.2,59.8,58.9,41.0,42.3,Yes,Yes,6.0,Bachelor,Medium,62.3,46.7,Moderate Risk
+STU2793,Male,21,2.5,84.0,53.7,34.2,45.0,No,Yes,6.3,Bachelor,Medium,41.0,60.0,Moderate Risk
+STU1643,Female,21,1.2,59.7,71.2,42.5,61.3,Yes,Yes,7.0,High School,Medium,52.0,52.3,Moderate Risk
+STU2942,Female,20,1.9,76.1,74.8,54.7,58.2,Yes,Yes,7.7,Doctorate,Low,55.7,66.4,Moderate Risk
+STU1613,Male,18,4.2,46.6,62.8,52.4,41.2,Yes,Yes,7.6,Associate,Medium,51.4,57.8,Moderate Risk
+STU2763,Female,22,8.0,90.1,98.0,80.8,88.5,Yes,Yes,7.0,Bachelor,Low,100.0,100.0,Low Risk
+STU1961,Female,17,3.7,52.6,48.9,44.9,27.7,Yes,Yes,6.4,Master,Medium,67.8,44.5,High Risk
+STU2571,Male,17,5.1,74.1,83.6,73.7,65.4,Yes,Yes,7.0,Master,Low,72.6,77.7,Low Risk
+STU1726,Male,22,1.4,45.0,50.9,43.3,40.0,Yes,Yes,8.2,Bachelor,Medium,43.9,41.9,High Risk
+STU1684,Male,17,2.2,85.9,67.1,44.5,67.8,No,Yes,8.2,Master,Low,41.0,56.4,Moderate Risk
+STU1099,Female,20,2.8,60.9,63.5,48.4,54.3,No,Yes,6.4,High School,High,60.1,57.0,Moderate Risk
+STU1805,Female,22,4.9,70.2,81.1,55.9,55.5,Yes,Yes,7.2,Associate,Medium,87.8,63.6,Moderate Risk
+STU2752,Female,22,2.9,65.6,65.4,47.9,49.0,No,Yes,7.0,Bachelor,Low,38.7,54.6,Moderate Risk
+STU2598,Female,22,2.6,71.7,81.9,48.2,55.6,No,No,8.2,Bachelor,Medium,56.3,49.9,Moderate Risk
+STU1407,Female,21,3.7,73.0,80.5,61.5,76.3,No,Yes,6.4,Associate,Medium,80.3,72.0,Low Risk
+STU1503,Female,22,3.6,77.9,78.0,66.2,63.1,Yes,Yes,7.3,Associate,High,76.5,75.2,Moderate Risk
+STU2072,Female,20,4.1,76.2,81.5,71.7,70.0,Yes,Yes,8.3,Bachelor,High,66.9,83.4,Low Risk
+STU2057,Male,22,2.6,79.5,63.1,41.9,52.6,No,No,4.9,Bachelor,Medium,57.5,55.4,Moderate Risk
+STU1930,Female,21,4.4,52.9,72.6,58.2,55.7,Yes,No,7.4,Master,Low,55.4,65.2,Moderate Risk
+STU1780,Male,19,4.5,81.4,87.2,75.8,60.7,No,Yes,6.7,Master,High,62.9,77.4,Low Risk
+STU2864,Male,17,3.2,69.6,81.5,69.5,68.4,No,Yes,7.8,Associate,Medium,74.0,72.2,Low Risk
+STU1201,Male,20,1.0,61.2,55.0,41.5,51.0,No,Yes,7.0,Bachelor,Medium,46.7,57.7,Moderate Risk
+STU1135,Male,21,6.0,81.0,87.3,79.0,88.0,No,Yes,8.0,Bachelor,Low,82.0,88.9,Low Risk
+STU2052,Male,17,3.0,69.3,74.8,63.6,67.8,No,No,5.0,High School,Low,58.6,73.2,Moderate Risk
+STU1041,Female,22,4.3,73.4,84.3,63.7,57.7,Yes,Yes,6.7,Bachelor,Low,55.0,72.5,Moderate Risk
+STU2018,Male,19,4.8,75.5,67.4,73.8,55.7,No,Yes,8.3,Master,Medium,67.9,73.6,Low Risk
+STU1231,Male,17,3.0,80.0,63.7,63.3,57.0,No,No,6.7,High School,Low,53.9,71.9,Moderate Risk
+STU2514,Female,21,2.9,68.4,66.6,43.0,55.1,No,Yes,8.0,Master,Low,54.1,55.5,Moderate Risk
+STU2797,Male,17,2.0,53.6,57.3,29.7,38.4,Yes,Yes,8.0,High School,Medium,51.0,47.2,High Risk
+STU1379,Male,20,1.8,55.8,62.9,39.6,48.4,No,Yes,7.2,Master,Medium,44.4,55.7,High Risk
+STU1289,Female,17,6.0,70.6,75.8,69.8,68.8,No,Yes,6.6,Doctorate,Medium,75.2,79.3,Low Risk
+STU1419,Male,17,1.3,45.7,48.0,35.7,41.8,Yes,Yes,8.5,Bachelor,Medium,47.8,37.6,High Risk
+STU2699,Male,19,2.2,52.4,53.6,53.5,45.5,Yes,Yes,5.7,Bachelor,Medium,42.7,48.6,High Risk
+STU1392,Female,22,5.3,72.4,75.4,76.6,75.2,Yes,Yes,4.4,Bachelor,High,53.6,71.4,Low Risk
+STU1593,Female,17,2.7,53.7,59.1,44.4,49.9,No,No,7.0,Associate,Medium,50.9,54.4,Moderate Risk
+STU2523,Female,18,3.5,45.0,60.0,48.9,40.2,No,Yes,8.3,Bachelor,High,49.2,61.1,Moderate Risk
+STU2163,Female,19,8.0,74.7,64.6,65.8,69.4,Yes,Yes,8.3,Master,Medium,67.7,71.1,Low Risk
+STU2087,Male,21,2.8,58.9,58.7,47.3,41.9,No,Yes,5.6,High School,Low,51.0,45.8,High Risk
+STU2496,Male,18,2.5,59.7,50.9,51.4,51.0,Yes,Yes,5.7,Master,High,28.9,49.9,High Risk
+STU1648,Male,18,,60.2,61.4,49.7,58.4,Yes,Yes,4.9,Associate,Medium,47.1,52.2,Moderate Risk
+STU2153,Male,19,4.6,80.5,76.3,63.9,79.4,No,Yes,6.6,Associate,Medium,74.4,78.4,Low Risk
+STU2368,Male,22,5.0,69.2,81.6,57.8,66.9,Yes,Yes,7.9,High School,Medium,52.3,63.3,Low Risk
+STU1521,Male,17,8.0,79.8,76.0,82.3,77.6,No,Yes,8.6,High School,Low,75.4,91.2,Low Risk
+STU2863,Female,17,4.7,74.3,95.5,53.0,80.6,No,Yes,9.0,High School,Medium,46.3,66.5,Low Risk
+STU2881,Male,21,2.8,62.1,57.8,51.1,45.2,No,Yes,6.3,Bachelor,Low,65.1,52.0,Moderate Risk
+STU1065,Female,19,3.5,62.8,51.9,46.7,47.0,No,Yes,6.5,Master,High,61.9,54.7,Moderate Risk
+STU2837,Female,17,2.3,66.3,74.0,47.6,59.9,No,Yes,6.8,Bachelor,Medium,50.0,58.7,Moderate Risk
+STU1015,Female,21,3.0,47.8,59.8,44.2,41.9,No,Yes,6.3,Bachelor,High,71.2,53.5,Moderate Risk
+STU2181,Male,17,2.0,56.5,57.1,40.3,48.7,No,No,5.9,Associate,Medium,58.1,52.7,Moderate Risk
+STU2065,Female,17,4.0,93.6,83.8,65.4,67.5,Yes,Yes,6.0,High School,Low,65.7,73.5,Low Risk
+STU1493,Female,17,5.5,72.5,76.8,67.0,61.9,Yes,Yes,7.0,Associate,Medium,74.1,75.6,Low Risk
+STU1380,Female,22,2.1,53.4,50.5,46.4,41.5,No,Yes,6.1,Master,Low,46.9,50.2,High Risk
+STU1188,Male,18,1.5,72.0,61.9,40.7,48.3,Yes,Yes,7.7,Bachelor,Low,51.7,42.1,Moderate Risk
+STU1764,Male,22,5.0,68.1,70.7,53.1,57.0,No,Yes,7.6,Bachelor,Medium,76.6,62.0,Moderate Risk
+STU1217,Female,21,7.1,72.8,89.1,64.8,71.9,Yes,Yes,7.2,,Low,76.1,75.3,Low Risk
+STU1792,Male,21,2.0,48.7,56.6,37.7,30.6,Yes,Yes,5.8,Doctorate,Medium,60.3,41.4,High Risk
+STU2077,Female,18,1.5,63.4,67.2,33.1,45.8,Yes,Yes,6.1,Bachelor,Medium,71.4,42.1,High Risk
+STU1879,Female,19,6.2,52.8,54.6,49.8,53.9,No,Yes,6.8,Master,Medium,45.9,62.5,Moderate Risk
+STU1338,Male,22,3.3,78.7,77.4,73.1,66.9,No,Yes,6.1,High School,Medium,55.6,68.5,Low Risk
+STU2773,Male,21,3.7,71.6,64.2,66.2,55.6,Yes,Yes,5.7,High School,Low,50.1,61.0,Moderate Risk
+STU1720,Male,20,5.1,82.6,70.5,75.6,61.3,No,Yes,7.3,Doctorate,Low,61.0,71.3,Low Risk
+STU2749,Male,22,4.3,71.9,49.3,53.7,49.7,Yes,Yes,7.4,Bachelor,Medium,63.4,63.7,Moderate Risk
+STU1296,Male,20,1.9,54.0,60.9,39.6,45.9,No,Yes,7.4,Master,Low,57.8,48.0,High Risk
+STU2726,Female,21,6.2,64.7,73.3,63.0,59.8,Yes,No,6.0,Associate,Medium,79.1,72.4,Low Risk
+STU2017,Female,18,7.5,69.1,97.3,78.7,65.9,No,Yes,6.2,Associate,Low,77.1,86.9,Low Risk
+STU2276,Female,18,4.0,75.6,52.1,50.1,54.5,No,Yes,6.7,Bachelor,Medium,71.0,57.1,Moderate Risk
+STU2751,Male,19,3.7,82.6,80.3,62.4,67.1,No,Yes,6.9,Bachelor,Medium,96.5,76.8,Moderate Risk
+STU2486,Female,20,2.4,59.3,51.8,50.8,50.1,No,Yes,5.5,Bachelor,Low,53.7,51.6,Moderate Risk
+STU1456,Male,19,6.4,94.1,98.0,79.7,87.3,No,Yes,5.5,Associate,Medium,86.2,95.0,Low Risk
+STU1213,Male,19,2.4,71.6,61.4,61.5,53.5,Yes,Yes,7.5,Associate,Low,55.9,64.3,Moderate Risk
+STU1816,Male,21,5.0,76.5,73.2,64.1,76.2,No,Yes,5.4,Bachelor,Low,62.4,75.5,Low Risk
+STU2887,Female,17,4.9,61.4,57.4,53.4,59.8,No,Yes,6.8,Bachelor,High,58.4,61.9,Moderate Risk
+STU1270,Female,19,2.9,64.9,61.2,55.2,56.7,No,Yes,5.8,Master,Medium,35.0,50.2,Moderate Risk
+STU1996,Female,19,1.3,47.1,59.8,48.2,49.4,No,Yes,6.7,Associate,Low,35.0,49.1,Moderate Risk
+STU1202,Female,18,2.9,53.0,55.5,28.8,31.9,Yes,No,4.7,Associate,High,48.5,48.2,High Risk
+STU1162,Male,21,6.8,61.2,77.8,66.9,59.0,No,Yes,5.6,Bachelor,Low,75.0,74.7,Low Risk
+STU2580,Male,19,3.0,50.0,72.7,46.2,39.9,Yes,Yes,6.5,Doctorate,Medium,40.8,51.3,High Risk
+STU1730,Female,19,3.0,69.8,73.7,41.1,64.9,No,No,7.2,Bachelor,Low,47.8,66.7,Moderate Risk
+STU1402,Male,19,2.4,79.7,68.9,45.5,47.0,No,Yes,7.0,Associate,Medium,66.1,57.1,Moderate Risk
+STU1703,Female,22,5.0,62.1,94.3,69.4,71.1,No,Yes,7.2,Associate,Medium,53.7,61.3,Low Risk
+STU2501,Male,20,3.6,61.3,58.2,46.0,47.0,No,Yes,5.6,Associate,Low,48.3,49.4,Moderate Risk
+STU2846,Female,18,1.9,77.6,62.5,38.8,44.5,No,No,6.9,High School,Medium,58.2,54.3,High Risk
+STU2796,Female,18,5.4,87.5,89.1,57.4,75.5,No,Yes,7.7,High School,Medium,80.2,88.0,Low Risk
+STU2130,Female,19,8.0,82.5,85.8,88.6,83.6,Yes,Yes,6.1,High School,Medium,71.7,96.7,Low Risk
+STU1566,Male,18,1.7,57.2,50.4,42.3,65.3,No,Yes,6.2,Associate,Medium,63.4,59.1,Moderate Risk
+STU2414,Female,17,3.4,75.5,70.3,66.1,61.4,No,Yes,5.7,Bachelor,Medium,57.2,69.2,Low Risk
+STU2022,Female,17,1.9,63.1,53.1,48.1,50.7,Yes,Yes,7.0,Master,Medium,60.4,52.8,Moderate Risk
+STU2026,Female,21,3.4,61.8,67.3,33.5,41.2,No,Yes,9.4,Bachelor,Low,51.1,50.6,High Risk
+STU2412,Female,22,6.5,68.7,66.5,70.1,58.9,No,Yes,5.1,High School,Medium,81.3,75.1,Moderate Risk
+STU2896,Male,17,1.4,74.0,46.8,42.0,32.0,No,Yes,6.6,Master,Medium,63.9,48.8,High Risk
+STU2586,Female,22,1.4,45.0,48.9,37.8,44.8,No,Yes,8.5,Bachelor,High,46.3,53.9,High Risk
+STU2956,Male,21,3.2,78.3,72.7,49.7,66.2,Yes,No,8.1,Associate,Low,90.5,60.1,Moderate Risk
+STU2105,Other,19,1.4,59.5,54.9,50.6,57.2,No,No,6.5,Master,Low,59.9,57.1,Moderate Risk
+STU1206,Female,19,2.9,80.1,74.8,61.5,56.7,No,Yes,6.3,Associate,High,60.4,68.8,Moderate Risk
+STU1035,Male,21,5.4,74.8,76.1,65.1,59.9,,Yes,4.4,High School,Low,97.2,73.6,Low Risk
+STU2967,Female,20,2.6,71.2,61.7,42.1,53.7,No,Yes,8.9,Bachelor,Medium,59.8,64.4,Moderate Risk
+STU1776,Female,22,2.1,60.0,61.4,43.9,53.2,No,Yes,7.0,Bachelor,Medium,22.3,46.0,Moderate Risk
+STU1509,Male,20,6.7,78.8,87.7,78.3,75.8,No,Yes,5.8,High School,Medium,66.2,90.0,Low Risk
+STU2452,Male,17,1.4,45.0,66.8,33.8,47.5,No,Yes,5.2,Associate,Low,16.2,46.3,High Risk
+STU2479,Male,19,3.2,70.5,86.0,65.3,61.9,No,Yes,5.3,Bachelor,Medium,51.2,72.7,Low Risk
+STU2327,Female,21,5.3,76.6,71.0,69.0,69.3,Yes,Yes,,Bachelor,Low,69.5,73.3,Low Risk
+STU2391,Female,21,1.8,66.0,46.8,46.7,45.2,No,No,7.5,Bachelor,Low,46.3,47.0,High Risk
+STU1092,Male,19,2.6,55.2,75.6,41.1,60.3,No,Yes,6.9,Master,Medium,32.6,56.3,Moderate Risk
+STU2364,Male,22,0.9,45.0,66.8,44.7,36.0,No,Yes,8.2,Bachelor,High,45.2,45.7,High Risk
+STU1898,Male,21,5.7,72.6,81.2,69.7,73.9,No,Yes,6.6,High School,Low,76.2,72.0,Low Risk
+STU1565,Female,17,2.3,79.2,49.1,44.6,39.9,Yes,Yes,6.4,Bachelor,Medium,39.6,43.3,Moderate Risk
+STU2370,Female,20,3.8,77.1,75.8,58.5,49.7,No,Yes,5.0,Master,High,59.3,64.6,Moderate Risk
+STU1777,Female,17,6.1,65.6,77.8,55.0,51.6,No,Yes,7.9,Bachelor,Medium,57.6,66.9,Moderate Risk
+STU1242,Male,17,1.1,70.0,57.6,44.1,52.2,No,Yes,7.5,Associate,Medium,47.2,49.4,Moderate Risk
+STU1014,Female,18,5.0,69.5,56.3,61.6,53.1,No,Yes,7.4,High School,Low,75.3,69.3,Moderate Risk
+STU1316,Male,17,5.6,76.6,65.0,71.3,58.6,No,Yes,6.9,Bachelor,Medium,100.0,66.1,Low Risk
+STU1601,Female,19,1.4,53.3,39.3,32.9,31.8,No,Yes,6.4,Bachelor,High,43.2,36.8,High Risk
+STU1388,Female,19,2.6,78.4,74.0,52.6,68.5,No,Yes,5.2,Master,Medium,45.3,63.0,Moderate Risk
+STU2298,Female,21,2.0,55.5,53.0,44.9,47.0,No,Yes,7.2,Doctorate,Low,54.3,53.3,High Risk
+STU1167,Female,17,8.0,69.4,63.0,64.3,49.2,Yes,Yes,7.8,Bachelor,High,93.1,71.7,Low Risk
+STU1841,Female,17,3.6,67.0,65.4,50.0,51.6,Yes,Yes,6.8,,Medium,60.6,59.3,Moderate Risk
+STU1021,Male,20,2.8,67.8,66.8,43.7,38.7,No,Yes,5.8,Bachelor,Low,48.6,52.2,High Risk
+STU1647,Male,21,4.3,73.3,69.1,50.6,35.4,Yes,Yes,6.5,Bachelor,High,66.9,63.1,High Risk
+STU2843,Female,19,2.6,69.6,58.3,57.0,43.2,No,Yes,6.6,Bachelor,High,51.4,65.7,Moderate Risk
+STU2509,Male,19,2.0,64.6,81.4,53.7,66.1,No,Yes,6.4,Master,Low,52.5,73.1,Moderate Risk
+STU2155,Male,22,2.4,71.5,67.4,58.6,50.0,No,Yes,7.8,Bachelor,Medium,49.1,58.8,Moderate Risk
+STU2529,Male,18,3.0,70.3,62.6,41.2,48.4,No,Yes,5.9,Master,Medium,57.9,63.2,Moderate Risk
+STU1832,Female,18,5.7,68.5,86.7,64.8,62.6,No,Yes,8.3,High School,Low,60.5,67.2,Moderate Risk
+STU2268,Female,21,4.4,90.7,68.8,63.6,53.2,No,Yes,7.3,Doctorate,Medium,76.8,71.4,Moderate Risk
+STU2591,Male,19,3.8,73.8,66.7,42.6,36.9,Yes,No,6.9,High School,High,72.2,55.9,Moderate Risk
+STU2900,Male,19,5.8,95.2,75.4,72.5,70.1,No,Yes,6.5,Master,Medium,73.1,83.7,Low Risk
+STU1563,Female,20,3.0,75.7,65.5,56.8,44.2,Yes,No,6.8,Doctorate,Medium,68.9,61.5,Moderate Risk
+STU3004,Female,20,2.9,61.4,55.9,48.1,32.4,No,Yes,7.8,Bachelor,High,41.4,44.8,Moderate Risk
+STU1687,Male,21,2.5,60.9,62.6,35.6,47.7,Yes,Yes,8.7,High School,Medium,53.1,53.5,High Risk
+STU1958,Female,20,2.5,58.1,58.1,50.2,51.7,Yes,Yes,9.8,High School,Low,27.5,45.2,High Risk
+STU1190,Female,20,4.6,56.9,66.8,57.3,62.0,Yes,No,5.6,Associate,Medium,75.4,67.4,Moderate Risk
+STU2807,Male,21,3.2,65.7,59.1,54.3,56.4,No,Yes,8.1,Bachelor,Low,38.3,53.4,Moderate Risk
+STU1976,Female,21,6.5,63.4,72.2,74.1,62.2,Yes,Yes,5.5,Doctorate,Low,40.2,73.0,Moderate Risk
+STU1700,Female,22,2.7,75.5,62.6,42.5,53.3,No,No,7.4,Master,Low,62.2,56.6,Moderate Risk
+STU2500,Male,20,1.3,67.6,67.9,41.8,54.2,No,Yes,7.8,Bachelor,Medium,57.9,52.0,High Risk
+STU2706,Female,19,4.0,84.9,66.3,64.6,65.7,No,Yes,6.7,Associate,Medium,71.6,71.1,Moderate Risk
+STU1511,Male,20,8.0,98.5,75.2,82.7,78.3,No,Yes,6.1,Bachelor,Low,100.0,91.2,Low Risk
+STU2083,Female,18,3.3,61.6,58.2,52.2,41.7,Yes,Yes,6.4,Associate,High,63.8,59.9,Moderate Risk
+STU1475,Male,20,3.8,67.5,72.2,59.4,41.1,Yes,Yes,5.7,Master,Medium,46.9,59.1,Moderate Risk
+STU2585,Other,17,1.5,63.7,74.5,53.1,71.1,Yes,No,8.1,Associate,Low,58.1,60.0,Moderate Risk
+STU1857,Female,20,8.0,80.0,89.4,91.3,79.3,Yes,Yes,6.9,Associate,Medium,81.3,93.4,Low Risk
+STU1748,Male,21,2.9,60.5,,41.8,38.5,Yes,Yes,7.0,Bachelor,Medium,63.9,55.2,High Risk
+STU1253,Male,20,5.1,76.1,74.7,68.2,62.9,No,Yes,6.8,High School,High,63.6,78.2,Low Risk
+STU1022,Female,17,5.5,70.7,90.8,80.1,84.8,Yes,Yes,7.1,Bachelor,High,38.3,77.2,Low Risk
+STU2338,Male,18,,94.3,77.9,64.8,68.8,No,Yes,8.3,Bachelor,Low,82.5,76.0,Low Risk
+STU1460,Female,21,5.9,82.9,74.1,68.0,72.4,No,No,6.5,Bachelor,High,55.3,80.6,Low Risk
+STU2185,Female,22,4.4,79.4,67.7,66.9,66.2,Yes,Yes,6.1,High School,High,75.1,74.5,Low Risk
+STU1277,Male,17,3.3,62.1,77.3,49.7,51.3,Yes,Yes,6.0,Bachelor,Medium,64.1,59.0,Moderate Risk
+STU1956,Female,22,6.1,61.5,67.5,57.3,57.6,No,Yes,6.2,Bachelor,Medium,66.2,63.7,Moderate Risk
+STU2216,Female,20,1.9,70.7,67.2,49.1,58.4,No,Yes,9.1,High School,Medium,54.2,66.0,Moderate Risk
+STU1386,Male,18,3.0,49.3,72.7,58.7,55.3,Yes,Yes,7.4,Associate,Low,56.6,58.2,Moderate Risk
+STU1806,Male,22,1.8,69.2,41.4,31.6,37.2,Yes,Yes,7.8,High School,Medium,61.2,43.6,High Risk
+STU2438,Male,20,1.5,47.8,51.9,36.2,42.7,Yes,Yes,8.7,Associate,Medium,33.0,52.3,High Risk
+STU2516,Female,20,1.2,78.8,59.7,46.6,51.6,No,Yes,7.2,Associate,Medium,63.5,60.5,Moderate Risk
+STU1344,Female,21,4.4,65.3,47.7,52.3,32.3,Yes,No,5.0,Bachelor,Medium,67.6,54.2,Moderate Risk
+STU1770,Male,22,2.5,53.1,61.0,39.2,41.8,No,Yes,5.3,High School,Medium,39.5,39.5,High Risk
+STU2333,Female,18,1.6,59.0,61.8,40.4,50.7,Yes,Yes,8.9,High School,Medium,58.6,59.8,Moderate Risk
+STU2686,Male,18,1.6,56.6,64.0,45.4,56.1,No,Yes,6.1,Master,Medium,51.6,54.9,High Risk
+STU1131,Female,22,1.8,51.0,60.2,38.6,47.1,No,Yes,6.7,Bachelor,Low,30.4,45.9,Moderate Risk
+STU2688,Female,22,1.2,54.2,63.3,38.7,34.5,No,Yes,8.9,Bachelor,Medium,41.2,44.2,High Risk
+STU1872,Female,19,3.0,84.7,66.5,52.9,59.8,No,Yes,7.1,High School,Medium,66.1,69.2,Low Risk
+STU2124,Male,17,3.7,83.2,65.5,68.3,58.5,No,Yes,7.6,Associate,Medium,79.9,73.9,Low Risk
+STU2397,Female,18,4.8,58.0,74.7,55.6,60.1,Yes,Yes,6.9,Master,Medium,53.8,62.5,Moderate Risk
+STU1088,Male,17,4.1,66.2,80.7,53.0,46.1,No,Yes,7.6,Associate,Medium,87.1,65.7,Moderate Risk
+STU2483,Male,19,7.7,84.0,87.3,77.6,78.1,No,Yes,7.7,High School,Medium,84.1,87.9,Low Risk
+STU1331,Female,21,5.6,100.0,86.8,77.7,81.1,Yes,Yes,7.9,High School,Medium,82.9,90.1,Low Risk
+STU2239,Male,21,2.2,55.3,74.5,55.9,57.9,No,Yes,8.0,Doctorate,Low,38.6,64.6,Moderate Risk
+STU1467,Female,18,3.4,82.6,70.6,58.9,59.7,No,Yes,6.3,Bachelor,Low,68.9,65.7,Moderate Risk
+STU1122,Male,22,3.9,67.6,69.7,52.3,62.3,Yes,Yes,5.7,Bachelor,Medium,37.4,65.2,Moderate Risk
+STU2639,Other,18,3.6,66.6,61.6,55.8,48.6,Yes,Yes,7.9,Bachelor,Low,58.7,55.6,Moderate Risk
+STU2045,Male,19,6.9,72.9,85.5,67.1,69.9,No,Yes,8.6,Master,Low,69.9,79.7,Low Risk
+STU2725,Male,19,,48.6,51.6,32.1,40.1,Yes,Yes,6.7,Bachelor,Medium,52.9,38.8,High Risk
+STU2096,Female,18,1.6,59.8,49.2,41.0,34.3,No,No,9.0,Associate,Medium,42.6,41.2,High Risk
+STU2131,Male,22,,61.9,88.4,56.6,61.5,No,Yes,6.4,High School,Medium,67.0,63.6,Moderate Risk
+STU2295,Male,21,2.8,61.6,48.3,53.3,40.8,No,Yes,6.7,Associate,Low,54.5,61.4,High Risk
+STU1861,Male,18,6.0,76.2,69.7,70.4,60.8,Yes,Yes,5.8,Bachelor,Low,84.5,76.7,Low Risk
